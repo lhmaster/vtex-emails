@@ -1,0 +1,486 @@
+{
+	"package": null,
+	"subjectItemAttachment": {
+		"item": "Produto Teste  B Pro...",
+		"totalItems": 1
+	},
+	"cancellationReason": null,
+	"items": [
+		{
+			"additionalInfo": {
+				"categoriesIds": "/1000024/1000042/",
+				"productClusterId": "145,155,181,1255,1400,1406,1412,1414,1458,1672,1692",
+				"commercialConditionId": "1",
+				"dimension": {
+					"cubicweight": 1,
+					"height": 100,
+					"length": 50,
+					"weight": 500,
+					"width": 50
+				},
+				"brandName": "ADCOS",
+				"brandId": "1",
+				"offeringInfo": null,
+				"offeringType": null,
+				"offeringTypeId": null
+			},
+			"sellerSku": "2000265",
+			"priceTable": null,
+			"priceValidUntil": "2022-04-07T04:01:17Z",
+			"callCenterOperator": null,
+			"commission": 0,
+			"freightCommission": 0,
+			"taxCode": "",
+			"catalogProvider": "vrn:vtex.catalog-api-proxy:-:adcos:master:/proxy/authenticated/catalog/pvt/sku/stockkeepingunitbyid/2000265",
+			"costPrice": null,
+			"uniqueId": "4EC179DE824046529DBE062B192DA602",
+			"id": "2000265",
+			"productId": "2000233",
+			"productRefId": "",
+			"refId": "1234567891023",
+			"ean": "12345teste8910232",
+			"name": "Produto Teste  B Produto Teste B1",
+			"skuName": "Produto Teste B1",
+			"modalType": null,
+			"parentItemIndex": null,
+			"parentAssemblyBinding": null,
+			"assemblies": [],
+			"tax": 0,
+			"priceDefinitions": null,
+			"price": 3300,
+			"listPrice": 3300,
+			"manualPrice": null,
+			"manualPriceAppliedBy": null,
+			"sellingPrice": 3300,
+			"skuSpecifications": null,
+			"orderRewardStatus": null,
+			"rewardValue": 0,
+			"isGift": false,
+			"preSaleDate": null,
+			"productCategoryIds": "/1000024/1000042/",
+			"productCategories": {
+				"1000024": "Tratamento Capilar",
+				"1000042": "Restauração"
+			},
+			"quantity": 1,
+			"seller": "adcossp4011ppaulis",
+			"sellerChain": [
+				"adcossp4011ppaulis"
+			],
+			"imageUrl": "http://lojaadcos.vteximg.com.br/arquivos/ids/162117-90-90/produto-teste.png?v=637532563208700000",
+			"detailUrl": "/produto-teste/p",
+			"components": [],
+			"bundleItems": [],
+			"attachments": [],
+			"attachmentOfferings": [],
+			"offerings": [],
+			"priceTags": [],
+			"availability": "available",
+			"measurementUnit": "un",
+			"unitMultiplier": 1,
+			"manufacturerCode": ""
+		}
+	],
+	"sellers": [
+		{
+			"subSellerId": "1",
+			"fulfillmentEndpoint": "http://fulfillment.vtexcommerce.com.br/api/fulfillment?affiliateid=SLR&sc=1&an=adcossp4011ppaulis",
+			"id": "adcossp4011ppaulis",
+			"name": "adcossp4011ppaulis",
+			"logo": null
+		}
+	],
+	"giftRegistryData": null,
+	"receiptData": null,
+	"contextData": null,
+	"marketPlaceOrderId": "",
+	"marketPlaceOrderGroup": null,
+	"marketplaceServicesEndpoint": null,
+	"orderFormId": "c4596d8e0d194cf7adf0624f0f644753",
+	"sequence": "2656908",
+	"affiliateId": "",
+	"status": "",
+	"callCenterOperator": "",
+	"userProfileId": "b605dc93-cb6f-4213-8632-603784548e82",
+	"hostName": "adcos",
+	"creationVersion": null,
+	"creationEnvironment": null,
+	"lastChangeVersion": null,
+	"workflowInstanceId": null,
+	"marketplacePaymentValue": null,
+	"orderId": "v2656908adcs-01",
+	"orderGroup": "v2656908adcs",
+	"state": "payment-approved",
+	"isCheckedIn": false,
+	"sellerOrderId": "SLR-v2656908adcs-01",
+	"storeId": null,
+	"checkedInPickupPointId": null,
+	"value": 3300,
+	"totals": [
+		{
+			"id": "Items",
+			"name": "Total dos Itens",
+			"value": 3300
+		},
+		{
+			"id": "Discounts",
+			"name": "Total dos Descontos",
+			"value": 0
+		},
+		{
+			"id": "Shipping",
+			"name": "Total do Frete",
+			"value": 0
+		},
+		{
+			"id": "Tax",
+			"name": "Total da Taxa",
+			"value": 0
+		}
+	],
+	"clientProfileData": {
+		"email": "2287ecbfd70147988dd88433bd57bc24@ct.vtex.com.br",
+		"firstName": "Paulo",
+		"lastName": "teste",
+		"document": "26211269870",
+		"documentType": "cpf",
+		"phone": "+551120902660",
+		"corporateName": null,
+		"tradeName": null,
+		"corporateDocument": null,
+		"stateInscription": "",
+		"corporatePhone": null,
+		"isCorporate": false,
+		"profileCompleteOnLoading": false,
+		"profileErrorOnLoading": false,
+		"customerClass": null
+	},
+	"ratesAndBenefitsData": {
+		"rateAndBenefitsIdentifiers": [
+			{
+				"id": "fdc208f5-8df9-4eb6-bbf9-2c8002df8262",
+				"name": "Ganhe 2 Amostras",
+				"featured": false,
+				"description": null,
+				"matchedParameters": {},
+				"additionalInfo": null
+			}
+		],
+		"teaser": []
+	},
+	"shippingData": {
+		"address": {
+			"addressType": "pickup",
+			"receiverName": "Paulo teste",
+			"addressId": "ea10ebb6-741b-481d-8051-186c2efb3833",
+			"isDisposable": true,
+			"postalCode": "01327-001",
+			"city": "São Paulo",
+			"state": "SP",
+			"country": "BRA",
+			"street": "Rua Treze de Maio",
+			"number": "1947",
+			"neighborhood": "Bela Vista",
+			"complement": "Loja 333 e 334",
+			"reference": null,
+			"geoCoordinates": [
+				-46.64352,
+				-23.57055
+			]
+		},
+		"logisticsInfo": [
+			{
+				"itemIndex": 0,
+				"selectedSla": "Retire na Loja Shop. Pátio Paulista (ea10ebb6-741b-481d-8051-186c2efb3833)",
+				"selectedDeliveryChannel": "pickup-in-point",
+				"addressId": "ea10ebb6-741b-481d-8051-186c2efb3833",
+				"slas": [
+					{
+						"id": "Retire na Loja Shop. Pátio Paulista (ea10ebb6-741b-481d-8051-186c2efb3833)",
+						"deliveryChannel": "pickup-in-point",
+						"name": "Retire na Loja Shop. Pátio Paulista (ea10ebb6-741b-481d-8051-186c2efb3833)",
+						"deliveryIds": [
+							{
+								"courierId": "118c661",
+								"warehouseId": "196f359",
+								"dockId": "1db3b1d",
+								"courierName": "Pickup Point",
+								"quantity": 1,
+								"kitItemDetails": [],
+								"totalListPrice": 0
+							}
+						],
+						"shippingEstimate": "1bd",
+						"shippingEstimateDate": "2021-04-08T04:09:56.723832Z",
+						"lockTTL": "12d",
+						"availableDeliveryWindows": [],
+						"deliveryWindow": null,
+						"price": 0,
+						"listPrice": 0,
+						"tax": 0,
+						"pickupStoreInfo": {
+							"isPickupStore": true,
+							"friendlyName": "Shopping Pátio Paulista",
+							"address": {
+								"addressType": "pickup",
+								"receiverName": null,
+								"addressId": "ea10ebb6-741b-481d-8051-186c2efb3833",
+								"isDisposable": true,
+								"postalCode": "01327-001",
+								"city": "São Paulo",
+								"state": "SP",
+								"country": "BRA",
+								"street": "Rua Treze de Maio",
+								"number": "1947",
+								"neighborhood": "Bela Vista",
+								"complement": "Loja 333 e 334",
+								"reference": null,
+								"geoCoordinates": [
+									-46.64352,
+									-23.57055
+								]
+							},
+							"additionalInfo": "",
+							"dockId": null
+						},
+						"pickupPointId": "adcossp4011ppaulis_ea10ebb6-741b-481d-8051-186c2efb3833",
+						"pickupDistance": 6.797648906707764,
+						"polygonName": null,
+						"transitTime": "1bd"
+					}
+				],
+				"shipsTo": [
+					"BRA"
+				],
+				"itemId": "2000265",
+				"deliveryChannels": [
+					{
+						"id": "pickup-in-point",
+						"stockBalance": 0
+					},
+					{
+						"id": "delivery",
+						"stockBalance": 0
+					}
+				]
+			}
+		],
+		"selectedAddresses": [
+			{
+				"addressType": "pickup",
+				"receiverName": "Paulo teste",
+				"addressId": "ea10ebb6-741b-481d-8051-186c2efb3833",
+				"isDisposable": true,
+				"postalCode": "01327-001",
+				"city": "São Paulo",
+				"state": "SP",
+				"country": "BRA",
+				"street": "Rua Treze de Maio",
+				"number": "1947",
+				"neighborhood": "Bela Vista",
+				"complement": "Loja 333 e 334",
+				"reference": null,
+				"geoCoordinates": [
+					-46.64352,
+					-23.57055
+				]
+			}
+		],
+		"availableAddresses": [
+			{
+				"addressType": "pickup",
+				"receiverName": "Paulo teste",
+				"addressId": "ea10ebb6-741b-481d-8051-186c2efb3833",
+				"isDisposable": true,
+				"postalCode": "01327-001",
+				"city": "São Paulo",
+				"state": "SP",
+				"country": "BRA",
+				"street": "Rua Treze de Maio",
+				"number": "1947",
+				"neighborhood": "Bela Vista",
+				"complement": "Loja 333 e 334",
+				"reference": null,
+				"geoCoordinates": [
+					-46.64352,
+					-23.57055
+				]
+			}
+		],
+		"pickupPoints": [
+			{
+				"friendlyName": "Shopping Pátio Paulista",
+				"address": {
+					"addressType": "pickup",
+					"receiverName": null,
+					"addressId": "ea10ebb6-741b-481d-8051-186c2efb3833",
+					"isDisposable": true,
+					"postalCode": "01327-001",
+					"city": "São Paulo",
+					"state": "SP",
+					"country": "BRA",
+					"street": "Rua Treze de Maio",
+					"number": "1947",
+					"neighborhood": "Bela Vista",
+					"complement": "Loja 333 e 334",
+					"reference": null,
+					"geoCoordinates": [
+						-46.64352,
+						-23.57055
+					]
+				},
+				"additionalInfo": "",
+				"id": "adcossp4011ppaulis_ea10ebb6-741b-481d-8051-186c2efb3833",
+				"businessHours": [
+					{
+						"DayOfWeek": 0,
+						"OpeningTime": "14:00:00",
+						"ClosingTime": "22:00:00"
+					},
+					{
+						"DayOfWeek": 1,
+						"OpeningTime": "01:00:00",
+						"ClosingTime": "20:00:00"
+					},
+					{
+						"DayOfWeek": 2,
+						"OpeningTime": "01:00:00",
+						"ClosingTime": "20:00:00"
+					},
+					{
+						"DayOfWeek": 3,
+						"OpeningTime": "10:00:00",
+						"ClosingTime": "20:00:00"
+					},
+					{
+						"DayOfWeek": 4,
+						"OpeningTime": "10:00:00",
+						"ClosingTime": "20:00:00"
+					},
+					{
+						"DayOfWeek": 5,
+						"OpeningTime": "10:00:00",
+						"ClosingTime": "20:00:00"
+					},
+					{
+						"DayOfWeek": 6,
+						"OpeningTime": "10:00:00",
+						"ClosingTime": "20:00:00"
+					}
+				]
+			}
+		]
+	},
+	"paymentData": {
+		"giftCards": [],
+		"transactions": [
+			{
+				"isActive": true,
+				"transactionId": "D3DA348C055F4360807DE7D43B981E74",
+				"merchantName": "ADCOS",
+				"payments": [
+					{
+						"id": "716559A0637C496A9402CC7AC3769529",
+						"paymentSystem": "6",
+						"paymentSystemName": "Boleto Bancário",
+						"value": 3300,
+						"installments": 1,
+						"connectorResponses": {},
+						"referenceValue": 3300,
+						"cardHolder": null,
+						"cardNumber": null,
+						"firstDigits": null,
+						"lastDigits": null,
+						"cvv2": null,
+						"expireMonth": null,
+						"expireYear": null,
+						"url": "https://shopline.itau.com.br/shopline/shopline.aspx?DC=G183U175U211U10U230U105U152U162U238U61U165U217U103U205U7U128U92U103U208U14U7U145U41U97U254U240U198U252U3U181U36U243U57U236U24U29U191U143U153U245U41U133U56U24U0U78U216U126U210U19U252U52U152U62U252U55U108U62U9U98U151U115U53U82U188U149U208U111U156U14U36U42U38U53U119U196U168U99U17U131U119U120U230U136U2U25U116U115U50U47U144U13U223U200U209U172U108U237U130U29U145U214U163U200U13U15U79U140U45U239U122U139U93U1U118U90U213U123U94U201U38U162U237U162U118U144U20U100U255U180U190U96U151U236U105U152U59U202U39U148U143U148U132U82U51U182U7U82U190U112U71U47U164U207U23U157U49U110U96U10U195U144U169U221U43U56U105U165U28U64U52U52U33U201U86U7U78U37U35U229U8U192U99U17U72U46U122U142U165U73U110U102U126U56U122U55U239U215U189U5U168U70U149U83U71U9U6U72U139U102U38U127U188U212U163U134U251U126U21U149U193U239U235U126U94U141U179U12U15U25U89U165U133U59U216U47U209U52U93U155U79U123U222U151U130U29U106U75U230U20U189U181U78U171U23U158U253U22U133U204U139U77U251U148U18U219U151U245U52U96U67U119U4U243U174U88U4U120U251U221U144U198U241U86U28U251U38U65U14U142U63U175U86U89U150U46U95U83U123U202U97U178U33U134U232U111U177U99U182U139U211U195U135U161U60U28U109U0U151U39U229U183U30U87U183U128U3U119U159U20U151U44U128U168U126U231U81U146U198U167U116U12U128U167U47U187U52U44U198U242U185U99U150U230U0U17U25U123U175U236U236U155U191U106U26U60U186U33U22U51U190U221U195U112U234U156U102U21U39U16U177U27U124U210U106U40U48U68U61U216U180U188U56U30U118U205U92U99U96U52U213U197U208U100U214U16U75U253U129U2U108U100U226U227U144U63U193U74U141U188U27U188U91U111U46U152U102U206U224U218U181U32U207U76U61U93U141U232U174U48U40U193U183U23U155U128U78U172U238U94U29U27U7U130U106U181U32U31U",
+						"koinUrl": null,
+						"tid": null,
+						"redemptionCode": null,
+						"giftCardId": null,
+						"giftCardProvider": null,
+						"giftCardAsDiscount": null,
+						"group": "bankInvoice",
+						"dueDate": null,
+						"accountId": null,
+						"parentAccountId": null,
+						"bankIssuedInvoiceIdentificationNumber": null,
+						"bankIssuedInvoiceIdentificationNumberFormatted": null,
+						"bankIssuedInvoiceBarCodeNumber": null,
+						"bankIssuedInvoiceBarCodeType": null,
+						"billingAddress": null
+					}
+				],
+				"sharedTransaction": false
+			}
+		]
+	},
+	"clientPreferencesData": {
+		"locale": "pt-BR",
+		"optinNewsLetter": false
+	},
+	"commercialConditionData": null,
+	"marketingData": null,
+	"storePreferencesData": {
+		"countryCode": "BRA",
+		"saveUserData": false,
+		"timeZone": "E. South America Standard Time",
+		"currencyCode": "BRL",
+		"currencyLocale": 1046,
+		"currencySymbol": "R$",
+		"currencyFormatInfo": {
+			"currencyDecimalDigits": 2,
+			"currencyDecimalSeparator": ",",
+			"currencyGroupSeparator": ".",
+			"currencyGroupSize": 3,
+			"startsWithCurrencySymbol": true
+		}
+	},
+	"openTextField": null,
+	"invoiceData": null,
+	"itemMetadata": null,
+	"taxData": null,
+	"customData": null,
+	"hooksData": null,
+	"changeData": null,
+	"subscriptionData": null,
+	"salesChannel": "1",
+	"followUpEmail": "b3acc0ffd59a4b2abb2e80e2717a110d@ct.vtex.com.br",
+	"creationDate": "2021-04-07T04:06:04.0641779Z",
+	"lastChange": "2021-04-07T04:10:05.4861085Z",
+	"timeZoneCreationDate": "2021-04-07T01:06:04.0641779",
+	"timeZoneLastChange": "2021-04-07T01:10:05.4861085",
+	"isCompleted": true,
+	"merchantName": null,
+	"userType": "",
+	"roundingError": 0,
+	"allowEdition": false,
+	"allowCancellation": false,
+	"isUserDataVisible": false,
+	"allowChangeSeller": false,
+	"_accountInfo": {
+		"MainAccountName": "adcos",
+		"AccountName": "adcos",
+		"Cnpj": "17104789000123",
+		"Id": "2dc2f396-93a7-4c1d-a474-d848b29544e0",
+		"IsActive": true,
+		"IsOperating": true,
+		"CreationDate": "2012-12-23T00:00:00",
+		"OperationDate": "2013-01-01T00:00:00",
+		"CompanyName": "ADCOS - FULL COMMERCE INTEGRACAO COMERCIAL LTDA",
+		"TradingName": "Adcos",
+		"City": null,
+		"Complement": null,
+		"Country": null,
+		"State": null,
+		"Address": null,
+		"District": null,
+		"Number": null,
+		"PostalCode": null,
+		"Licences": null,
+		"ParentAccountName": null,
+		"InactivationDate": null,
+		"Platform": "vtex"
+	}
+}

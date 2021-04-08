@@ -4,232 +4,319 @@
 			{
 				"itemIndex": 0,
 				"quantity": 1,
-				"price": 4264,
-				"description": null
+				"price": 6900,
+				"description": null,
+				"unitMultiplier": 0
+			},
+			{
+				"itemIndex": 1,
+				"quantity": 1,
+				"price": 0,
+				"description": null,
+				"unitMultiplier": 0
 			}
 		],
-		"courier": "Transportadora",
-		"invoiceNumber": "1234567890",
-		"invoiceValue": 5765,
-		"invoiceUrl": null,
-		"issuanceDate": "2018-01-14T02:08:05.7574515+00:00",
-		"trackingNumber": "RASXXXXXXXXXX",
-		"invoiceKey": null,
-		"trackingUrl": "http://urlrastreio",
+		"courier": "",
+		"invoiceNumber": "000372383",
+		"invoiceValue": 8193,
+		"invoiceUrl": "http://nfe.adcos.com.br/2000/2007/NFe32210407850622000743550010003723831274669610.pdf",
+		"issuanceDate": "2021-04-01T00:00:00",
+		"trackingNumber": "ADC0081043160",
+		"invoiceKey": "32210407850622000743550010003723831274669610",
+		"trackingUrl": "http://tracking.totalexpress.com.br/poupup_track.php?reid=4896&pedido=ADC0081043160&nfiscal=372383",
 		"embeddedInvoice": "",
 		"type": "Output",
-		"courierStatus": {
-			"status": "unknown",
-			"finished": false,
-			"data": []
-		}
+		"courierStatus": null,
+		"cfop": null,
+		"restitutions": {},
+		"volumes": null
 	},
 	"subjectItemAttachment": {
-		"item": "Novalgina",
-		"totalItems": 1
+		"item": "Filtro Solar FPS 30 ...",
+		"totalItems": 2,
+		"extraItems": 1
 	},
+	"cancellationReason": null,
 	"items": [
 		{
 			"additionalInfo": {
-				"dimension": {
-					"cubicweight": 0.1667,
-					"height": 10,
-					"length": 10,
-					"weight": 10,
-					"width": 10
-				},
-				"categoriesIds": "/4/5/",
-				"productClusterId": "135",
+				"categoriesIds": "/1000001/1000027/",
+				"productClusterId": "145,150,155,170,181,1182,1190,1192,1194,1197,1204,1205,1221,1230,1232,1266,1283,1291,1301,1312,1318,1319,1329,1376,1387,1411,1412,1414,1425,1458,1509,1579,1598,1631,1663,1665,1687,1692",
 				"commercialConditionId": "1",
-				"brandName": "Marca Exemplo",
-				"brandId": "2000000",
+				"dimension": {
+					"cubicweight": 1,
+					"height": 7,
+					"length": 7,
+					"weight": 10,
+					"width": 1.8
+				},
+				"brandName": "ADCOS",
+				"brandId": "1",
 				"offeringInfo": null,
 				"offeringType": null,
 				"offeringTypeId": null
 			},
-			"sellerSku": "15",
-			"priceValidUntil": "2019-01-14T02:06:54.6596575Z",
+			"sellerSku": "2000135",
+			"priceTable": null,
+			"priceValidUntil": "2022-03-31T14:21:02Z",
 			"callCenterOperator": null,
 			"commission": 0,
 			"freightCommission": 0,
-			"uniqueId": "5D0C418A640D40678A0B6CB156CCBDBC",
-			"id": "15",
-			"productId": "4",
-			"refId": "produtohomologação",
-			"ean": "produtohomologação",
-			"name": "Novalgina",
-			"skuName": "Novalgina",
+			"taxCode": "",
+			"catalogProvider": "vrn:vtex.catalog-api-proxy:-:adcos:master:/proxy/authenticated/catalog/pvt/sku/stockkeepingunitbyid/2000135",
+			"costPrice": null,
+			"uniqueId": "2C81EFA414F84808BE0D657CBC723D0F",
+			"id": "2000135",
+			"productId": "2000124",
+			"productRefId": "",
+			"refId": "7799",
+			"ean": "7897975677992",
+			"name": "Filtro Solar FPS 30 Labial Filtro Solar Labial FPS 30",
+			"skuName": "Filtro Solar Labial FPS 30",
 			"modalType": null,
+			"parentItemIndex": null,
+			"parentAssemblyBinding": null,
+			"assemblies": [],
 			"tax": 0,
-			"price": 5764,
-			"listPrice": 8000,
+			"priceDefinitions": null,
+			"price": 6900,
+			"listPrice": 6900,
 			"manualPrice": null,
-			"sellingPrice": 4264,
+			"manualPriceAppliedBy": null,
+			"sellingPrice": 6900,
+			"skuSpecifications": null,
+			"orderRewardStatus": null,
 			"rewardValue": 0,
 			"isGift": false,
 			"preSaleDate": null,
-			"productCategoryIds": "/4/5/",
+			"productCategoryIds": "/1000001/1000027/",
 			"productCategories": {
-				"4": "Departamento 2",
-				"5": "Categoria 2.3 (Campo Produto)"
+				"1000001": "Tratamento Facial",
+				"1000027": "Fotoproteção Solar",
+				"1000056": "Lábios",
+				"1000081": "Masculino",
+				"1000085": "Fotoproteção"
 			},
-			"defaultPicker": null,
-			"handlerSequence": 0,
-			"handling": false,
 			"quantity": 1,
 			"seller": "1",
-			"imageUrl": "http://qamarketplace.vteximg.com.br/arquivos/ids/155400-55-55/Novalgina.jpg?v=635985172600570000",
-			"detailUrl": "/novalgina/p",
+			"sellerChain": [
+				"1"
+			],
+			"imageUrl": "http://lojaadcos.vteximg.com.br/arquivos/ids/160333-90-90/7799_Filtro-Solar-FPS-30-Labial_5g.jpg?v=636976016021200000",
+			"detailUrl": "/protetor-labial-fps-30/p",
 			"components": [],
 			"bundleItems": [],
 			"attachments": [],
-			"itemAttachment": {
-				"name": null,
-				"content": {}
+			"attachmentOfferings": [],
+			"offerings": [],
+			"priceTags": [],
+			"availability": "available",
+			"measurementUnit": "un",
+			"unitMultiplier": 1,
+			"manufacturerCode": ""
+		},
+		{
+			"additionalInfo": {
+				"categoriesIds": "/1000001/1000047/",
+				"productClusterId": "145,155,1182,1204,1205,1400,1401,1406,1412,1414,1458,1672,1692",
+				"commercialConditionId": "1",
+				"dimension": {
+					"cubicweight": 1,
+					"height": 4,
+					"length": 1,
+					"weight": 4,
+					"width": 4
+				},
+				"brandName": "ADCOS",
+				"brandId": "1",
+				"offeringInfo": null,
+				"offeringType": null,
+				"offeringTypeId": null
 			},
-			"attachmentOfferings": [
+			"sellerSku": "2000339",
+			"priceTable": null,
+			"priceValidUntil": "4000-01-01T03:00:00Z",
+			"callCenterOperator": null,
+			"commission": 0,
+			"freightCommission": 0,
+			"taxCode": "",
+			"catalogProvider": "vrn:vtex.catalog-api-proxy:-:adcos:master:/proxy/authenticated/catalog/pvt/sku/stockkeepingunitbyid/2000339",
+			"costPrice": null,
+			"uniqueId": "AD82E0C900FC4C7BB57AFA25CEF229ED",
+			"id": "2000339",
+			"productId": "2000296",
+			"productRefId": "",
+			"refId": "9561+9561",
+			"ean": null,
+			"name": "2 amostras",
+			"skuName": "2 amostras",
+			"modalType": null,
+			"parentItemIndex": null,
+			"parentAssemblyBinding": null,
+			"assemblies": [],
+			"tax": 0,
+			"priceDefinitions": null,
+			"price": 130,
+			"listPrice": 130,
+			"manualPrice": null,
+			"manualPriceAppliedBy": null,
+			"sellingPrice": 0,
+			"skuSpecifications": null,
+			"orderRewardStatus": null,
+			"rewardValue": 0,
+			"isGift": true,
+			"preSaleDate": null,
+			"productCategoryIds": "/1000001/1000047/",
+			"productCategories": {
+				"1000001": "Tratamento Facial",
+				"1000047": "Adcos"
+			},
+			"quantity": 1,
+			"seller": "1",
+			"sellerChain": [
+				"1"
+			],
+			"imageUrl": "http://lojaadcos.vteximg.com.br/arquivos/ids/156961-90-90/amostras.png?v=636123017328170000",
+			"detailUrl": "/amostras-pedido/p",
+			"components": [
 				{
-					"name": "Receita",
-					"required": false,
-					"schema": {
-						"Nome1": {
-							"maximumNumberOfCharacters": 5,
-							"domain": []
+					"uniqueId": "4D229CEB1CB2483B9E6BDAB7A7731E72",
+					"id": "2000695",
+					"productId": null,
+					"productRefId": null,
+					"refId": "9561",
+					"ean": "",
+					"name": "Amostra Filtro Solar Fluid FPS70 Beige 1ml",
+					"skuName": null,
+					"modalType": null,
+					"parentItemIndex": null,
+					"parentAssemblyBinding": null,
+					"assemblies": [],
+					"priceValidUntil": null,
+					"tax": 0,
+					"priceDefinitions": null,
+					"price": 65,
+					"listPrice": null,
+					"manualPrice": null,
+					"manualPriceAppliedBy": null,
+					"sellingPrice": 0,
+					"skuSpecifications": null,
+					"orderRewardStatus": null,
+					"rewardValue": 0,
+					"isGift": false,
+					"additionalInfo": {
+						"dimension": {
+							"cubicweight": 1,
+							"height": 1,
+							"length": 2,
+							"weight": 2,
+							"width": 4
 						},
-						"Teste": {
-							"maximumNumberOfCharacters": 10,
-							"domain": [
-								"0987654321"
-							]
-						},
-						"Embalagem": {
-							"maximumNumberOfCharacters": 6,
-							"domain": [
-								"true",
-								" false"
-							]
+						"brandName": null,
+						"brandId": null,
+						"offeringInfo": null,
+						"offeringType": null,
+						"offeringTypeId": null
+					},
+					"preSaleDate": null,
+					"productCategoryIds": null,
+					"productCategories": {},
+					"quantity": 2,
+					"seller": null,
+					"sellerChain": [
+						null
+					],
+					"imageUrl": null,
+					"detailUrl": null,
+					"components": [],
+					"bundleItems": [],
+					"attachments": [],
+					"attachmentOfferings": [],
+					"offerings": [],
+					"priceTags": [
+						{
+							"name": "DISCOUNT@GIFT",
+							"value": 100,
+							"rawValue": 1,
+							"isPercentual": true,
+							"identifier": "fdc208f5-8df9-4eb6-bbf9-2c8002df8262"
 						}
-					}
+					],
+					"availability": null,
+					"measurementUnit": "un",
+					"unitMultiplier": 1,
+					"manufacturerCode": null
 				}
 			],
+			"bundleItems": [],
+			"attachments": [],
+			"attachmentOfferings": [],
 			"offerings": [],
 			"priceTags": [
 				{
-					"name": "discount@price-e518d70e-6da2-47bb-9e1a-6540a1a214c6#a67bb005-7c03-427a-993e-9a0c4e997e22",
-					"value": -1500,
-					"rawValue": -15,
-					"isPercentual": false,
-					"identifier": "e518d70e-6da2-47bb-9e1a-6540a1a214c6"
+					"name": "DISCOUNT@GIFT",
+					"value": 100,
+					"rawValue": 1,
+					"isPercentual": true,
+					"identifier": "fdc208f5-8df9-4eb6-bbf9-2c8002df8262"
 				}
 			],
 			"availability": "available",
 			"measurementUnit": "un",
-			"unitMultiplier": 1
+			"unitMultiplier": 1,
+			"manufacturerCode": ""
 		}
 	],
 	"sellers": [
 		{
 			"subSellerId": "1",
-			"fulfillmentEndpoint": "http://qamarketplace.vtexcommercestable.com.br/api/fulfillment",
+			"fulfillmentEndpoint": "http://fulfillment.vtexcommerce.com.br/api/fulfillment?sc=1&an=adcos",
 			"id": "1",
-			"name": "qamarketplace",
+			"name": "Adcos",
 			"logo": ""
 		}
 	],
-	"paymentData": {
-		"giftCards": [
-			{
-				"redemptionCode": null,
-				"provider": "VtexGiftCard",
-				"value": 0,
-				"balance": 0,
-				"name": "loyalty-program",
-				"caption": null,
-				"id": "88028af9-64b8-4b3e-8845-28bb9be6a276_13",
-				"inUse": false,
-				"isSpecialCard": true,
-				"groupName": null
-			}
-		],
-		"transactions": [
-			{
-				"isActive": true,
-				"transactionId": "4E1952A330A147DBA4FEA8228B6AF203",
-				"merchantName": "QAMARKETPLACE",
-				"payments": [
-					{
-						"id": "AB74B2A277B840B3BDE44F369BBB7E68",
-						"paymentSystem": "4",
-						"paymentSystemName": "Mastercard",
-						"value": 5765,
-						"installments": 1,
-						"connectorResponses": {
-							"Tid": "05165181",
-							"ReturnCode": null,
-							"Message": null,
-							"authId": "165181"
-						},
-						"referenceValue": 5765,
-						"cardHolder": null,
-						"cardNumber": null,
-						"firstDigits": "510510",
-						"lastDigits": "5100",
-						"cvv2": null,
-						"expireMonth": null,
-						"expireYear": null,
-						"url": null,
-						"koinUrl": null,
-						"tid": "05165181",
-						"redemptionCode": null,
-						"giftCardId": null,
-						"giftCardProvider": null,
-						"giftCardAsDiscount": null,
-						"group": "creditCard",
-						"dueDate": null,
-						"accountId": "E8C19B0562284860BFB135DF99E1D748",
-						"parentAccountId": null
-					}
-				]
-			}
-		]
-	},
 	"giftRegistryData": null,
 	"receiptData": null,
 	"contextData": null,
 	"marketPlaceOrderId": "",
-	"orderFormId": "f923ff62f7f04088accc1535d8746451",
-	"sequence": "1301345",
+	"marketPlaceOrderGroup": null,
+	"marketplaceServicesEndpoint": null,
+	"orderFormId": "7bed1defaa1f4f37b80f2c4d5971acd9",
+	"sequence": "2648863",
 	"affiliateId": "",
 	"status": "",
 	"callCenterOperator": "",
-	"userProfileId": "88028af9-64b8-4b3e-8845-28bb9be6a276",
-	"hostName": "qamarketplace",
+	"userProfileId": "ee77e9d7-85e1-4d9a-94fd-29acc97cbb11",
+	"hostName": "adcos",
 	"creationVersion": null,
 	"creationEnvironment": null,
 	"lastChangeVersion": null,
 	"workflowInstanceId": null,
-	"orderId": "803140415281-01",
-	"orderGroup": "803140415281",
-	"state": "invoiced",
+	"marketplacePaymentValue": null,
+	"orderId": "v2648863adcs-01",
+	"orderGroup": "v2648863adcs",
+	"state": "payment-approved",
 	"isCheckedIn": false,
-	"sellerOrderId": "00-803140415281-01",
+	"sellerOrderId": "00-v2648863adcs-01",
 	"storeId": null,
-	"value": 5765,
+	"checkedInPickupPointId": null,
+	"value": 8063,
 	"totals": [
 		{
 			"id": "Items",
 			"name": "Total dos Itens",
-			"value": 5764
+			"value": 6900
 		},
 		{
 			"id": "Discounts",
 			"name": "Total dos Descontos",
-			"value": -1500
+			"value": 0
 		},
 		{
 			"id": "Shipping",
 			"name": "Total do Frete",
-			"value": 1501
+			"value": 1163
 		},
 		{
 			"id": "Tax",
@@ -238,79 +325,84 @@
 		}
 	],
 	"clientProfileData": {
-		"attachmentId": "clientProfileData",
-		"email": "email.reconhecido.automated@mailinator.com-43606b.ct.vtex.com.br",
-		"firstName": "Freds",
-		"lastName": "Da Bahia",
-		"document": "45362565800",
+		"email": "f879f4d7acd7434b8d32b97b1f5ff63c@ct.vtex.com.br",
+		"firstName": "Isabella",
+		"lastName": "Gadelha",
+		"document": "70131336479",
 		"documentType": "cpf",
-		"phone": "+552124666070",
+		"phone": "+5584999095399",
 		"corporateName": null,
 		"tradeName": null,
 		"corporateDocument": null,
 		"stateInscription": null,
 		"corporatePhone": null,
 		"isCorporate": false,
-		"profileCompleteOnLoading": true,
+		"profileCompleteOnLoading": false,
 		"profileErrorOnLoading": false,
 		"customerClass": null
 	},
 	"ratesAndBenefitsData": {
-		"attachmentId": "ratesAndBenefitsData",
 		"rateAndBenefitsIdentifiers": [
 			{
-				"id": "e518d70e-6da2-47bb-9e1a-6540a1a214c6",
-				"name": "Desconto no Sku 15",
+				"id": "fdc208f5-8df9-4eb6-bbf9-2c8002df8262",
+				"name": "Ganhe 2 Amostras",
 				"featured": false,
-				"description": null
+				"description": null,
+				"matchedParameters": {},
+				"additionalInfo": null
 			}
 		],
 		"teaser": []
 	},
 	"shippingData": {
-		"attachmentId": "shippingData",
 		"address": {
 			"addressType": "residential",
-			"receiverName": "Freds Da Bahia",
-			"addressId": "-1476460151082",
-			"postalCode": "22222-222",
-			"city": "Rio de Janeiro",
-			"state": "RJ",
+			"receiverName": "Isabella Gadelha",
+			"addressId": "81098a392dc34ac2865c3771911dc460",
+			"isDisposable": true,
+			"postalCode": "59082-140",
+			"city": "Natal",
+			"state": "RN",
 			"country": "BRA",
-			"street": "Rua da passagem",
-			"number": "4",
-			"neighborhood": "Botafogo",
+			"street": "Rua Desembargador José Gomes da Costa",
+			"number": "1644",
+			"neighborhood": "Capim Macio",
 			"complement": null,
 			"reference": null,
-			"geoCoordinates": []
+			"geoCoordinates": [
+				-35.19609832763672,
+				-5.863361835479736
+			]
 		},
 		"logisticsInfo": [
 			{
 				"itemIndex": 0,
-				"selectedSla": "Normal",
+				"selectedSla": "Transportadora",
 				"selectedDeliveryChannel": "delivery",
-				"addressId": "-1476460151082",
+				"addressId": "81098a392dc34ac2865c3771911dc460",
 				"slas": [
 					{
-						"id": "Normal",
+						"id": "Transportadora",
 						"deliveryChannel": "delivery",
-						"name": "Normal",
+						"name": "Transportadora",
 						"deliveryIds": [
 							{
-								"courierId": "1",
-								"warehouseId": "169cdbc",
-								"dockId": "1",
-								"courierName": "Transportadora",
-								"quantity": 1
+								"courierId": "1b379a8",
+								"warehouseId": "1_1",
+								"dockId": "1_1_1",
+								"courierName": "TotalExpress01",
+								"quantity": 1,
+								"kitItemDetails": [],
+								"totalListPrice": 0
 							}
 						],
-						"shippingEstimate": "7d",
-						"shippingEstimateDate": "2018-01-21T00:08:08.9572036Z",
-						"lockTTL": "8d",
+						"shippingEstimate": "14bd",
+						"shippingEstimateDate": "2021-04-21T06:21:47.6778208Z",
+						"lockTTL": "12d",
 						"availableDeliveryWindows": [],
 						"deliveryWindow": null,
-						"price": 1501,
-						"listPrice": 1501,
+						"price": 831,
+						"listPrice": 831,
 						"tax": 0,
 						"pickupStoreInfo": {
 							"isPickupStore": false,
@@ -318,16 +410,79 @@
 							"address": null,
 							"additionalInfo": null,
 							"dockId": null
-						}
+						},
+						"pickupPointId": null,
+						"pickupDistance": 0,
+						"polygonName": null,
+						"transitTime": "7bd"
 					}
 				],
 				"shipsTo": [
 					"BRA"
 				],
-				"itemId": "15",
+				"itemId": "2000135",
 				"deliveryChannels": [
 					{
-						"id": "delivery"
+						"id": "delivery",
+						"stockBalance": 0
+					}
+				]
+			},
+			{
+				"itemIndex": 1,
+				"selectedSla": "Transportadora",
+				"selectedDeliveryChannel": "delivery",
+				"addressId": "81098a392dc34ac2865c3771911dc460",
+				"slas": [
+					{
+						"id": "Transportadora",
+						"deliveryChannel": "delivery",
+						"name": "Transportadora",
+						"deliveryIds": [
+							{
+								"courierId": "1b379a8",
+								"warehouseId": "1_1",
+								"dockId": "1_1_1",
+								"courierName": "TotalExpress01",
+								"quantity": 1,
+								"kitItemDetails": [
+									{
+										"itemId": "2000695",
+										"warehouseId": "1_1"
+									}
+								],
+								"totalListPrice": 0
+							}
+						],
+						"shippingEstimate": "14bd",
+						"shippingEstimateDate": "2021-04-21T06:21:47.6778208Z",
+						"lockTTL": "12d",
+						"availableDeliveryWindows": [],
+						"deliveryWindow": null,
+						"price": 332,
+						"listPrice": 332,
+						"tax": 0,
+						"pickupStoreInfo": {
+							"isPickupStore": false,
+							"friendlyName": null,
+							"address": null,
+							"additionalInfo": null,
+							"dockId": null
+						},
+						"pickupPointId": null,
+						"pickupDistance": 0,
+						"polygonName": null,
+						"transitTime": "7bd"
+					}
+				],
+				"shipsTo": [
+					"BRA"
+				],
+				"itemId": "2000339",
+				"deliveryChannels": [
+					{
+						"id": "delivery",
+						"stockBalance": 0
 					}
 				]
 			}
@@ -335,51 +490,105 @@
 		"selectedAddresses": [
 			{
 				"addressType": "residential",
-				"receiverName": "Freds Da Bahia",
-				"addressId": "-1476460151082",
-				"postalCode": "22222-222",
-				"city": "Rio de Janeiro",
-				"state": "RJ",
+				"receiverName": "Isabella Gadelha",
+				"addressId": "81098a392dc34ac2865c3771911dc460",
+				"isDisposable": true,
+				"postalCode": "59082-140",
+				"city": "Natal",
+				"state": "RN",
 				"country": "BRA",
-				"street": "Rua da passagem",
-				"number": "4",
-				"neighborhood": "Botafogo",
+				"street": "Rua Desembargador José Gomes da Costa",
+				"number": "1644",
+				"neighborhood": "Capim Macio",
 				"complement": null,
 				"reference": null,
-				"geoCoordinates": []
+				"geoCoordinates": [
+					-35.19609832763672,
+					-5.863361835479736
+				]
 			}
 		],
 		"availableAddresses": [
 			{
 				"addressType": "residential",
-				"receiverName": "Freds Da Bahia",
-				"addressId": "-1476460151082",
-				"postalCode": "22222-222",
-				"city": "Rio de Janeiro",
-				"state": "RJ",
+				"receiverName": "Isabella Gadelha",
+				"addressId": "81098a392dc34ac2865c3771911dc460",
+				"isDisposable": true,
+				"postalCode": "59082-140",
+				"city": "Natal",
+				"state": "RN",
 				"country": "BRA",
-				"street": "Rua da passagem",
-				"number": "4",
-				"neighborhood": "Botafogo",
+				"street": "Rua Desembargador José Gomes da Costa",
+				"number": "1644",
+				"neighborhood": "Capim Macio",
 				"complement": null,
 				"reference": null,
-				"geoCoordinates": []
+				"geoCoordinates": [
+					-35.19609832763672,
+					-5.863361835479736
+				]
+			}
+		],
+		"pickupPoints": []
+	},
+	"paymentData": {
+		"giftCards": [],
+		"transactions": [
+			{
+				"isActive": true,
+				"transactionId": "36665399E3FE43A296F794C3E1896850",
+				"merchantName": "ADCOS",
+				"payments": [
+					{
+						"id": "B1F209345C694FA1BEE0AD07B4D6A06C",
+						"paymentSystem": "6",
+						"paymentSystemName": "Boleto Bancário",
+						"value": 8063,
+						"installments": 1,
+						"connectorResponses": {
+							"Tid": null,
+							"ReturnCode": "00",
+							"Message": null
+						},
+						"referenceValue": 8063,
+						"cardHolder": null,
+						"cardNumber": null,
+						"firstDigits": null,
+						"lastDigits": null,
+						"cvv2": null,
+						"expireMonth": null,
+						"expireYear": null,
+						"url": "https://shopline.itau.com.br/shopline/shopline.aspx?DC=G183U175U211U10U230U105U152U162U238U61U165U217U103U205U7U128U92U103U208U14U7U145U41U97U254U240U198U252U3U181U36U249U56U237U24U29U191U143U153U245U34U134U62U27U0U78U216U126U210U19U252U52U152U62U252U55U108U62U9U98U151U115U53U82U188U149U208U111U156U14U36U42U38U53U119U196U168U99U17U131U119U120U230U136U27U11U96U125U56U99U136U9U140U251U213U232U41U161U202U92U145U214U163U200U13U15U79U140U45U239U122U139U93U1U118U90U208U125U93U203U38U163U232U173U122U144U29U100U255U180U190U96U151U236U121U143U45U213U47U214U138U131U195U126U54U176U26U82U197U38U0U125U164U196U23U154U53U61U115U93U145U144U143U146U107U127U60U165U13U86U53U48U61U193U27U113U106U55U52U237U71U192U99U17U72U43U114U141U175U76U111U98U127U37U248U44U174U235U252U80U228U9U149U83U71U9U6U72U138U120U38U116U188U212U163U134U251U126U21U149U193U239U235U126U94U141U179U12U15U25U89U165U133U59U216U47U209U52U93U155U79U123U222U151U130U29U106U75U230U20U189U181U78U171U23U158U253U22U133U204U139U77U251U148U18U219U151U245U52U96U67U119U4U243U174U88U4U120U251U221U144U198U241U86U28U251U38U65U14U142U63U175U86U89U150U46U95U83U123U202U97U178U33U134U232U111U177U99U182U139U211U195U135U161U60U28U109U0U151U39U229U183U30U87U183U128U3U119U159U20U151U44U128U168U126U231U81U146U198U167U116U12U128U167U47U187U52U44U198U242U185U99U150U230U0U17U25U123U175U236U236U155U191U106U26U60U186U33U22U51U190U221U195U112U234U156U102U21U39U16U177U27U124U210U106U40U48U68U61U216U180U188U56U30U118U205U92U99U96U52U213U197U208U100U214U16U75U253U129U2U108U100U226U227U144U63U193U74U141U188U27U188U91U111U46U152U102U206U224U218U181U32U207U76U61U93U141U232U174U48U40U193U183U23U155U128U78U172U238U94U29U27U7U130U106U181U32U31U",
+						"koinUrl": null,
+						"tid": null,
+						"redemptionCode": null,
+						"giftCardId": null,
+						"giftCardProvider": null,
+						"giftCardAsDiscount": null,
+						"group": "bankInvoice",
+						"dueDate": null,
+						"accountId": null,
+						"parentAccountId": null,
+						"bankIssuedInvoiceIdentificationNumber": null,
+						"bankIssuedInvoiceIdentificationNumberFormatted": null,
+						"bankIssuedInvoiceBarCodeNumber": null,
+						"bankIssuedInvoiceBarCodeType": null,
+						"billingAddress": null
+					}
+				],
+				"sharedTransaction": false
 			}
 		]
 	},
 	"clientPreferencesData": {
-		"attachmentId": "clientPreferencesData",
 		"locale": "pt-BR",
-		"optinNewsLetter": true
+		"optinNewsLetter": false
 	},
 	"commercialConditionData": null,
 	"marketingData": null,
 	"storePreferencesData": {
 		"countryCode": "BRA",
-		"checkToSavePersonDataByDefault": false,
-		"templateOptions": {
-			"toggleCorporate": false
-		},
+		"saveUserData": false,
 		"timeZone": "E. South America Standard Time",
 		"currencyCode": "BRL",
 		"currencyLocale": 1046,
@@ -393,47 +602,49 @@
 		}
 	},
 	"openTextField": null,
+	"invoiceData": null,
+	"itemMetadata": null,
+	"taxData": null,
 	"customData": null,
 	"hooksData": null,
 	"changeData": null,
+	"subscriptionData": null,
 	"salesChannel": "1",
-	"followUpEmail": "8591d7f79b094145b0c7004f18d2eb49@ct.vtex.com.br",
-	"creationDate": "2018-01-14T02:07:25.8247612Z",
-	"lastChange": "2018-01-14T02:08:16.7247466Z",
-	"timeZoneCreationDate": "2018-01-14T00:07:25.8247612",
-	"timeZoneLastChange": "2018-01-14T00:08:16.7247466",
+	"followUpEmail": "cd8336c3a27843e785bd5d535a23a92a@ct.vtex.com.br",
+	"creationDate": "2021-03-31T14:21:15.4154761Z",
+	"lastChange": "2021-04-01T06:21:46.9147164Z",
+	"timeZoneCreationDate": "2021-03-31T11:21:15.4154761",
+	"timeZoneLastChange": "2021-04-01T03:21:46.9147164",
 	"isCompleted": true,
 	"merchantName": null,
 	"userType": "",
 	"roundingError": 0,
 	"allowEdition": false,
 	"allowCancellation": false,
+	"isUserDataVisible": false,
+	"allowChangeSeller": false,
 	"_accountInfo": {
-		"HostName": "qamarketplace",
-		"MainAccountName": "qamarketplace",
-		"IsPersisted": true,
-		"IsRemoved": false,
-    "Id": "e39d05f9-0c54-4469-a626-8bb5cff169f8",
-		"Cnpj": "99999999999999",
-		"CompanyName": "QA Marketplace VTEX",
-		"TradingName": "VTEX Developers",
-		"AccountName": "qamarketplace",
-		"DefaultUrl": null,
-		"Address": "Praia de Botafogo",
-		"Number": "518",
-		"Complement": "2 andar",
-		"District": "Botafogo",
-		"City": "Rio de Janeiro",
-		"State": "RJ",
-		"PostalCode": "22250-040",
-		"Country": "Brazil",
-		"Telephone": null,
+		"MainAccountName": "adcos",
+		"AccountName": "adcos",
+		"Cnpj": "17104789000123",
+		"Id": "2dc2f396-93a7-4c1d-a474-d848b29544e0",
 		"IsActive": true,
-		"Sponsor": "d79f2b67-2d3f-4cd8-9337-5f5dda7c757a",
-		"Logo": null,
-		"AppId": "49fb1d8f-256f-4d5d-9280-35595c6e0493",
-		"IsOperating": false,
-		"LV": "LV-1066896",
-		"Sigla": null
+		"IsOperating": true,
+		"CreationDate": "2012-12-23T00:00:00",
+		"OperationDate": "2013-01-01T00:00:00",
+		"CompanyName": "ADCOS - FULL COMMERCE INTEGRACAO COMERCIAL LTDA",
+		"TradingName": "Adcos",
+		"City": null,
+		"Complement": null,
+		"Country": null,
+		"State": null,
+		"Address": null,
+		"District": null,
+		"Number": null,
+		"PostalCode": null,
+		"Licences": null,
+		"ParentAccountName": null,
+		"InactivationDate": null,
+		"Platform": "vtex"
 	}
 }

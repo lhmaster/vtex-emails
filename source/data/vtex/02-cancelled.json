@@ -1,198 +1,136 @@
 {
 	"package": null,
 	"subjectItemAttachment": {
-		"item": "Novalgina",
+		"item": "Derma Complex Concen...",
 		"totalItems": 1
 	},
+	"cancellationReason": null,
 	"items": [
 		{
 			"additionalInfo": {
-				"dimension": {
-					"cubicweight": 0.1667,
-					"height": 10,
-					"length": 10,
-					"weight": 10,
-					"width": 10
-				},
-				"categoriesIds": "/4/5/",
-				"productClusterId": "135",
+				"categoriesIds": "/1000001/1000028/",
+				"productClusterId": "145,149,155,166,171,1196,1198,1204,1205,1220,1223,1224,1225,1228,1270,1271,1272,1275,1276,1278,1279,1280,1283,1288,1306,1308,1310,1311,1312,1317,1319,1321,1325,1330,1335,1336,1337,1339,1340,1345,1347,1350,1354,1358,1359,1360,1366,1370,1371,1373,1379,1380,1385,1390,1392,1394,1395,1396,1400,1401,1406,1407,1426,1428,1432,1450,1451,1455,1458,1492,1496,1511,1512,1519,1522,1534,1538,1544,1556,1561,1567,1571,1574,1576,1580,1584,1588,1591,1598,1604,1605,1620,1623,1624,1636,1637,1639,1640,1654,1656,1660,1661,1672,1675,1678,1692",
 				"commercialConditionId": "1",
-				"brandName": "Marca Exemplo",
-				"brandId": "2000000",
+				"dimension": {
+					"cubicweight": 1,
+					"height": 11.7,
+					"length": 4.7,
+					"weight": 100,
+					"width": 4.7
+				},
+				"brandName": "ADCOS",
+				"brandId": "1",
 				"offeringInfo": null,
 				"offeringType": null,
 				"offeringTypeId": null
 			},
-			"sellerSku": "15",
-			"priceValidUntil": "2019-01-14T02:44:21.3621539Z",
+			"sellerSku": "2000466",
+			"priceTable": null,
+			"priceValidUntil": "2022-03-21T03:49:58Z",
 			"callCenterOperator": null,
 			"commission": 0,
 			"freightCommission": 0,
-			"uniqueId": "A7D9A1CE48F04BC382390ABBF24B8D46",
-			"id": "15",
-			"productId": "4",
-			"refId": "produtohomologação",
-			"ean": "produtohomologação",
-			"name": "Novalgina",
-			"skuName": "Novalgina",
+			"taxCode": "",
+			"catalogProvider": "vrn:vtex.catalog-api-proxy:-:adcos:master:/proxy/authenticated/catalog/pvt/sku/stockkeepingunitbyid/2000466",
+			"costPrice": null,
+			"uniqueId": "FAF37010C6D446E79B438844F50F9DB9",
+			"id": "2000466",
+			"productId": "2000331",
+			"productRefId": "9453",
+			"refId": "9513",
+			"ean": "7897975695132",
+			"name": "Derma Complex Concentrado Vitamina C 20 15ml",
+			"skuName": "15ml",
 			"modalType": null,
+			"parentItemIndex": null,
+			"parentAssemblyBinding": null,
+			"assemblies": [],
 			"tax": 0,
-			"price": 5764,
-			"listPrice": 8000,
+			"priceDefinitions": null,
+			"price": 13500,
+			"listPrice": 13500,
 			"manualPrice": null,
-			"sellingPrice": 4264,
+			"manualPriceAppliedBy": null,
+			"sellingPrice": 13500,
+			"skuSpecifications": null,
+			"orderRewardStatus": null,
 			"rewardValue": 0,
 			"isGift": false,
 			"preSaleDate": null,
-			"productCategoryIds": "/4/5/",
+			"productCategoryIds": "/1000001/1000028/",
 			"productCategories": {
-				"4": "Departamento 2",
-				"5": "Categoria 2.3 (Campo Produto)"
+				"1000001": "Tratamento Facial",
+				"1000028": "Anti-Idade"
 			},
-			"defaultPicker": null,
-			"handlerSequence": 0,
-			"handling": false,
 			"quantity": 1,
 			"seller": "1",
-			"imageUrl": "http://qamarketplace.vteximg.com.br/arquivos/ids/155400-55-55/Novalgina.jpg?v=635985172600570000",
-			"detailUrl": "/novalgina/p",
+			"sellerChain": [
+				"1"
+			],
+			"imageUrl": "http://lojaadcos.vteximg.com.br/arquivos/ids/160811-90-90/Derma-Complex-Concentrado-de-Vitamina-C-20-15ml.jpg?v=637170249878330000",
+			"detailUrl": "/derma-complex-concentrado-vitaminac-20/p",
 			"components": [],
 			"bundleItems": [],
 			"attachments": [],
-			"itemAttachment": {
-				"name": null,
-				"content": {}
-			},
-			"attachmentOfferings": [
-				{
-					"name": "Receita",
-					"required": false,
-					"schema": {
-						"Nome1": {
-							"maximumNumberOfCharacters": 5,
-							"domain": []
-						},
-						"Teste": {
-							"maximumNumberOfCharacters": 10,
-							"domain": [
-								"0987654321"
-							]
-						},
-						"Embalagem": {
-							"maximumNumberOfCharacters": 6,
-							"domain": [
-								"true",
-								" false"
-							]
-						}
-					}
-				}
-			],
+			"attachmentOfferings": [],
 			"offerings": [],
-			"priceTags": [
-				{
-					"name": "discount@price-e518d70e-6da2-47bb-9e1a-6540a1a214c6#3585c465-a641-413c-9079-9308b269bd1b",
-					"value": -1500,
-					"rawValue": -15,
-					"isPercentual": false,
-					"identifier": "e518d70e-6da2-47bb-9e1a-6540a1a214c6"
-				}
-			],
+			"priceTags": [],
 			"availability": "available",
 			"measurementUnit": "un",
-			"unitMultiplier": 1
+			"unitMultiplier": 1,
+			"manufacturerCode": "9513"
 		}
 	],
 	"sellers": [
 		{
 			"subSellerId": "1",
-			"fulfillmentEndpoint": "http://qamarketplace.vtexcommercestable.com.br/api/fulfillment",
+			"fulfillmentEndpoint": "http://fulfillment.vtexcommerce.com.br/api/fulfillment?sc=1&an=adcos",
 			"id": "1",
-			"name": "qamarketplace",
+			"name": "Adcos",
 			"logo": ""
 		}
 	],
-	"paymentData": {
-		"giftCards": [],
-		"transactions": [
-			{
-				"isActive": true,
-				"transactionId": "51EF8E63221B48D0ABE8D3A2713BB9C9",
-				"merchantName": "QAMARKETPLACE",
-				"payments": [
-					{
-						"id": "5118AA9159F74CC0A465AA40FDD79AEB",
-						"paymentSystem": "4",
-						"paymentSystemName": "Mastercard",
-						"value": 5765,
-						"installments": 1,
-						"connectorResponses": {
-							"Tid": "27280794",
-							"ReturnCode": null,
-							"Message": null,
-							"authId": "280794"
-						},
-						"referenceValue": 5765,
-						"cardHolder": null,
-						"cardNumber": null,
-						"firstDigits": "510510",
-						"lastDigits": "5100",
-						"cvv2": null,
-						"expireMonth": null,
-						"expireYear": null,
-						"url": null,
-						"koinUrl": null,
-						"tid": "27280794",
-						"redemptionCode": null,
-						"giftCardId": null,
-						"giftCardProvider": null,
-						"giftCardAsDiscount": null,
-						"group": "creditCard",
-						"dueDate": null,
-						"accountId": "E8C19B0562284860BFB135DF99E1D748",
-						"parentAccountId": null
-					}
-				]
-			}
-		]
-	},
 	"giftRegistryData": null,
 	"receiptData": null,
 	"contextData": null,
 	"marketPlaceOrderId": "",
-	"orderFormId": "768bfdfb17ee48baaeb1b4e76a41b1df",
-	"sequence": "1301406",
+	"marketPlaceOrderGroup": null,
+	"marketplaceServicesEndpoint": null,
+	"orderFormId": "d2af87b400c14f6ab5384a2232ee5edc",
+	"sequence": "2635555",
 	"affiliateId": "",
 	"status": "",
 	"callCenterOperator": "",
-	"userProfileId": "88028af9-64b8-4b3e-8845-28bb9be6a276",
-	"hostName": "qamarketplace",
+	"userProfileId": "ba541014-c4db-4b33-a7ce-775dbce26ea6",
+	"hostName": "adcos",
 	"creationVersion": null,
 	"creationEnvironment": null,
 	"lastChangeVersion": null,
 	"workflowInstanceId": null,
-	"orderId": "803152678623-01",
-	"orderGroup": "803152678623",
+	"marketplacePaymentValue": null,
+	"orderId": "v2635555adcs-01",
+	"orderGroup": "v2635555adcs",
 	"state": "canceled",
 	"isCheckedIn": false,
-	"sellerOrderId": "00-803152678623-01",
+	"sellerOrderId": "00-v2635555adcs-01",
 	"storeId": null,
-	"value": 5765,
+	"checkedInPickupPointId": null,
+	"value": 14283,
 	"totals": [
 		{
 			"id": "Items",
 			"name": "Total dos Itens",
-			"value": 5764
+			"value": 13500
 		},
 		{
 			"id": "Discounts",
 			"name": "Total dos Descontos",
-			"value": -1500
+			"value": 0
 		},
 		{
 			"id": "Shipping",
 			"name": "Total do Frete",
-			"value": 1501
+			"value": 783
 		},
 		{
 			"id": "Tax",
@@ -201,13 +139,12 @@
 		}
 	],
 	"clientProfileData": {
-		"attachmentId": "clientProfileData",
-		"email": "email.reconhecido.automated@mailinator.com-43628b.ct.vtex.com.br",
-		"firstName": "Freds",
-		"lastName": "Da Bahia",
-		"document": "45362565800",
+		"email": "8fadeed6b3a34aa282739c018a8949b0@ct.vtex.com.br",
+		"firstName": "Daiane Cristina Carvalho",
+		"lastName": "Santana",
+		"document": "34797837837",
 		"documentType": "cpf",
-		"phone": "+552124666070",
+		"phone": "+5511997489660",
 		"corporateName": null,
 		"tradeName": null,
 		"corporateDocument": null,
@@ -219,61 +156,67 @@
 		"customerClass": null
 	},
 	"ratesAndBenefitsData": {
-		"attachmentId": "ratesAndBenefitsData",
 		"rateAndBenefitsIdentifiers": [
 			{
-				"id": "e518d70e-6da2-47bb-9e1a-6540a1a214c6",
-				"name": "Desconto no Sku 15",
+				"id": "fdc208f5-8df9-4eb6-bbf9-2c8002df8262",
+				"name": "Ganhe 2 Amostras",
 				"featured": false,
-				"description": null
+				"description": null,
+				"matchedParameters": {},
+				"additionalInfo": null
 			}
 		],
 		"teaser": []
 	},
 	"shippingData": {
-		"attachmentId": "shippingData",
 		"address": {
 			"addressType": "residential",
-			"receiverName": "Freds Da Bahia",
-			"addressId": "-1476460151082",
-			"postalCode": "22222-222",
-			"city": "Rio de Janeiro",
-			"state": "RJ",
+			"receiverName": "Daiane Cristina Carvalho Santana",
+			"addressId": "f49ad769910e4ae59e8b3ed66bb38f6c",
+			"isDisposable": false,
+			"postalCode": "18147-000",
+			"city": "Araçariguama",
+			"state": "SP",
 			"country": "BRA",
-			"street": "Rua da passagem",
-			"number": "4",
-			"neighborhood": "Botafogo",
+			"street": "Rua São João",
+			"number": "294",
+			"neighborhood": "Centro",
 			"complement": null,
 			"reference": null,
-			"geoCoordinates": []
+			"geoCoordinates": [
+				-47.061279296875,
+				-23.437091827392578
+			]
 		},
 		"logisticsInfo": [
 			{
 				"itemIndex": 0,
-				"selectedSla": "Normal",
+				"selectedSla": "Transportadora",
 				"selectedDeliveryChannel": "delivery",
-				"addressId": "-1476460151082",
+				"addressId": "f49ad769910e4ae59e8b3ed66bb38f6c",
 				"slas": [
 					{
-						"id": "Normal",
+						"id": "Transportadora",
 						"deliveryChannel": "delivery",
-						"name": "Normal",
+						"name": "Transportadora",
 						"deliveryIds": [
 							{
-								"courierId": "1",
-								"warehouseId": "169cdbc",
-								"dockId": "1",
-								"courierName": "Transportadora",
-								"quantity": 1
+								"courierId": "1b379a8",
+								"warehouseId": "1_1",
+								"dockId": "1_1_1",
+								"courierName": "TotalExpress01",
+								"quantity": 1,
+								"kitItemDetails": [],
+								"totalListPrice": 0
 							}
 						],
-						"shippingEstimate": "7d",
+						"shippingEstimate": "12bd",
 						"shippingEstimateDate": null,
-						"lockTTL": "8d",
+						"lockTTL": "10d",
 						"availableDeliveryWindows": [],
 						"deliveryWindow": null,
-						"price": 1501,
-						"listPrice": 1501,
+						"price": 783,
+						"listPrice": 783,
 						"tax": 0,
 						"pickupStoreInfo": {
 							"isPickupStore": false,
@@ -281,16 +224,21 @@
 							"address": null,
 							"additionalInfo": null,
 							"dockId": null
-						}
+						},
+						"pickupPointId": null,
+						"pickupDistance": 0,
+						"polygonName": null,
+						"transitTime": "5bd"
 					}
 				],
 				"shipsTo": [
 					"BRA"
 				],
-				"itemId": "15",
+				"itemId": "2000466",
 				"deliveryChannels": [
 					{
-						"id": "delivery"
+						"id": "delivery",
+						"stockBalance": 0
 					}
 				]
 			}
@@ -298,40 +246,93 @@
 		"selectedAddresses": [
 			{
 				"addressType": "residential",
-				"receiverName": "Freds Da Bahia",
-				"addressId": "-1476460151082",
-				"postalCode": "22222-222",
-				"city": "Rio de Janeiro",
-				"state": "RJ",
+				"receiverName": "Daiane Cristina Carvalho Santana",
+				"addressId": "f49ad769910e4ae59e8b3ed66bb38f6c",
+				"isDisposable": false,
+				"postalCode": "18147-000",
+				"city": "Araçariguama",
+				"state": "SP",
 				"country": "BRA",
-				"street": "Rua da passagem",
-				"number": "4",
-				"neighborhood": "Botafogo",
+				"street": "Rua São João",
+				"number": "294",
+				"neighborhood": "Centro",
 				"complement": null,
 				"reference": null,
-				"geoCoordinates": []
+				"geoCoordinates": [
+					-47.061279296875,
+					-23.437091827392578
+				]
 			}
 		],
 		"availableAddresses": [
 			{
 				"addressType": "residential",
-				"receiverName": "Freds Da Bahia",
-				"addressId": "-1476460151082",
-				"postalCode": "22222-222",
-				"city": "Rio de Janeiro",
-				"state": "RJ",
+				"receiverName": "Daiane Cristina Carvalho Santana",
+				"addressId": "f49ad769910e4ae59e8b3ed66bb38f6c",
+				"isDisposable": false,
+				"postalCode": "18147-000",
+				"city": "Araçariguama",
+				"state": "SP",
 				"country": "BRA",
-				"street": "Rua da passagem",
-				"number": "4",
-				"neighborhood": "Botafogo",
+				"street": "Rua São João",
+				"number": "294",
+				"neighborhood": "Centro",
 				"complement": null,
 				"reference": null,
-				"geoCoordinates": []
+				"geoCoordinates": [
+					-47.061279296875,
+					-23.437091827392578
+				]
+			}
+		],
+		"pickupPoints": []
+	},
+	"paymentData": {
+		"giftCards": [],
+		"transactions": [
+			{
+				"isActive": true,
+				"transactionId": "671F50D99D764081A879F65D5656946F",
+				"merchantName": "ADCOS",
+				"payments": [
+					{
+						"id": "E04B00432B784F0EAE61F82FCA2A0FC2",
+						"paymentSystem": "6",
+						"paymentSystemName": "Boleto Bancário",
+						"value": 14283,
+						"installments": 1,
+						"connectorResponses": {},
+						"referenceValue": 14283,
+						"cardHolder": null,
+						"cardNumber": null,
+						"firstDigits": null,
+						"lastDigits": null,
+						"cvv2": null,
+						"expireMonth": null,
+						"expireYear": null,
+						"url": "https://shopline.itau.com.br/shopline/shopline.aspx?DC=G183U175U211U10U230U105U152U162U238U61U165U217U103U205U7U128U92U103U208U14U7U145U41U97U254U240U198U252U3U181U37U254U60U236U24U29U191U143U153U244U46U132U48U27U0U78U216U126U210U19U252U52U152U62U252U55U108U62U9U98U151U115U53U82U188U149U208U111U156U14U36U42U38U53U119U196U168U99U17U131U119U120U230U136U22U25U104U126U51U106U196U43U222U213U199U248U37U163U195U29U242U151U241U158U76U67U7U195U45U156U59U197U9U64U118U90U212U121U91U193U32U168U232U172U118U148U19U100U255U180U190U96U151U236U110U139U49U144U8U219U138U158U132U45U107U235U72U82U175U105U83U56U164U163U88U215U112U110U115U25U208U144U236U221U56U43U125U165U28U64U53U52U35U220U4U62U7U118U119U164U8U192U99U17U72U47U115U140U163U73U110U102U127U42U235U57U40U230U174U25U163U92U212U30U6U9U6U72U139U102U36U117U188U211U163U134U251U126U21U149U193U239U235U126U94U141U179U12U15U25U89U165U133U59U216U47U209U52U93U155U79U123U222U151U130U29U106U75U230U20U189U181U78U171U23U158U253U22U133U204U139U77U251U148U18U219U151U245U52U96U67U119U4U243U174U88U4U120U251U221U144U198U241U86U28U251U38U65U14U142U63U175U86U89U150U46U95U83U123U202U97U178U33U134U232U111U177U99U182U139U211U195U135U161U60U28U109U0U151U39U229U183U30U87U183U128U3U119U159U20U151U44U128U168U126U231U81U146U198U167U116U12U128U167U47U187U52U44U198U242U185U99U150U230U0U17U25U123U175U236U236U155U191U106U26U60U186U33U22U51U190U221U195U112U234U156U102U21U39U16U177U27U124U210U106U40U48U68U61U216U180U188U56U30U118U205U92U99U96U52U213U197U208U100U214U16U75U253U129U2U108U100U226U227U144U63U193U74U141U188U27U188U91U111U46U152U102U206U224U218U181U32U207U76U61U93U141U232U174U48U40U193U183U23U155U128U78U172U238U94U29U27U7U130U106U181U32U31U",
+						"koinUrl": null,
+						"tid": null,
+						"redemptionCode": null,
+						"giftCardId": null,
+						"giftCardProvider": null,
+						"giftCardAsDiscount": null,
+						"group": "bankInvoice",
+						"dueDate": null,
+						"accountId": null,
+						"parentAccountId": null,
+						"bankIssuedInvoiceIdentificationNumber": null,
+						"bankIssuedInvoiceIdentificationNumberFormatted": null,
+						"bankIssuedInvoiceBarCodeNumber": null,
+						"bankIssuedInvoiceBarCodeType": null,
+						"billingAddress": null
+					}
+				],
+				"sharedTransaction": false
 			}
 		]
 	},
 	"clientPreferencesData": {
-		"attachmentId": "clientPreferencesData",
 		"locale": "pt-BR",
 		"optinNewsLetter": true
 	},
@@ -339,10 +340,7 @@
 	"marketingData": null,
 	"storePreferencesData": {
 		"countryCode": "BRA",
-		"checkToSavePersonDataByDefault": false,
-		"templateOptions": {
-			"toggleCorporate": false
-		},
+		"saveUserData": false,
 		"timeZone": "E. South America Standard Time",
 		"currencyCode": "BRL",
 		"currencyLocale": 1046,
@@ -356,47 +354,55 @@
 		}
 	},
 	"openTextField": null,
+	"invoiceData": null,
+	"itemMetadata": null,
+	"taxData": null,
 	"customData": null,
 	"hooksData": null,
 	"changeData": null,
+	"subscriptionData": null,
 	"salesChannel": "1",
-	"followUpEmail": "3a401b9b9e9a472db7cd5a2ba2a30bc2@ct.vtex.com.br",
-	"creationDate": "2018-01-14T02:45:00.1946268Z",
-	"lastChange": "2018-01-14T02:45:32.7611609Z",
-	"timeZoneCreationDate": "2018-01-14T00:45:00.1946268",
-	"timeZoneLastChange": "2018-01-14T00:45:32.7611609",
+	"followUpEmail": "e681b2086ad9421f9f9066e6623e8bed@ct.vtex.com.br",
+	"creationDate": "2021-03-21T03:50:53.3230686Z",
+	"lastChange": "2021-03-30T03:55:50.585172Z",
+	"timeZoneCreationDate": "2021-03-21T00:50:53.3230686",
+	"timeZoneLastChange": "2021-03-30T00:55:50.585172",
 	"isCompleted": true,
 	"merchantName": null,
 	"userType": "",
 	"roundingError": 0,
 	"allowEdition": false,
 	"allowCancellation": false,
+	"isUserDataVisible": false,
+	"allowChangeSeller": false,
+	"cancellationData": {
+		"requestedByUser": false,
+		"requestedByPaymentNotification": true,
+		"reason": null,
+		"cancellationDate": "2021-03-30T03:55:48.8867405Z"
+	},
 	"_accountInfo": {
-		"HostName": "qamarketplace",
-		"MainAccountName": "qamarketplace",
-		"IsPersisted": true,
-		"IsRemoved": false,
-    "Id": "e39d05f9-0c54-4469-a626-8bb5cff169f8",
-		"Cnpj": "99999999999999",
-		"CompanyName": "QA Marketplace VTEX",
-		"TradingName": "VTEX Developers",
-		"AccountName": "qamarketplace",
-		"DefaultUrl": null,
-		"Address": "Praia de Botafogo",
-		"Number": "518",
-		"Complement": "2 andar",
-		"District": "Botafogo",
-		"City": "Rio de Janeiro",
-		"State": "RJ",
-		"PostalCode": "22250-040",
-		"Country": "Brazil",
-		"Telephone": null,
+		"MainAccountName": "adcos",
+		"AccountName": "adcos",
+		"Cnpj": "17104789000123",
+		"Id": "2dc2f396-93a7-4c1d-a474-d848b29544e0",
 		"IsActive": true,
-		"Sponsor": "d79f2b67-2d3f-4cd8-9337-5f5dda7c757a",
-		"Logo": null,
-		"AppId": "49fb1d8f-256f-4d5d-9280-35595c6e0493",
-		"IsOperating": false,
-		"LV": "LV-1066896",
-		"Sigla": null
+		"IsOperating": true,
+		"CreationDate": "2012-12-23T00:00:00",
+		"OperationDate": "2013-01-01T00:00:00",
+		"CompanyName": "ADCOS - FULL COMMERCE INTEGRACAO COMERCIAL LTDA",
+		"TradingName": "Adcos",
+		"City": null,
+		"Complement": null,
+		"Country": null,
+		"State": null,
+		"Address": null,
+		"District": null,
+		"Number": null,
+		"PostalCode": null,
+		"Licences": null,
+		"ParentAccountName": null,
+		"InactivationDate": null,
+		"Platform": "vtex"
 	}
 }

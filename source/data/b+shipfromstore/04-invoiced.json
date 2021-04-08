@@ -1,0 +1,516 @@
+{
+	"package": {
+		"items": [
+			{
+				"itemIndex": 0,
+				"quantity": 1,
+				"price": 4000,
+				"description": null,
+				"unitMultiplier": 0
+			}
+		],
+		"courier": "Transportadora",
+		"invoiceNumber": "00000001",
+		"invoiceValue": 4800,
+		"invoiceUrl": "http://notaobrigatoria.com",
+		"issuanceDate": "2021-04-07T03:00:00Z",
+		"trackingNumber": "XSE1221BR",
+		"invoiceKey": "chavedeacesso",
+		"trackingUrl": "http://urlderastreio.com",
+		"embeddedInvoice": "",
+		"type": "Output",
+		"courierStatus": null,
+		"cfop": null,
+		"restitutions": {},
+		"volumes": null
+	},
+	"subjectItemAttachment": {
+		"item": "Produto Teste C1",
+		"totalItems": 1
+	},
+	"cancellationReason": null,
+	"items": [
+		{
+			"additionalInfo": {
+				"categoriesIds": "/1000024/1000042/",
+				"productClusterId": "145,155,1255,1406,1412,1414,1458,1672,1692",
+				"commercialConditionId": "1",
+				"dimension": {
+					"cubicweight": 1,
+					"height": 15.9,
+					"length": 6.2,
+					"weight": 30,
+					"width": 4
+				},
+				"brandName": "ADCOS",
+				"brandId": "101",
+				"offeringInfo": null,
+				"offeringType": null,
+				"offeringTypeId": null
+			},
+			"sellerSku": "2000464",
+			"priceTable": null,
+			"priceValidUntil": "2022-04-07T04:29:02Z",
+			"callCenterOperator": null,
+			"commission": 0,
+			"freightCommission": 0,
+			"taxCode": "",
+			"catalogProvider": "vrn:vtex.catalog-api-proxy:-:adcos:master:/proxy/authenticated/catalog/pvt/sku/stockkeepingunitbyid/2000464",
+			"costPrice": null,
+			"uniqueId": "A7FF781051A7418BA734287F642E9E70",
+			"id": "2000464",
+			"productId": "2000403",
+			"productRefId": "",
+			"refId": "30000",
+			"ean": "wer",
+			"name": "Produto Teste C1",
+			"skuName": "Produto Teste C1",
+			"modalType": null,
+			"parentItemIndex": null,
+			"parentAssemblyBinding": null,
+			"assemblies": [],
+			"tax": 0,
+			"priceDefinitions": null,
+			"price": 4000,
+			"listPrice": 4000,
+			"manualPrice": null,
+			"manualPriceAppliedBy": null,
+			"sellingPrice": 4000,
+			"skuSpecifications": null,
+			"orderRewardStatus": null,
+			"rewardValue": 0,
+			"isGift": false,
+			"preSaleDate": null,
+			"productCategoryIds": "/1000024/1000042/",
+			"productCategories": {
+				"1000024": "Tratamento Capilar",
+				"1000042": "Restauração"
+			},
+			"quantity": 1,
+			"seller": "adcossp4007morumbi",
+			"sellerChain": [
+				"adcossp4007morumbi"
+			],
+			"imageUrl": "http://lojaadcos.vteximg.com.br/arquivos/ids/162118-90-90/Produto-Teste.png?v=637532564667330000",
+			"detailUrl": "/produto-teste-volume/p",
+			"components": [],
+			"bundleItems": [],
+			"attachments": [],
+			"attachmentOfferings": [],
+			"offerings": [],
+			"priceTags": [],
+			"availability": "available",
+			"measurementUnit": "un",
+			"unitMultiplier": 1,
+			"manufacturerCode": ""
+		}
+	],
+	"sellers": [
+		{
+			"subSellerId": "1",
+			"fulfillmentEndpoint": "http://fulfillment.vtexcommerce.com.br/api/fulfillment?affiliateid=SLR&sc=1&an=adcossp4007morumbi",
+			"id": "adcossp4007morumbi",
+			"name": "adcossp4007morumbi",
+			"logo": null
+		}
+	],
+	"giftRegistryData": null,
+	"receiptData": null,
+	"contextData": null,
+	"marketPlaceOrderId": "",
+	"marketPlaceOrderGroup": null,
+	"marketplaceServicesEndpoint": null,
+	"orderFormId": "fdb810f2396449a5b46aac24086d704d",
+	"sequence": "2656928",
+	"affiliateId": "",
+	"status": "",
+	"callCenterOperator": "",
+	"userProfileId": "b605dc93-cb6f-4213-8632-603784548e82",
+	"hostName": "adcos",
+	"creationVersion": null,
+	"creationEnvironment": null,
+	"lastChangeVersion": null,
+	"workflowInstanceId": null,
+	"marketplacePaymentValue": null,
+	"orderId": "v2656928adcs-01",
+	"orderGroup": "v2656928adcs",
+	"state": "payment-approved",
+	"isCheckedIn": false,
+	"sellerOrderId": "SLR-v2656928adcs-01",
+	"storeId": null,
+	"checkedInPickupPointId": null,
+	"value": 4800,
+	"totals": [
+		{
+			"id": "Items",
+			"name": "Total dos Itens",
+			"value": 4000
+		},
+		{
+			"id": "Discounts",
+			"name": "Total dos Descontos",
+			"value": 0
+		},
+		{
+			"id": "Shipping",
+			"name": "Total do Frete",
+			"value": 800
+		},
+		{
+			"id": "Tax",
+			"name": "Total da Taxa",
+			"value": 0
+		}
+	],
+	"clientProfileData": {
+		"email": "ae0377df04924c1c94028a7f1472ca46@ct.vtex.com.br",
+		"firstName": "Paulo",
+		"lastName": "teste",
+		"document": "26211269870",
+		"documentType": "cpf",
+		"phone": "+551120902660",
+		"corporateName": null,
+		"tradeName": null,
+		"corporateDocument": null,
+		"stateInscription": "",
+		"corporatePhone": null,
+		"isCorporate": false,
+		"profileCompleteOnLoading": false,
+		"profileErrorOnLoading": false,
+		"customerClass": null
+	},
+	"ratesAndBenefitsData": {
+		"rateAndBenefitsIdentifiers": [
+			{
+				"id": "fdc208f5-8df9-4eb6-bbf9-2c8002df8262",
+				"name": "Ganhe 2 Amostras",
+				"featured": false,
+				"description": null,
+				"matchedParameters": {},
+				"additionalInfo": null
+			}
+		],
+		"teaser": []
+	},
+	"shippingData": {
+		"address": {
+			"addressType": "residential",
+			"receiverName": "Paulo teste",
+			"addressId": "1617769458923",
+			"isDisposable": false,
+			"postalCode": "04707-900",
+			"city": "São Paulo",
+			"state": "SP",
+			"country": "BRA",
+			"street": "Avenida Roque Petroni Júnior (Condomínio Morumbi Shopping)",
+			"number": "32",
+			"neighborhood": "Jardim das Acácias",
+			"complement": "teste",
+			"reference": null,
+			"geoCoordinates": [
+				-46.698822021484375,
+				-23.6234073638916
+			]
+		},
+		"logisticsInfo": [
+			{
+				"itemIndex": 0,
+				"selectedSla": "Transportadora Shop.Morumbi",
+				"selectedDeliveryChannel": "delivery",
+				"addressId": "1617769458923",
+				"slas": [
+					{
+						"id": "Transportadora Shop.Morumbi",
+						"deliveryChannel": "delivery",
+						"name": "Transportadora Shop.Morumbi",
+						"deliveryIds": [
+							{
+								"courierId": "1049121",
+								"warehouseId": "1dfc20f",
+								"dockId": "1c0754a",
+								"courierName": "Transportadora",
+								"quantity": 1,
+								"kitItemDetails": [],
+								"totalListPrice": 0
+							}
+						],
+						"shippingEstimate": "2bd",
+						"shippingEstimateDate": "2021-04-09T04:36:49.484464Z",
+						"lockTTL": "12d",
+						"availableDeliveryWindows": [],
+						"deliveryWindow": null,
+						"price": 800,
+						"listPrice": 800,
+						"tax": 0,
+						"pickupStoreInfo": {
+							"isPickupStore": false,
+							"friendlyName": null,
+							"address": null,
+							"additionalInfo": null,
+							"dockId": null
+						},
+						"pickupPointId": null,
+						"pickupDistance": null,
+						"polygonName": null,
+						"transitTime": "1bd"
+					}
+				],
+				"shipsTo": [
+					"BRA"
+				],
+				"itemId": "2000464",
+				"deliveryChannels": [
+					{
+						"id": "pickup-in-point",
+						"stockBalance": 0
+					},
+					{
+						"id": "delivery",
+						"stockBalance": 0
+					}
+				]
+			}
+		],
+		"selectedAddresses": [
+			{
+				"addressType": "residential",
+				"receiverName": "Paulo teste",
+				"addressId": "1617769458923",
+				"isDisposable": false,
+				"postalCode": "04707-900",
+				"city": "São Paulo",
+				"state": "SP",
+				"country": "BRA",
+				"street": "Avenida Roque Petroni Júnior (Condomínio Morumbi Shopping)",
+				"number": "32",
+				"neighborhood": "Jardim das Acácias",
+				"complement": "teste",
+				"reference": null,
+				"geoCoordinates": [
+					-46.698822021484375,
+					-23.6234073638916
+				]
+			}
+		],
+		"availableAddresses": [
+			{
+				"addressType": "residential",
+				"receiverName": "Paulo teste",
+				"addressId": "1617769458923",
+				"isDisposable": false,
+				"postalCode": "04707-900",
+				"city": "São Paulo",
+				"state": "SP",
+				"country": "BRA",
+				"street": "Avenida Roque Petroni Júnior (Condomínio Morumbi Shopping)",
+				"number": "32",
+				"neighborhood": "Jardim das Acácias",
+				"complement": "teste",
+				"reference": null,
+				"geoCoordinates": [
+					-46.698822021484375,
+					-23.6234073638916
+				]
+			}
+		],
+		"pickupPoints": [
+			{
+				"friendlyName": "Morumbi Shopping",
+				"address": {
+					"addressType": "pickup",
+					"receiverName": null,
+					"addressId": "46e03585-b197-422a-84a2-3f4989952099",
+					"isDisposable": true,
+					"postalCode": "04707-000",
+					"city": "São Paulo",
+					"state": "SP",
+					"country": "BRA",
+					"street": "Avenida Roque Petroni Júnior",
+					"number": "1089",
+					"neighborhood": "Vila Gertrudes",
+					"complement": "Loja 225",
+					"reference": null,
+					"geoCoordinates": [
+						-46.68819,
+						-23.62623
+					]
+				},
+				"additionalInfo": "",
+				"id": "adcossp4007morumbi_46e03585-b197-422a-84a2-3f4989952099",
+				"businessHours": [
+					{
+						"DayOfWeek": 0,
+						"OpeningTime": "14:00:00",
+						"ClosingTime": "20:00:00"
+					},
+					{
+						"DayOfWeek": 1,
+						"OpeningTime": "10:00:00",
+						"ClosingTime": "22:00:00"
+					},
+					{
+						"DayOfWeek": 2,
+						"OpeningTime": "10:00:00",
+						"ClosingTime": "22:00:00"
+					},
+					{
+						"DayOfWeek": 3,
+						"OpeningTime": "10:00:00",
+						"ClosingTime": "22:00:00"
+					},
+					{
+						"DayOfWeek": 4,
+						"OpeningTime": "10:00:00",
+						"ClosingTime": "22:00:00"
+					},
+					{
+						"DayOfWeek": 5,
+						"OpeningTime": "10:00:00",
+						"ClosingTime": "22:00:00"
+					},
+					{
+						"DayOfWeek": 6,
+						"OpeningTime": "10:00:00",
+						"ClosingTime": "22:00:00"
+					}
+				]
+			}
+		]
+	},
+	"paymentData": {
+		"giftCards": [],
+		"transactions": [
+			{
+				"isActive": true,
+				"transactionId": "107C4E6C56EC4AAEAB72748E7CFA7BAA",
+				"merchantName": "ADCOS",
+				"payments": [
+					{
+						"id": "B4D606311C2E4C8E86F0E0F7477233FE",
+						"paymentSystem": "4",
+						"paymentSystemName": "Mastercard",
+						"value": 4800,
+						"installments": 1,
+						"connectorResponses": {
+							"Tid": "10605430170VTVJ4GUTE",
+							"ReturnCode": "0",
+							"Message": "Sucesso",
+							"authId": "089403",
+							"Nsu": "020644",
+							"Arp": "089403",
+							"eci": "0",
+							"lr": "00"
+						},
+						"referenceValue": 4800,
+						"cardHolder": null,
+						"cardNumber": null,
+						"firstDigits": "531681",
+						"lastDigits": "3714",
+						"cvv2": null,
+						"expireMonth": null,
+						"expireYear": null,
+						"url": null,
+						"koinUrl": null,
+						"tid": "10605430170VTVJ4GUTE",
+						"redemptionCode": null,
+						"giftCardId": null,
+						"giftCardProvider": null,
+						"giftCardAsDiscount": null,
+						"group": "creditCard",
+						"dueDate": null,
+						"accountId": "EE97689B54D2451AA94A96E6E800D573",
+						"parentAccountId": null,
+						"bankIssuedInvoiceIdentificationNumber": null,
+						"bankIssuedInvoiceIdentificationNumberFormatted": null,
+						"bankIssuedInvoiceBarCodeNumber": null,
+						"bankIssuedInvoiceBarCodeType": null,
+						"billingAddress": {
+							"addressType": null,
+							"receiverName": null,
+							"addressId": null,
+							"isDisposable": false,
+							"postalCode": "03556050",
+							"city": "São Paulo",
+							"state": "SP",
+							"country": "BRA",
+							"street": "Praça Padre Léo Morin",
+							"number": "264",
+							"neighborhood": "Cidade Patriarca",
+							"complement": "",
+							"reference": null,
+							"geoCoordinates": []
+						}
+					}
+				],
+				"sharedTransaction": false
+			}
+		]
+	},
+	"clientPreferencesData": {
+		"locale": "pt-BR",
+		"optinNewsLetter": false
+	},
+	"commercialConditionData": null,
+	"marketingData": null,
+	"storePreferencesData": {
+		"countryCode": "BRA",
+		"saveUserData": false,
+		"timeZone": "E. South America Standard Time",
+		"currencyCode": "BRL",
+		"currencyLocale": 1046,
+		"currencySymbol": "R$",
+		"currencyFormatInfo": {
+			"currencyDecimalDigits": 2,
+			"currencyDecimalSeparator": ",",
+			"currencyGroupSeparator": ".",
+			"currencyGroupSize": 3,
+			"startsWithCurrencySymbol": true
+		}
+	},
+	"openTextField": null,
+	"invoiceData": null,
+	"itemMetadata": null,
+	"taxData": null,
+	"customData": null,
+	"hooksData": null,
+	"changeData": null,
+	"subscriptionData": null,
+	"salesChannel": "1",
+	"followUpEmail": "a0f1cad11add4beaaed2b22b4c97c94d@ct.vtex.com.br",
+	"creationDate": "2021-04-07T04:35:28.2651633Z",
+	"lastChange": "2021-04-07T04:36:58.4887426Z",
+	"timeZoneCreationDate": "2021-04-07T01:35:28.2651633",
+	"timeZoneLastChange": "2021-04-07T01:36:58.4887426",
+	"isCompleted": true,
+	"merchantName": null,
+	"userType": "",
+	"roundingError": 0,
+	"allowEdition": false,
+	"allowCancellation": false,
+	"isUserDataVisible": false,
+	"allowChangeSeller": false,
+	"_accountInfo": {
+		"MainAccountName": "adcos",
+		"AccountName": "adcos",
+		"Cnpj": "17104789000123",
+		"Id": "2dc2f396-93a7-4c1d-a474-d848b29544e0",
+		"IsActive": true,
+		"IsOperating": true,
+		"CreationDate": "2012-12-23T00:00:00",
+		"OperationDate": "2013-01-01T00:00:00",
+		"CompanyName": "ADCOS - FULL COMMERCE INTEGRACAO COMERCIAL LTDA",
+		"TradingName": "Adcos",
+		"City": null,
+		"Complement": null,
+		"Country": null,
+		"State": null,
+		"Address": null,
+		"District": null,
+		"Number": null,
+		"PostalCode": null,
+		"Licences": null,
+		"ParentAccountName": null,
+		"InactivationDate": null,
+		"Platform": "vtex"
+	}
+}

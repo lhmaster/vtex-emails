@@ -1,169 +1,801 @@
 {
-    "orders": [
+	"orders": [
 		{
 			"package": null,
 			"subjectItemAttachment": {
-				"item": "Camisa Flamengo Bran...",
-				"totalItems": 1
+				"item": "Neoderm Complex Séru...",
+				"totalItems": 8,
+				"extraItems": 7
 			},
+			"cancellationReason": null,
 			"items": [
 				{
 					"additionalInfo": {
-						"dimension": {
-							"cubicweight": 0.0002,
-							"height": 1,
-							"length": 1,
-							"weight": 1,
-							"width": 1
-						},
-						"categoriesIds": "/1/2/3/",
-						"productClusterId": "135",
+						"categoriesIds": "/1000001/1000032/",
+						"productClusterId": "145,155,1202,1204,1205,1363,1411,1412,1414,1429,1441,1448,1449,1458,1461,1494,1534,1540,1553,1559,1569,1593,1595,1599,1618,1629,1652,1665,1671,1692,1693",
 						"commercialConditionId": "1",
-						"brandName": "Marca 1",
-						"brandId": "2000001",
+						"dimension": {
+							"cubicweight": 1,
+							"height": 6,
+							"length": 12,
+							"weight": 100,
+							"width": 5
+						},
+						"brandName": "ADCOS",
+						"brandId": "1",
 						"offeringInfo": null,
 						"offeringType": null,
 						"offeringTypeId": null
 					},
-					"sellerSku": "249",
-					"priceValidUntil": "2019-01-12T17:10:13.7672225Z",
+					"sellerSku": "2000470",
+					"priceTable": null,
+					"priceValidUntil": "2022-03-30T04:28:13Z",
 					"callCenterOperator": null,
 					"commission": 0,
 					"freightCommission": 0,
-					"uniqueId": "D58BC2B842E941C29D6782521A0F5D39",
-					"id": "249",
-					"productId": "234",
-					"refId": "209290",
-					"ean": "7898947707044",
-					"name": "Camisa Flamengo Branca",
-					"skuName": "Camisa Flamengo Branca",
+					"taxCode": "",
+					"catalogProvider": "vrn:vtex.catalog-api-proxy:-:adcos:master:/proxy/authenticated/catalog/pvt/sku/stockkeepingunitbyid/2000470",
+					"costPrice": null,
+					"uniqueId": "15188CC8BB8247B1987FF4AE20513F96",
+					"id": "2000470",
+					"productId": "2000406",
+					"productRefId": "",
+					"refId": "9494",
+					"ean": "7897975694944",
+					"name": "Acne Solution Sabonete Antiacne 60ml",
+					"skuName": "60ml",
 					"modalType": null,
+					"parentItemIndex": null,
+					"parentAssemblyBinding": null,
+					"assemblies": [],
 					"tax": 0,
-					"price": 24900,
-					"listPrice": 1000,
+					"priceDefinitions": null,
+					"price": 4900,
+					"listPrice": 4900,
 					"manualPrice": null,
-					"sellingPrice": 24900,
+					"manualPriceAppliedBy": null,
+					"sellingPrice": 4410,
+					"skuSpecifications": null,
+					"orderRewardStatus": null,
 					"rewardValue": 0,
 					"isGift": false,
 					"preSaleDate": null,
-					"productCategoryIds": "/1/2/3/",
+					"productCategoryIds": "/1000001/1000032/",
 					"productCategories": {
-						"1": "Departamento 1",
-						"2": "Categoria 1.1",
-						"3": "Subcategoria 1.1"
+						"1000001": "Tratamento Facial",
+						"1000032": "Pele Acneica"
 					},
-					"defaultPicker": null,
-					"handlerSequence": 0,
-					"handling": false,
 					"quantity": 1,
-					"seller": "vtexgame3",
-					"imageUrl": "http://vtexgame1.vteximg.com.br/arquivos/ids/155631-55-55/camisaflamentobranca.jpg?v=636506877240300000",
-					"detailUrl": "/camisa-flamengo-branca/p",
+					"seller": "1",
+					"sellerChain": [
+						"1"
+					],
+					"imageUrl": "http://lojaadcos.vteximg.com.br/arquivos/ids/159900-90-90/Acne-Solution-Sabonete-Antiacne-60ml.jpg?v=636771088527600000",
+					"detailUrl": "/acne-solution-sabonete-antiacne/p",
 					"components": [],
 					"bundleItems": [],
 					"attachments": [],
-					"itemAttachment": {
-						"name": null,
-						"content": {}
-					},
 					"attachmentOfferings": [],
 					"offerings": [],
-					"priceTags": [],
+					"priceTags": [
+						{
+							"name": "discount@price-c3cbf816-d517-4b85-bb8a-bca96a263f39#b24925ae-90ce-46d7-8ba4-fd44f60641aa",
+							"value": -490,
+							"rawValue": -4.9,
+							"isPercentual": false,
+							"identifier": "c3cbf816-d517-4b85-bb8a-bca96a263f39"
+						},
+						{
+							"name": "discount@shipping-c5c2c456-efa4-4435-9e17-6fe6fdb78808#99da242d-7111-45b9-838e-9308ee8643a8",
+							"value": -190,
+							"rawValue": -1.9,
+							"isPercentual": false,
+							"identifier": "c5c2c456-efa4-4435-9e17-6fe6fdb78808"
+						}
+					],
 					"availability": "available",
 					"measurementUnit": "un",
-					"unitMultiplier": 1
+					"unitMultiplier": 1,
+					"manufacturerCode": "9494"
+				},
+				{
+					"additionalInfo": {
+						"categoriesIds": "/1000001/1000028/1000063/",
+						"productClusterId": "145,149,155,171,181,1182,1198,1204,1205,1223,1228,1231,1233,1240,1271,1272,1275,1277,1301,1313,1319,1336,1355,1366,1373,1377,1380,1384,1388,1397,1400,1401,1402,1405,1406,1411,1412,1414,1454,1456,1458,1507,1544,1563,1567,1569,1571,1577,1599,1672,1692",
+						"commercialConditionId": "1",
+						"dimension": {
+							"cubicweight": 0.0675,
+							"height": 6,
+							"length": 6,
+							"weight": 200,
+							"width": 9
+						},
+						"brandName": "ADCOS",
+						"brandId": "101",
+						"offeringInfo": null,
+						"offeringType": null,
+						"offeringTypeId": null
+					},
+					"sellerSku": "2000314",
+					"priceTable": null,
+					"priceValidUntil": "2022-03-30T04:24:23Z",
+					"callCenterOperator": null,
+					"commission": 0,
+					"freightCommission": 0,
+					"taxCode": "",
+					"catalogProvider": "vrn:vtex.catalog-api-proxy:-:adcos:master:/proxy/authenticated/catalog/pvt/sku/stockkeepingunitbyid/2000314",
+					"costPrice": null,
+					"uniqueId": "2F0530B1359B42DFB3A7E5FF589237E5",
+					"id": "2000314",
+					"productId": "2000270",
+					"productRefId": "9542",
+					"refId": "9542",
+					"ean": "7897975695422",
+					"name": "Máscara de Ouro 150g",
+					"skuName": "150g",
+					"modalType": null,
+					"parentItemIndex": null,
+					"parentAssemblyBinding": null,
+					"assemblies": [],
+					"tax": 0,
+					"priceDefinitions": null,
+					"price": 16500,
+					"listPrice": 16500,
+					"manualPrice": null,
+					"manualPriceAppliedBy": null,
+					"sellingPrice": 14850,
+					"skuSpecifications": null,
+					"orderRewardStatus": null,
+					"rewardValue": 0,
+					"isGift": false,
+					"preSaleDate": null,
+					"productCategoryIds": "/1000001/1000028/1000063/",
+					"productCategories": {
+						"1000001": "Tratamento Facial",
+						"1000028": "Anti-Idade",
+						"1000059": "Correção de Rugas e Linhas",
+						"1000063": "Máscaras",
+						"1000071": "Máscaras",
+						"1000072": "Antiflacidez"
+					},
+					"quantity": 1,
+					"seller": "1",
+					"sellerChain": [
+						"1"
+					],
+					"imageUrl": "http://lojaadcos.vteximg.com.br/arquivos/ids/160203-90-90/OURO.jpg?v=636945667057900000",
+					"detailUrl": "/mascara-de-ouro-adcos/p",
+					"components": [],
+					"bundleItems": [],
+					"attachments": [],
+					"attachmentOfferings": [],
+					"offerings": [],
+					"priceTags": [
+						{
+							"name": "discount@price-c3cbf816-d517-4b85-bb8a-bca96a263f39#b24925ae-90ce-46d7-8ba4-fd44f60641aa",
+							"value": -1650,
+							"rawValue": -16.5,
+							"isPercentual": false,
+							"identifier": "c3cbf816-d517-4b85-bb8a-bca96a263f39"
+						},
+						{
+							"name": "discount@shipping-c5c2c456-efa4-4435-9e17-6fe6fdb78808#99da242d-7111-45b9-838e-9308ee8643a8",
+							"value": -381,
+							"rawValue": -3.81,
+							"isPercentual": false,
+							"identifier": "c5c2c456-efa4-4435-9e17-6fe6fdb78808"
+						}
+					],
+					"availability": "available",
+					"measurementUnit": "un",
+					"unitMultiplier": 1,
+					"manufacturerCode": "9542"
+				},
+				{
+					"additionalInfo": {
+						"categoriesIds": "/1000001/1000029/",
+						"productClusterId": "145,155,1199,1204,1205,1406,1411,1412,1414,1458,1480,1558,1559,1569,1578,1610,1625,1636,1672,1692,1696",
+						"commercialConditionId": "1",
+						"dimension": {
+							"cubicweight": 0.09,
+							"height": 12,
+							"length": 6,
+							"weight": 300,
+							"width": 6
+						},
+						"brandName": "ADCOS",
+						"brandId": "1",
+						"offeringInfo": null,
+						"offeringType": null,
+						"offeringTypeId": null
+					},
+					"sellerSku": "2000541",
+					"priceTable": null,
+					"priceValidUntil": "2022-03-30T04:24:23Z",
+					"callCenterOperator": null,
+					"commission": 0,
+					"freightCommission": 0,
+					"taxCode": "",
+					"catalogProvider": "vrn:vtex.catalog-api-proxy:-:adcos:master:/proxy/authenticated/catalog/pvt/sku/stockkeepingunitbyid/2000541",
+					"costPrice": null,
+					"uniqueId": "1B4E640C23D8402FB2142EF1444F1032",
+					"id": "2000541",
+					"productId": "2000458",
+					"productRefId": "9491",
+					"refId": "9491",
+					"ean": "7897975694913",
+					"name": "Pele Sensível Sabonete Suavizante 240ml",
+					"skuName": "240ml",
+					"modalType": null,
+					"parentItemIndex": null,
+					"parentAssemblyBinding": null,
+					"assemblies": [],
+					"tax": 0,
+					"priceDefinitions": null,
+					"price": 11900,
+					"listPrice": 11900,
+					"manualPrice": null,
+					"manualPriceAppliedBy": null,
+					"sellingPrice": 10710,
+					"skuSpecifications": null,
+					"orderRewardStatus": null,
+					"rewardValue": 0,
+					"isGift": false,
+					"preSaleDate": null,
+					"productCategoryIds": "/1000001/1000029/",
+					"productCategories": {
+						"1000001": "Tratamento Facial",
+						"1000029": "Higienização",
+						"1000034": "Pele Sensível"
+					},
+					"quantity": 1,
+					"seller": "1",
+					"sellerChain": [
+						"1"
+					],
+					"imageUrl": "http://lojaadcos.vteximg.com.br/arquivos/ids/160338-90-90/Sabonete-Suavizante_240ml.jpg?v=636982738679570000",
+					"detailUrl": "/pele-sensivel-sabonete-suavizante/p",
+					"components": [],
+					"bundleItems": [],
+					"attachments": [],
+					"attachmentOfferings": [],
+					"offerings": [],
+					"priceTags": [
+						{
+							"name": "discount@price-c3cbf816-d517-4b85-bb8a-bca96a263f39#b24925ae-90ce-46d7-8ba4-fd44f60641aa",
+							"value": -1190,
+							"rawValue": -11.9,
+							"isPercentual": false,
+							"identifier": "c3cbf816-d517-4b85-bb8a-bca96a263f39"
+						},
+						{
+							"name": "discount@shipping-c5c2c456-efa4-4435-9e17-6fe6fdb78808#99da242d-7111-45b9-838e-9308ee8643a8",
+							"value": -571,
+							"rawValue": -5.71,
+							"isPercentual": false,
+							"identifier": "c5c2c456-efa4-4435-9e17-6fe6fdb78808"
+						}
+					],
+					"availability": "available",
+					"measurementUnit": "un",
+					"unitMultiplier": 1,
+					"manufacturerCode": ""
+				},
+				{
+					"additionalInfo": {
+						"categoriesIds": "/1000001/1000028/",
+						"productClusterId": "145,149,155,171,1198,1204,1205,1406,1412,1414,1458,1637,1638,1643,1660,1664,1666,1667,1672,1678,1684,1689,1692,1698",
+						"commercialConditionId": "1",
+						"dimension": {
+							"cubicweight": 0.0333,
+							"height": 10,
+							"length": 4,
+							"weight": 50,
+							"width": 4
+						},
+						"brandName": "ADCOS",
+						"brandId": "1",
+						"offeringInfo": null,
+						"offeringType": null,
+						"offeringTypeId": null
+					},
+					"sellerSku": "2000673",
+					"priceTable": null,
+					"priceValidUntil": "2022-03-30T04:24:23Z",
+					"callCenterOperator": null,
+					"commission": 0,
+					"freightCommission": 0,
+					"taxCode": "",
+					"catalogProvider": "vrn:vtex.catalog-api-proxy:-:adcos:master:/proxy/authenticated/catalog/pvt/sku/stockkeepingunitbyid/2000673",
+					"costPrice": null,
+					"uniqueId": "934EE83F98E44C8D83EC189EBC91EFA6",
+					"id": "2000673",
+					"productId": "2000519",
+					"productRefId": "",
+					"refId": "9682",
+					"ean": "7897975696825",
+					"name": "Vitamina C 15 + Ácido Hialurônico 15ml",
+					"skuName": "15ml",
+					"modalType": null,
+					"parentItemIndex": null,
+					"parentAssemblyBinding": null,
+					"assemblies": [],
+					"tax": 0,
+					"priceDefinitions": null,
+					"price": 13500,
+					"listPrice": 13500,
+					"manualPrice": null,
+					"manualPriceAppliedBy": null,
+					"sellingPrice": 12150,
+					"skuSpecifications": null,
+					"orderRewardStatus": null,
+					"rewardValue": 0,
+					"isGift": false,
+					"preSaleDate": null,
+					"productCategoryIds": "/1000001/1000028/",
+					"productCategories": {
+						"1000001": "Tratamento Facial",
+						"1000028": "Anti-Idade"
+					},
+					"quantity": 1,
+					"seller": "1",
+					"sellerChain": [
+						"1"
+					],
+					"imageUrl": "http://lojaadcos.vteximg.com.br/arquivos/ids/161415-90-90/Vitamina-C-15-Acido-Hialuronico.png?v=637341343945470000",
+					"detailUrl": "/vitaminac-15-acido-hialuronico/p",
+					"components": [],
+					"bundleItems": [],
+					"attachments": [],
+					"attachmentOfferings": [],
+					"offerings": [],
+					"priceTags": [
+						{
+							"name": "discount@price-c3cbf816-d517-4b85-bb8a-bca96a263f39#b24925ae-90ce-46d7-8ba4-fd44f60641aa",
+							"value": -1350,
+							"rawValue": -13.5,
+							"isPercentual": false,
+							"identifier": "c3cbf816-d517-4b85-bb8a-bca96a263f39"
+						},
+						{
+							"name": "discount@shipping-c5c2c456-efa4-4435-9e17-6fe6fdb78808#99da242d-7111-45b9-838e-9308ee8643a8",
+							"value": -95,
+							"rawValue": -0.95,
+							"isPercentual": false,
+							"identifier": "c5c2c456-efa4-4435-9e17-6fe6fdb78808"
+						}
+					],
+					"availability": "available",
+					"measurementUnit": "un",
+					"unitMultiplier": 1,
+					"manufacturerCode": ""
+				},
+				{
+					"additionalInfo": {
+						"categoriesIds": "/1000001/1000028/",
+						"productClusterId": "145,155,156,157,161,171,181,1182,1198,1204,1205,1223,1271,1272,1280,1282,1319,1356,1373,1396,1400,1401,1403,1405,1406,1412,1414,1453,1458,1465,1518,1522,1593,1600,1608,1611,1612,1616,1617,1620,1622,1623,1624,1672,1692",
+						"commercialConditionId": "1",
+						"dimension": {
+							"cubicweight": 0.0851,
+							"height": 12.8,
+							"length": 5.7,
+							"weight": 37,
+							"width": 5.6
+						},
+						"brandName": "ADCOS",
+						"brandId": "1",
+						"offeringInfo": null,
+						"offeringType": null,
+						"offeringTypeId": null
+					},
+					"sellerSku": "2000178",
+					"priceTable": null,
+					"priceValidUntil": "2022-03-30T04:28:13Z",
+					"callCenterOperator": null,
+					"commission": 0,
+					"freightCommission": 0,
+					"taxCode": "",
+					"catalogProvider": "vrn:vtex.catalog-api-proxy:-:adcos:master:/proxy/authenticated/catalog/pvt/sku/stockkeepingunitbyid/2000178",
+					"costPrice": null,
+					"uniqueId": "4347EA3A21454203B15DF978C4E4AC36",
+					"id": "2000178",
+					"productId": "2000155",
+					"productRefId": "",
+					"refId": "9207",
+					"ean": "7897975692070",
+					"name": "Neoderm Complex Sérum Renovador 30ml",
+					"skuName": "30ml",
+					"modalType": null,
+					"parentItemIndex": null,
+					"parentAssemblyBinding": null,
+					"assemblies": [],
+					"tax": 0,
+					"priceDefinitions": null,
+					"price": 21500,
+					"listPrice": 21500,
+					"manualPrice": null,
+					"manualPriceAppliedBy": null,
+					"sellingPrice": 19350,
+					"skuSpecifications": null,
+					"orderRewardStatus": null,
+					"rewardValue": 0,
+					"isGift": false,
+					"preSaleDate": null,
+					"productCategoryIds": "/1000001/1000028/",
+					"productCategories": {
+						"1000001": "Tratamento Facial",
+						"1000028": "Anti-Idade",
+						"1000058": "Luminosidade",
+						"1000059": "Correção de Rugas e Linhas",
+						"1000070": "Renovação",
+						"1000081": "Masculino",
+						"1000084": "Renovação"
+					},
+					"quantity": 1,
+					"seller": "1",
+					"sellerChain": [
+						"1"
+					],
+					"imageUrl": "http://lojaadcos.vteximg.com.br/arquivos/ids/160142-90-90/9207_Neoderm-Complex-Serum-Renovador_30ml.jpg?v=636909390485070000",
+					"detailUrl": "/neoderm-complex-serum-renovador/p",
+					"components": [],
+					"bundleItems": [],
+					"attachments": [],
+					"attachmentOfferings": [],
+					"offerings": [],
+					"priceTags": [
+						{
+							"name": "discount@price-c3cbf816-d517-4b85-bb8a-bca96a263f39#b24925ae-90ce-46d7-8ba4-fd44f60641aa",
+							"value": -2150,
+							"rawValue": -21.5,
+							"isPercentual": false,
+							"identifier": "c3cbf816-d517-4b85-bb8a-bca96a263f39"
+						},
+						{
+							"name": "discount@shipping-c5c2c456-efa4-4435-9e17-6fe6fdb78808#99da242d-7111-45b9-838e-9308ee8643a8",
+							"value": -70,
+							"rawValue": -0.7,
+							"isPercentual": false,
+							"identifier": "c5c2c456-efa4-4435-9e17-6fe6fdb78808"
+						}
+					],
+					"availability": "available",
+					"measurementUnit": "un",
+					"unitMultiplier": 1,
+					"manufacturerCode": ""
+				},
+				{
+					"additionalInfo": {
+						"categoriesIds": "/1000001/1000028/1000061/",
+						"productClusterId": "145,149,155,171,1198,1204,1205,1406,1412,1414,1458,1500,1672,1682,1683,1685,1692",
+						"commercialConditionId": "1",
+						"dimension": {
+							"cubicweight": 1,
+							"height": 8,
+							"length": 5,
+							"weight": 30,
+							"width": 5
+						},
+						"brandName": "ADCOS",
+						"brandId": "1",
+						"offeringInfo": null,
+						"offeringType": null,
+						"offeringTypeId": null
+					},
+					"sellerSku": "2000684",
+					"priceTable": null,
+					"priceValidUntil": "2022-03-30T04:24:23Z",
+					"callCenterOperator": null,
+					"commission": 0,
+					"freightCommission": 0,
+					"taxCode": "",
+					"catalogProvider": "vrn:vtex.catalog-api-proxy:-:adcos:master:/proxy/authenticated/catalog/pvt/sku/stockkeepingunitbyid/2000684",
+					"costPrice": null,
+					"uniqueId": "F01407D39EBB43699DA4F95DFED0DD10",
+					"id": "2000684",
+					"productId": "2000526",
+					"productRefId": "",
+					"refId": "9666",
+					"ean": "7897975696665",
+					"name": "Hyalu 6 Área Olhos 15g",
+					"skuName": "15g",
+					"modalType": null,
+					"parentItemIndex": null,
+					"parentAssemblyBinding": null,
+					"assemblies": [],
+					"tax": 0,
+					"priceDefinitions": null,
+					"price": 20900,
+					"listPrice": 20900,
+					"manualPrice": null,
+					"manualPriceAppliedBy": null,
+					"sellingPrice": 18810,
+					"skuSpecifications": null,
+					"orderRewardStatus": null,
+					"rewardValue": 0,
+					"isGift": false,
+					"preSaleDate": null,
+					"productCategoryIds": "/1000001/1000028/1000061/",
+					"productCategories": {
+						"1000001": "Tratamento Facial",
+						"1000028": "Anti-Idade",
+						"1000061": "Olhos e Lábios"
+					},
+					"quantity": 1,
+					"seller": "1",
+					"sellerChain": [
+						"1"
+					],
+					"imageUrl": "http://lojaadcos.vteximg.com.br/arquivos/ids/161888-90-90/Hyalu-6-Area-Olhos.png?v=637425446818530000",
+					"detailUrl": "/hyalu-6-area-olhos/p",
+					"components": [],
+					"bundleItems": [],
+					"attachments": [],
+					"attachmentOfferings": [],
+					"offerings": [],
+					"priceTags": [
+						{
+							"name": "discount@price-c3cbf816-d517-4b85-bb8a-bca96a263f39#b24925ae-90ce-46d7-8ba4-fd44f60641aa",
+							"value": -2090,
+							"rawValue": -20.9,
+							"isPercentual": false,
+							"identifier": "c3cbf816-d517-4b85-bb8a-bca96a263f39"
+						},
+						{
+							"name": "discount@shipping-c5c2c456-efa4-4435-9e17-6fe6fdb78808#99da242d-7111-45b9-838e-9308ee8643a8",
+							"value": -57,
+							"rawValue": -0.57,
+							"isPercentual": false,
+							"identifier": "c5c2c456-efa4-4435-9e17-6fe6fdb78808"
+						}
+					],
+					"availability": "available",
+					"measurementUnit": "un",
+					"unitMultiplier": 1,
+					"manufacturerCode": ""
+				},
+				{
+					"additionalInfo": {
+						"categoriesIds": "/1000001/1000032/",
+						"productClusterId": "145,155,175,181,1182,1202,1204,1205,1223,1278,1319,1363,1400,1401,1406,1411,1414,1441,1449,1458,1540,1553,1593,1622,1669,1672,1692",
+						"commercialConditionId": "1",
+						"dimension": {
+							"cubicweight": 0.01,
+							"height": 12,
+							"length": 2,
+							"weight": 25,
+							"width": 2
+						},
+						"brandName": "ADCOS",
+						"brandId": "1",
+						"offeringInfo": null,
+						"offeringType": null,
+						"offeringTypeId": null
+					},
+					"sellerSku": "2000319",
+					"priceTable": null,
+					"priceValidUntil": "2022-03-30T04:24:23Z",
+					"callCenterOperator": null,
+					"commission": 0,
+					"freightCommission": 0,
+					"taxCode": "",
+					"catalogProvider": "vrn:vtex.catalog-api-proxy:-:adcos:master:/proxy/authenticated/catalog/pvt/sku/stockkeepingunitbyid/2000319",
+					"costPrice": null,
+					"uniqueId": "9A26FA25A4934E818AC65087C76C0736",
+					"id": "2000319",
+					"productId": "2000276",
+					"productRefId": "9429",
+					"refId": "9429",
+					"ean": "7897975694296",
+					"name": "Acne Solution Gel Secativo Pontual 15g",
+					"skuName": "15g",
+					"modalType": null,
+					"parentItemIndex": null,
+					"parentAssemblyBinding": null,
+					"assemblies": [],
+					"tax": 0,
+					"priceDefinitions": null,
+					"price": 13500,
+					"listPrice": 13500,
+					"manualPrice": null,
+					"manualPriceAppliedBy": null,
+					"sellingPrice": 12150,
+					"skuSpecifications": null,
+					"orderRewardStatus": null,
+					"rewardValue": 0,
+					"isGift": false,
+					"preSaleDate": null,
+					"productCategoryIds": "/1000001/1000032/",
+					"productCategories": {
+						"1000001": "Tratamento Facial",
+						"1000032": "Pele Acneica"
+					},
+					"quantity": 1,
+					"seller": "1",
+					"sellerChain": [
+						"1"
+					],
+					"imageUrl": "http://lojaadcos.vteximg.com.br/arquivos/ids/156730-90-90/Acne-Solution-Gel-Secativo-Pontual.jpg?v=636003103190800000",
+					"detailUrl": "/adcos-acne-solution-gel-secativo-pontual/p",
+					"components": [],
+					"bundleItems": [],
+					"attachments": [],
+					"attachmentOfferings": [],
+					"offerings": [],
+					"priceTags": [
+						{
+							"name": "discount@price-c3cbf816-d517-4b85-bb8a-bca96a263f39#b24925ae-90ce-46d7-8ba4-fd44f60641aa",
+							"value": -1350,
+							"rawValue": -13.5,
+							"isPercentual": false,
+							"identifier": "c3cbf816-d517-4b85-bb8a-bca96a263f39"
+						},
+						{
+							"name": "discount@shipping-c5c2c456-efa4-4435-9e17-6fe6fdb78808#99da242d-7111-45b9-838e-9308ee8643a8",
+							"value": -48,
+							"rawValue": -0.48,
+							"isPercentual": false,
+							"identifier": "c5c2c456-efa4-4435-9e17-6fe6fdb78808"
+						}
+					],
+					"availability": "available",
+					"measurementUnit": "un",
+					"unitMultiplier": 1,
+					"manufacturerCode": "9429"
+				},
+				{
+					"additionalInfo": {
+						"categoriesIds": "/1000001/1000028/",
+						"productClusterId": "143,145,149,155,171,181,1182,1198,1204,1205,1223,1230,1269,1291,1301,1319,1350,1376,1400,1401,1406,1412,1414,1458,1477,1483,1495,1512,1567,1579,1631,1663,1668,1672,1692",
+						"commercialConditionId": "1",
+						"dimension": {
+							"cubicweight": 0.0197,
+							"height": 3.6,
+							"length": 3.6,
+							"weight": 12,
+							"width": 7.3
+						},
+						"brandName": "ADCOS",
+						"brandId": "1",
+						"offeringInfo": null,
+						"offeringType": null,
+						"offeringTypeId": null
+					},
+					"sellerSku": "2000236",
+					"priceTable": null,
+					"priceValidUntil": "2022-03-30T04:26:42Z",
+					"callCenterOperator": null,
+					"commission": 0,
+					"freightCommission": 0,
+					"taxCode": "",
+					"catalogProvider": "vrn:vtex.catalog-api-proxy:-:adcos:master:/proxy/authenticated/catalog/pvt/sku/stockkeepingunitbyid/2000236",
+					"costPrice": null,
+					"uniqueId": "8D143B04AF7A45FFADEEB8455DC6BEE6",
+					"id": "2000236",
+					"productId": "2000209",
+					"productRefId": "",
+					"refId": "9519",
+					"ean": "7897975695194",
+					"name": "Ultranutrição Labial 3,5g",
+					"skuName": "3,5g",
+					"modalType": null,
+					"parentItemIndex": null,
+					"parentAssemblyBinding": null,
+					"assemblies": [],
+					"tax": 0,
+					"priceDefinitions": null,
+					"price": 12500,
+					"listPrice": 12500,
+					"manualPrice": null,
+					"manualPriceAppliedBy": null,
+					"sellingPrice": 11250,
+					"skuSpecifications": null,
+					"orderRewardStatus": null,
+					"rewardValue": 0,
+					"isGift": false,
+					"preSaleDate": null,
+					"productCategoryIds": "/1000001/1000028/",
+					"productCategories": {
+						"1000001": "Tratamento Facial",
+						"1000028": "Anti-Idade",
+						"1000061": "Olhos e Lábios"
+					},
+					"quantity": 1,
+					"seller": "1",
+					"sellerChain": [
+						"1"
+					],
+					"imageUrl": "http://lojaadcos.vteximg.com.br/arquivos/ids/159982-90-90/Ultranutricao_labial.jpg?v=636809037137800000",
+					"detailUrl": "/ultra-nutricao-labial-35-g/p",
+					"components": [],
+					"bundleItems": [],
+					"attachments": [],
+					"attachmentOfferings": [],
+					"offerings": [],
+					"priceTags": [
+						{
+							"name": "discount@price-c3cbf816-d517-4b85-bb8a-bca96a263f39#b24925ae-90ce-46d7-8ba4-fd44f60641aa",
+							"value": -1250,
+							"rawValue": -12.5,
+							"isPercentual": false,
+							"identifier": "c3cbf816-d517-4b85-bb8a-bca96a263f39"
+						},
+						{
+							"name": "discount@shipping-c5c2c456-efa4-4435-9e17-6fe6fdb78808#99da242d-7111-45b9-838e-9308ee8643a8",
+							"value": -24,
+							"rawValue": -0.24,
+							"isPercentual": false,
+							"identifier": "c5c2c456-efa4-4435-9e17-6fe6fdb78808"
+						}
+					],
+					"availability": "available",
+					"measurementUnit": "un",
+					"unitMultiplier": 1,
+					"manufacturerCode": ""
 				}
 			],
 			"sellers": [
 				{
 					"subSellerId": "1",
-					"fulfillmentEndpoint": "http://vtexgame3.vtexcommercestable.com.br/api/fulfillment?affiliateid=SLR&sc=1",
-					"id": "vtexgame3",
-					"name": "vtexgame3",
-					"logo": null
+					"fulfillmentEndpoint": "http://fulfillment.vtexcommerce.com.br/api/fulfillment?sc=1&an=adcos",
+					"id": "1",
+					"name": "Adcos",
+					"logo": ""
 				}
 			],
-			"paymentData": {
-				"giftCards": [],
-				"transactions": [
-					{
-						"isActive": true,
-						"transactionId": "0CA402D1F7BF496D8743EB26DFE95E99",
-						"merchantName": "VTEXGAME1",
-						"payments": [
-							{
-								"id": "C7181098298349BCA87DEB5A1E9DC1B3",
-								"paymentSystem": "6",
-								"paymentSystemName": "Boleto Bancário",
-								"value": 51599,
-								"installments": 1,
-								"connectorResponses": {
-									"Tid": "00581115",
-									"ReturnCode": null,
-									"Message": null,
-									"authId": "581115"
-								},
-								"referenceValue": 51599,
-								"cardHolder": null,
-								"cardNumber": null,
-								"firstDigits": null,
-								"lastDigits": null,
-								"cvv2": null,
-								"expireMonth": null,
-								"expireYear": null,
-								"url": null,
-								"koinUrl": null,
-								"tid": "00581115",
-								"redemptionCode": null,
-								"giftCardId": null,
-								"giftCardProvider": null,
-								"giftCardAsDiscount": null,
-								"group": "bankInvoice",
-								"dueDate": null,
-								"accountId": null,
-								"parentAccountId": null
-							}
-						]
-					}
-				]
-			},
 			"giftRegistryData": null,
 			"receiptData": null,
 			"contextData": null,
 			"marketPlaceOrderId": "",
-			"orderFormId": "9d92714161af47d78e93647318aabeef",
-			"sequence": "549100",
+			"marketPlaceOrderGroup": null,
+			"marketplaceServicesEndpoint": null,
+			"orderFormId": "ba80d9a2f69645cdb473c75c79821efe",
+			"sequence": "2646971",
 			"affiliateId": "",
 			"status": "",
 			"callCenterOperator": "",
-			"userProfileId": "d79f2b67-2d3f-4cd8-9337-5f5dda7c757a",
-			"hostName": "vtexgame1",
+			"userProfileId": "afe20f77-ac36-4445-976d-314e4421689b",
+			"hostName": "adcos",
 			"creationVersion": null,
 			"creationEnvironment": null,
 			"lastChangeVersion": null,
 			"workflowInstanceId": null,
-			"orderId": "802810590387-01",
-			"orderGroup": "802810590387",
-			"state": "order-completed",
+			"marketplacePaymentValue": null,
+			"orderId": "v2646971adcs-01",
+			"orderGroup": "v2646971adcs",
+			"state": "payment-pending",
 			"isCheckedIn": false,
-			"sellerOrderId": "SLR-802810590387-01",
+			"sellerOrderId": "00-v2646971adcs-01",
 			"storeId": null,
-			"value": 25099,
+			"checkedInPickupPointId": null,
+			"value": 103680,
 			"totals": [
 				{
 					"id": "Items",
 					"name": "Total dos Itens",
-					"value": 24900
+					"value": 115200
 				},
 				{
 					"id": "Discounts",
 					"name": "Total dos Descontos",
-					"value": 0
+					"value": -11520
 				},
 				{
 					"id": "Shipping",
 					"name": "Total do Frete",
-					"value": 199
+					"value": 0,
+					"alternativeTotals": [
+						{
+							"id": "AlternativeShippingTotal",
+							"name": "Alternative Shipping Total",
+							"value": 1436
+						},
+						{
+							"id": "AlternativeShippingDiscount",
+							"name": "Alternative Shipping Discount",
+							"value": -1436
+						}
+					]
 				},
 				{
 					"id": "Tax",
@@ -172,194 +804,126 @@
 				}
 			],
 			"clientProfileData": {
-				"attachmentId": "clientProfileData",
-				"email": "ellen.silva@vtex.com.br-7042b.ct.vtex.com.br",
-				"firstName": "Ellen",
-				"lastName": "Silva",
-				"document": "72724282604",
+				"email": "72bf3974f82242ea83a8298a1cc4bc0b@ct.vtex.com.br",
+				"firstName": "Patricia",
+				"lastName": "BRANDAO",
+				"document": "32895141886",
 				"documentType": "cpf",
-				"phone": "+5521987497007",
+				"phone": "+5511989525564",
 				"corporateName": null,
 				"tradeName": null,
 				"corporateDocument": null,
-				"stateInscription": null,
+				"stateInscription": "",
 				"corporatePhone": null,
 				"isCorporate": false,
-				"profileCompleteOnLoading": true,
+				"profileCompleteOnLoading": false,
 				"profileErrorOnLoading": false,
 				"customerClass": null
 			},
 			"ratesAndBenefitsData": {
-				"attachmentId": "ratesAndBenefitsData",
-				"rateAndBenefitsIdentifiers": [],
+				"rateAndBenefitsIdentifiers": [
+					{
+						"id": "c3cbf816-d517-4b85-bb8a-bca96a263f39",
+						"name": "Parceria Itaú Personnalité - 10% OFF",
+						"featured": false,
+						"description": null,
+						"matchedParameters": {
+							"productCluster@CatalogSystem": "155|inclusive",
+							"restrictionsBins": "553636"
+						},
+						"additionalInfo": null
+					},
+					{
+						"id": "b1e3ba4d-a3b1-4d64-88d7-17c05817e4fe",
+						"name": "[MARÇO] Ganhe um Gel Higienizante nas compras de R$350",
+						"featured": false,
+						"description": null,
+						"matchedParameters": {
+							"product@CatalogSystem": "2000440,2000381,2000254,2000350|exclusive"
+						},
+						"additionalInfo": null
+					},
+					{
+						"id": "467716c4-0387-4a27-bee6-2e7943f4999c",
+						"name": "Parceria Itaú Personnalité - Brinde",
+						"featured": false,
+						"description": "Ação firmada com o Itaú que dará 4 amostras +10% OFF para clientes dos bins Personnalité",
+						"matchedParameters": {
+							"buyAndWin@Marketing": "2000470,2000314,2000541,2000673,2000178,2000684,2000319,2000236",
+							"restrictionsBins": "553636"
+						},
+						"additionalInfo": null
+					},
+					{
+						"id": "fdc208f5-8df9-4eb6-bbf9-2c8002df8262",
+						"name": "Ganhe 2 Amostras",
+						"featured": false,
+						"description": null,
+						"matchedParameters": {},
+						"additionalInfo": null
+					},
+					{
+						"id": "c5c2c456-efa4-4435-9e17-6fe6fdb78808",
+						"name": "Frete Grátis nas compras acima de R$199",
+						"featured": false,
+						"description": null,
+						"matchedParameters": {
+							"slaIds": "transportadora,correios - pac"
+						},
+						"additionalInfo": null
+					}
+				],
 				"teaser": []
 			},
 			"shippingData": {
-				"attachmentId": "shippingData",
 				"address": {
 					"addressType": "residential",
-					"receiverName": "Ellen Silva",
-					"addressId": "e7f1f88a76ec409c87e45d8b5badd8c4",
-					"postalCode": "22011-050",
-					"city": "Rio de Janeiro",
-					"state": "RJ",
+					"receiverName": "Patricia BRANDAO",
+					"addressId": "2e75ff1ac8724a82aa36629fcd86ed55",
+					"isDisposable": true,
+					"postalCode": "05414-001",
+					"city": "São Paulo",
+					"state": "SP",
 					"country": "BRA",
-					"street": "Rua General Azevedo Pimentel",
-					"number": "4",
-					"neighborhood": "Copacabana",
-					"complement": null,
+					"street": "Rua Cônego Eugênio Leite",
+					"number": "1097",
+					"neighborhood": "Cerqueira César",
+					"complement": "Casa 52",
 					"reference": null,
-					"geoCoordinates": []
+					"geoCoordinates": [
+						-46.68048095703125,
+						-23.56410789489746
+					]
 				},
 				"logisticsInfo": [
 					{
 						"itemIndex": 0,
-						"selectedSla": "normal",
+						"selectedSla": "Transportadora",
 						"selectedDeliveryChannel": "delivery",
-						"addressId": "e7f1f88a76ec409c87e45d8b5badd8c4",
+						"addressId": "2e75ff1ac8724a82aa36629fcd86ed55",
 						"slas": [
 							{
-								"id": "pickup (128fcc8)",
-								"deliveryChannel": "pickup-in-point",
-								"name": "pickup (128fcc8)",
+								"id": "Transportadora",
+								"deliveryChannel": "delivery",
+								"name": "Transportadora",
 								"deliveryIds": [
 									{
-										"courierId": "18f89ac",
-										"warehouseId": "1",
-										"dockId": "10c4d1c",
-										"courierName": "Retirada",
-										"quantity": 1
+										"courierId": "15e722a",
+										"warehouseId": "1_1",
+										"dockId": "1_1_1",
+										"courierName": "TotalExpress04",
+										"quantity": 1,
+										"kitItemDetails": [],
+										"totalListPrice": 0
 									}
 								],
-								"shippingEstimate": "0bd",
+								"shippingEstimate": "10bd",
 								"shippingEstimateDate": null,
-								"lockTTL": "12d",
-								"availableDeliveryWindows": [
-									{
-										"startDateUtc": "2018-01-15T09:00:00+00:00",
-										"endDateUtc": "2018-01-15T19:00:00+00:00",
-										"price": 0,
-										"lisPrice": 0,
-										"tax": 0
-									},
-									{
-										"startDateUtc": "2018-01-16T09:00:00+00:00",
-										"endDateUtc": "2018-01-16T19:00:00+00:00",
-										"price": 0,
-										"lisPrice": 0,
-										"tax": 0
-									}
-								],
+								"lockTTL": "10d",
+								"availableDeliveryWindows": [],
 								"deliveryWindow": null,
 								"price": 0,
-								"listPrice": 0,
-								"tax": 0,
-								"pickupStoreInfo": {
-									"isPickupStore": true,
-									"friendlyName": "Loja oficial do flamengo",
-									"address": {
-										"addressType": "pickup",
-										"receiverName": null,
-										"addressId": "128fcc8",
-										"postalCode": "22060002",
-										"city": "Rio de Janeiro",
-										"state": "RJ",
-										"country": "BRA",
-										"street": "Avenida Nossa Senhora de Copacabana",
-										"number": "",
-										"neighborhood": "Copacabana",
-										"complement": "",
-										"reference": null,
-										"geoCoordinates": [
-											-43.19089889526367,
-											-22.979047775268555
-										]
-									},
-									"additionalInfo": "Levar documento e comprovante de pagamento",
-									"dockId": "10c4d1c"
-								}
-							},
-							{
-								"id": "pickup (1c553cc)",
-								"deliveryChannel": "pickup-in-point",
-								"name": "pickup (1c553cc)",
-								"deliveryIds": [
-									{
-										"courierId": "157e25a",
-										"warehouseId": "1",
-										"dockId": "1664733",
-										"courierName": "Retirada na loja",
-										"quantity": 1
-									}
-								],
-								"shippingEstimate": "0bd",
-								"shippingEstimateDate": null,
-								"lockTTL": "12d",
-								"availableDeliveryWindows": [
-									{
-										"startDateUtc": "2018-01-13T10:00:00+00:00",
-										"endDateUtc": "2018-01-13T19:00:00+00:00",
-										"price": 0,
-										"lisPrice": 0,
-										"tax": 0
-									},
-									{
-										"startDateUtc": "2018-01-14T10:00:00+00:00",
-										"endDateUtc": "2018-01-14T19:00:00+00:00",
-										"price": 0,
-										"lisPrice": 0,
-										"tax": 0
-									}
-								],
-								"deliveryWindow": null,
-								"price": 0,
-								"listPrice": 0,
-								"tax": 0,
-								"pickupStoreInfo": {
-									"isPickupStore": true,
-									"friendlyName": "ESTADIO DO MARACANÃ",
-									"address": {
-										"addressType": "pickup",
-										"receiverName": null,
-										"addressId": "1c553cc",
-										"postalCode": "20271130",
-										"city": "Rio de Janeiro",
-										"state": "RJ",
-										"country": "BRA",
-										"street": "Avenida Presidente Castelo Branco",
-										"number": "3",
-										"neighborhood": "Maracanã",
-										"complement": "portao 3",
-										"reference": null,
-										"geoCoordinates": [
-											-43.22951126098633,
-											-22.910478591918945
-										]
-									},
-									"additionalInfo": "",
-									"dockId": "1664733"
-								}
-							},
-							{
-								"id": "normal",
-								"deliveryChannel": "delivery",
-								"name": "normal",
-								"deliveryIds": [
-									{
-										"courierId": "13640f5",
-										"warehouseId": "138d525",
-										"dockId": "1",
-										"courierName": "Normal",
-										"quantity": 1
-									}
-								],
-								"shippingEstimate": "11bd",
-								"shippingEstimateDate": null,
-								"lockTTL": "12d",
-								"availableDeliveryWindows": [],
-								"deliveryWindow": null,
-								"price": 199,
-								"listPrice": 199,
+								"listPrice": 190,
 								"tax": 0,
 								"pickupStoreInfo": {
 									"isPickupStore": false,
@@ -367,77 +931,392 @@
 									"address": null,
 									"additionalInfo": null,
 									"dockId": null
-								}
-							},
-							{
-								"id": "PAC",
-								"deliveryChannel": "delivery",
-								"name": "PAC",
-								"deliveryIds": [
-									{
-										"courierId": "1",
-										"warehouseId": "1",
-										"dockId": "1",
-										"courierName": "PAC",
-										"quantity": 1
-									}
-								],
-								"shippingEstimate": "13bd",
-								"shippingEstimateDate": null,
-								"lockTTL": "12d",
-								"availableDeliveryWindows": [],
-								"deliveryWindow": null,
-								"price": 1200,
-								"listPrice": 1200,
-								"tax": 0,
-								"pickupStoreInfo": {
-									"isPickupStore": false,
-									"friendlyName": null,
-									"address": null,
-									"additionalInfo": null,
-									"dockId": null
-								}
-							},
-							{
-								"id": "Expressa",
-								"deliveryChannel": "delivery",
-								"name": "Expressa",
-								"deliveryIds": [
-									{
-										"courierId": "2",
-										"warehouseId": "1",
-										"dockId": "1",
-										"courierName": "SEDEX",
-										"quantity": 1
-									}
-								],
-								"shippingEstimate": "14bd",
-								"shippingEstimateDate": null,
-								"lockTTL": "12d",
-								"availableDeliveryWindows": [],
-								"deliveryWindow": null,
-								"price": 3005,
-								"listPrice": 3005,
-								"tax": 0,
-								"pickupStoreInfo": {
-									"isPickupStore": false,
-									"friendlyName": null,
-									"address": null,
-									"additionalInfo": null,
-									"dockId": null
-								}
+								},
+								"pickupPointId": null,
+								"pickupDistance": 0,
+								"polygonName": null,
+								"transitTime": "3bd"
 							}
 						],
 						"shipsTo": [
 							"BRA"
 						],
-						"itemId": "249",
+						"itemId": "2000470",
 						"deliveryChannels": [
 							{
-								"id": "delivery"
-							},
+								"id": "delivery",
+								"stockBalance": 0
+							}
+						]
+					},
+					{
+						"itemIndex": 1,
+						"selectedSla": "Transportadora",
+						"selectedDeliveryChannel": "delivery",
+						"addressId": "2e75ff1ac8724a82aa36629fcd86ed55",
+						"slas": [
 							{
-								"id": "pickup-in-point"
+								"id": "Transportadora",
+								"deliveryChannel": "delivery",
+								"name": "Transportadora",
+								"deliveryIds": [
+									{
+										"courierId": "15e722a",
+										"warehouseId": "1_1",
+										"dockId": "1_1_1",
+										"courierName": "TotalExpress04",
+										"quantity": 1,
+										"kitItemDetails": [],
+										"totalListPrice": 0
+									}
+								],
+								"shippingEstimate": "10bd",
+								"shippingEstimateDate": null,
+								"lockTTL": "10d",
+								"availableDeliveryWindows": [],
+								"deliveryWindow": null,
+								"price": 0,
+								"listPrice": 381,
+								"tax": 0,
+								"pickupStoreInfo": {
+									"isPickupStore": false,
+									"friendlyName": null,
+									"address": null,
+									"additionalInfo": null,
+									"dockId": null
+								},
+								"pickupPointId": null,
+								"pickupDistance": 0,
+								"polygonName": null,
+								"transitTime": "3bd"
+							}
+						],
+						"shipsTo": [
+							"BRA"
+						],
+						"itemId": "2000314",
+						"deliveryChannels": [
+							{
+								"id": "delivery",
+								"stockBalance": 0
+							}
+						]
+					},
+					{
+						"itemIndex": 2,
+						"selectedSla": "Transportadora",
+						"selectedDeliveryChannel": "delivery",
+						"addressId": "2e75ff1ac8724a82aa36629fcd86ed55",
+						"slas": [
+							{
+								"id": "Transportadora",
+								"deliveryChannel": "delivery",
+								"name": "Transportadora",
+								"deliveryIds": [
+									{
+										"courierId": "15e722a",
+										"warehouseId": "1_1",
+										"dockId": "1_1_1",
+										"courierName": "TotalExpress04",
+										"quantity": 1,
+										"kitItemDetails": [],
+										"totalListPrice": 0
+									}
+								],
+								"shippingEstimate": "10bd",
+								"shippingEstimateDate": null,
+								"lockTTL": "10d",
+								"availableDeliveryWindows": [],
+								"deliveryWindow": null,
+								"price": 0,
+								"listPrice": 571,
+								"tax": 0,
+								"pickupStoreInfo": {
+									"isPickupStore": false,
+									"friendlyName": null,
+									"address": null,
+									"additionalInfo": null,
+									"dockId": null
+								},
+								"pickupPointId": null,
+								"pickupDistance": 0,
+								"polygonName": null,
+								"transitTime": "3bd"
+							}
+						],
+						"shipsTo": [
+							"BRA"
+						],
+						"itemId": "2000541",
+						"deliveryChannels": [
+							{
+								"id": "delivery",
+								"stockBalance": 0
+							}
+						]
+					},
+					{
+						"itemIndex": 3,
+						"selectedSla": "Transportadora",
+						"selectedDeliveryChannel": "delivery",
+						"addressId": "2e75ff1ac8724a82aa36629fcd86ed55",
+						"slas": [
+							{
+								"id": "Transportadora",
+								"deliveryChannel": "delivery",
+								"name": "Transportadora",
+								"deliveryIds": [
+									{
+										"courierId": "15e722a",
+										"warehouseId": "1_1",
+										"dockId": "1_1_1",
+										"courierName": "TotalExpress04",
+										"quantity": 1,
+										"kitItemDetails": [],
+										"totalListPrice": 0
+									}
+								],
+								"shippingEstimate": "10bd",
+								"shippingEstimateDate": null,
+								"lockTTL": "10d",
+								"availableDeliveryWindows": [],
+								"deliveryWindow": null,
+								"price": 0,
+								"listPrice": 95,
+								"tax": 0,
+								"pickupStoreInfo": {
+									"isPickupStore": false,
+									"friendlyName": null,
+									"address": null,
+									"additionalInfo": null,
+									"dockId": null
+								},
+								"pickupPointId": null,
+								"pickupDistance": 0,
+								"polygonName": null,
+								"transitTime": "3bd"
+							}
+						],
+						"shipsTo": [
+							"BRA"
+						],
+						"itemId": "2000673",
+						"deliveryChannels": [
+							{
+								"id": "delivery",
+								"stockBalance": 0
+							}
+						]
+					},
+					{
+						"itemIndex": 4,
+						"selectedSla": "Transportadora",
+						"selectedDeliveryChannel": "delivery",
+						"addressId": "2e75ff1ac8724a82aa36629fcd86ed55",
+						"slas": [
+							{
+								"id": "Transportadora",
+								"deliveryChannel": "delivery",
+								"name": "Transportadora",
+								"deliveryIds": [
+									{
+										"courierId": "15e722a",
+										"warehouseId": "1_1",
+										"dockId": "1_1_1",
+										"courierName": "TotalExpress04",
+										"quantity": 1,
+										"kitItemDetails": [],
+										"totalListPrice": 0
+									}
+								],
+								"shippingEstimate": "10bd",
+								"shippingEstimateDate": null,
+								"lockTTL": "10d",
+								"availableDeliveryWindows": [],
+								"deliveryWindow": null,
+								"price": 0,
+								"listPrice": 70,
+								"tax": 0,
+								"pickupStoreInfo": {
+									"isPickupStore": false,
+									"friendlyName": null,
+									"address": null,
+									"additionalInfo": null,
+									"dockId": null
+								},
+								"pickupPointId": null,
+								"pickupDistance": 0,
+								"polygonName": null,
+								"transitTime": "3bd"
+							}
+						],
+						"shipsTo": [
+							"BRA"
+						],
+						"itemId": "2000178",
+						"deliveryChannels": [
+							{
+								"id": "delivery",
+								"stockBalance": 0
+							}
+						]
+					},
+					{
+						"itemIndex": 5,
+						"selectedSla": "Transportadora",
+						"selectedDeliveryChannel": "delivery",
+						"addressId": "2e75ff1ac8724a82aa36629fcd86ed55",
+						"slas": [
+							{
+								"id": "Transportadora",
+								"deliveryChannel": "delivery",
+								"name": "Transportadora",
+								"deliveryIds": [
+									{
+										"courierId": "15e722a",
+										"warehouseId": "1_1",
+										"dockId": "1_1_1",
+										"courierName": "TotalExpress04",
+										"quantity": 1,
+										"kitItemDetails": [],
+										"totalListPrice": 0
+									}
+								],
+								"shippingEstimate": "10bd",
+								"shippingEstimateDate": null,
+								"lockTTL": "10d",
+								"availableDeliveryWindows": [],
+								"deliveryWindow": null,
+								"price": 0,
+								"listPrice": 57,
+								"tax": 0,
+								"pickupStoreInfo": {
+									"isPickupStore": false,
+									"friendlyName": null,
+									"address": null,
+									"additionalInfo": null,
+									"dockId": null
+								},
+								"pickupPointId": null,
+								"pickupDistance": 0,
+								"polygonName": null,
+								"transitTime": "3bd"
+							}
+						],
+						"shipsTo": [
+							"BRA"
+						],
+						"itemId": "2000684",
+						"deliveryChannels": [
+							{
+								"id": "delivery",
+								"stockBalance": 0
+							}
+						]
+					},
+					{
+						"itemIndex": 6,
+						"selectedSla": "Transportadora",
+						"selectedDeliveryChannel": "delivery",
+						"addressId": "2e75ff1ac8724a82aa36629fcd86ed55",
+						"slas": [
+							{
+								"id": "Transportadora",
+								"deliveryChannel": "delivery",
+								"name": "Transportadora",
+								"deliveryIds": [
+									{
+										"courierId": "15e722a",
+										"warehouseId": "1_1",
+										"dockId": "1_1_1",
+										"courierName": "TotalExpress04",
+										"quantity": 1,
+										"kitItemDetails": [],
+										"totalListPrice": 0
+									}
+								],
+								"shippingEstimate": "10bd",
+								"shippingEstimateDate": null,
+								"lockTTL": "10d",
+								"availableDeliveryWindows": [],
+								"deliveryWindow": null,
+								"price": 0,
+								"listPrice": 48,
+								"tax": 0,
+								"pickupStoreInfo": {
+									"isPickupStore": false,
+									"friendlyName": null,
+									"address": null,
+									"additionalInfo": null,
+									"dockId": null
+								},
+								"pickupPointId": null,
+								"pickupDistance": 0,
+								"polygonName": null,
+								"transitTime": "3bd"
+							}
+						],
+						"shipsTo": [
+							"BRA"
+						],
+						"itemId": "2000319",
+						"deliveryChannels": [
+							{
+								"id": "delivery",
+								"stockBalance": 0
+							}
+						]
+					},
+					{
+						"itemIndex": 7,
+						"selectedSla": "Transportadora",
+						"selectedDeliveryChannel": "delivery",
+						"addressId": "2e75ff1ac8724a82aa36629fcd86ed55",
+						"slas": [
+							{
+								"id": "Transportadora",
+								"deliveryChannel": "delivery",
+								"name": "Transportadora",
+								"deliveryIds": [
+									{
+										"courierId": "15e722a",
+										"warehouseId": "1_1",
+										"dockId": "1_1_1",
+										"courierName": "TotalExpress04",
+										"quantity": 1,
+										"kitItemDetails": [],
+										"totalListPrice": 0
+									}
+								],
+								"shippingEstimate": "10bd",
+								"shippingEstimateDate": null,
+								"lockTTL": "10d",
+								"availableDeliveryWindows": [],
+								"deliveryWindow": null,
+								"price": 0,
+								"listPrice": 24,
+								"tax": 0,
+								"pickupStoreInfo": {
+									"isPickupStore": false,
+									"friendlyName": null,
+									"address": null,
+									"additionalInfo": null,
+									"dockId": null
+								},
+								"pickupPointId": null,
+								"pickupDistance": 0,
+								"polygonName": null,
+								"transitTime": "3bd"
+							}
+						],
+						"shipsTo": [
+							"BRA"
+						],
+						"itemId": "2000236",
+						"deliveryChannels": [
+							{
+								"id": "delivery",
+								"stockBalance": 0
 							}
 						]
 					}
@@ -445,51 +1324,137 @@
 				"selectedAddresses": [
 					{
 						"addressType": "residential",
-						"receiverName": "Ellen Silva",
-						"addressId": "e7f1f88a76ec409c87e45d8b5badd8c4",
-						"postalCode": "22011-050",
-						"city": "Rio de Janeiro",
-						"state": "RJ",
+						"receiverName": "Patricia BRANDAO",
+						"addressId": "2e75ff1ac8724a82aa36629fcd86ed55",
+						"isDisposable": true,
+						"postalCode": "05414-001",
+						"city": "São Paulo",
+						"state": "SP",
 						"country": "BRA",
-						"street": "Rua General Azevedo Pimentel",
-						"number": "4",
-						"neighborhood": "Copacabana",
-						"complement": null,
+						"street": "Rua Cônego Eugênio Leite",
+						"number": "1097",
+						"neighborhood": "Cerqueira César",
+						"complement": "Casa 52",
 						"reference": null,
-						"geoCoordinates": []
+						"geoCoordinates": [
+							-46.68048095703125,
+							-23.56410789489746
+						]
 					}
 				],
 				"availableAddresses": [
 					{
 						"addressType": "residential",
-						"receiverName": "Ellen Silva",
-						"addressId": "e7f1f88a76ec409c87e45d8b5badd8c4",
-						"postalCode": "22011-050",
-						"city": "Rio de Janeiro",
-						"state": "RJ",
+						"receiverName": "Patricia BRANDAO",
+						"addressId": "2e75ff1ac8724a82aa36629fcd86ed55",
+						"isDisposable": true,
+						"postalCode": "05414-001",
+						"city": "São Paulo",
+						"state": "SP",
 						"country": "BRA",
-						"street": "Rua General Azevedo Pimentel",
-						"number": "4",
-						"neighborhood": "Copacabana",
-						"complement": null,
+						"street": "Rua Cônego Eugênio Leite",
+						"number": "1097",
+						"neighborhood": "Cerqueira César",
+						"complement": "Casa 52",
 						"reference": null,
-						"geoCoordinates": []
+						"geoCoordinates": [
+							-46.68048095703125,
+							-23.56410789489746
+						]
+					}
+				],
+				"pickupPoints": []
+			},
+			"paymentData": {
+				"giftCards": [],
+				"transactions": [
+					{
+						"isActive": true,
+						"transactionId": "39B143AE00914B2BBA92C351F5BAEC96",
+						"merchantName": "ADCOS",
+						"payments": [
+							{
+								"id": "A4094CC00E694BC28C9A991A0C1A919C",
+								"paymentSystem": "4",
+								"paymentSystemName": "Mastercard",
+								"value": 103680,
+								"installments": 6,
+								"connectorResponses": {
+									"Tid": "10605430170VMGM8KELE",
+									"ReturnCode": "0",
+									"Message": "Sucesso",
+									"authId": "036759",
+									"Nsu": "016536",
+									"Arp": "036759",
+									"eci": "0",
+									"lr": "00"
+								},
+								"referenceValue": 103680,
+								"cardHolder": null,
+								"cardNumber": null,
+								"firstDigits": "553636",
+								"lastDigits": "0347",
+								"cvv2": null,
+								"expireMonth": null,
+								"expireYear": null,
+								"url": null,
+								"koinUrl": null,
+								"tid": "10605430170VMGM8KELE",
+								"redemptionCode": null,
+								"giftCardId": null,
+								"giftCardProvider": null,
+								"giftCardAsDiscount": null,
+								"group": "creditCard",
+								"dueDate": null,
+								"accountId": "900E324B93844AA792E45676D2DA78E5",
+								"parentAccountId": null,
+								"bankIssuedInvoiceIdentificationNumber": null,
+								"bankIssuedInvoiceIdentificationNumberFormatted": null,
+								"bankIssuedInvoiceBarCodeNumber": null,
+								"bankIssuedInvoiceBarCodeType": null,
+								"billingAddress": {
+									"addressType": "residential",
+									"receiverName": "Patricia BRANDAO",
+									"addressId": "2e75ff1ac8724a82aa36629fcd86ed55",
+									"isDisposable": true,
+									"postalCode": "05414-001",
+									"city": "São Paulo",
+									"state": "SP",
+									"country": "BRA",
+									"street": "Rua Cônego Eugênio Leite",
+									"number": "1097",
+									"neighborhood": "Cerqueira César",
+									"complement": "Casa 52",
+									"reference": null,
+									"geoCoordinates": [
+										-46.68048095703125,
+										-23.56410789489746
+									]
+								}
+							}
+						],
+						"sharedTransaction": false
 					}
 				]
 			},
 			"clientPreferencesData": {
-				"attachmentId": "clientPreferencesData",
 				"locale": "pt-BR",
-				"optinNewsLetter": true
+				"optinNewsLetter": false
 			},
 			"commercialConditionData": null,
-			"marketingData": null,
+			"marketingData": {
+				"utmSource": "Google",
+				"utmMedium": null,
+				"utmCampaign": null,
+				"utmipage": "",
+				"utmiPart": "",
+				"utmiCampaign": "",
+				"coupon": null,
+				"marketingTags": []
+			},
 			"storePreferencesData": {
 				"countryCode": "BRA",
-				"checkToSavePersonDataByDefault": false,
-				"templateOptions": {
-					"toggleCorporate": false
-				},
+				"saveUserData": false,
 				"timeZone": "E. South America Standard Time",
 				"currencyCode": "BRL",
 				"currencyLocale": 1046,
@@ -503,578 +1468,61 @@
 				}
 			},
 			"openTextField": null,
+			"invoiceData": null,
+			"itemMetadata": null,
+			"taxData": null,
 			"customData": null,
 			"hooksData": null,
 			"changeData": null,
+			"subscriptionData": null,
 			"salesChannel": "1",
-			"followUpEmail": "5ba254738e734aac8590d60a774b57a3@ct.vtex.com.br",
-			"creationDate": "2018-01-12T17:10:16.8620953Z",
-			"lastChange": "2018-01-12T17:10:34.6384913Z",
-			"timeZoneCreationDate": "2018-01-12T15:10:16.8620953",
-			"timeZoneLastChange": "2018-01-12T15:10:34.6384913",
+			"followUpEmail": "6b4916c4e79748caa1c775964d1ffdf3@ct.vtex.com.br",
+			"creationDate": "2021-03-30T04:28:55.9144362Z",
+			"lastChange": "2021-03-30T04:29:05.67117Z",
+			"timeZoneCreationDate": "2021-03-30T01:28:55.9144362",
+			"timeZoneLastChange": "2021-03-30T01:29:05.67117",
 			"isCompleted": true,
 			"merchantName": null,
 			"userType": "",
 			"roundingError": 0,
 			"allowEdition": false,
-			"allowCancellation": false
-		},
-		{
-			"package": null,
-			"subjectItemAttachment": {
-				"item": "Camisa Flamengo",
-				"totalItems": 1
-			},
-			"items": [
-				{
-					"additionalInfo": {
-						"dimension": {
-							"cubicweight": 0.0002,
-							"height": 1,
-							"length": 1,
-							"weight": 1,
-							"width": 1
-						},
-						"categoriesIds": "/1/2/3/",
-						"productClusterId": "135",
-						"commercialConditionId": "1",
-						"brandName": "Marca 1",
-						"brandId": "2000001",
-						"offeringInfo": null,
-						"offeringType": null,
-						"offeringTypeId": null
-					},
-					"sellerSku": "250",
-					"priceValidUntil": "2019-01-12T17:10:13.7672225Z",
-					"callCenterOperator": null,
-					"commission": 0,
-					"freightCommission": 0,
-					"uniqueId": "03F0FCA2FA0D4C6A9466ACBD809EBE48",
-					"id": "250",
-					"productId": "235",
-					"refId": "197326",
-					"ean": "7898926177332",
-					"name": "Camisa Flamengo",
-					"skuName": "Camisa Flamengo",
-					"modalType": null,
-					"tax": 0,
-					"price": 25000,
-					"listPrice": 1000,
-					"manualPrice": null,
-					"sellingPrice": 25000,
-					"rewardValue": 0,
-					"isGift": false,
-					"preSaleDate": null,
-					"productCategoryIds": "/1/2/3/",
-					"productCategories": {
-						"1": "Departamento 1",
-						"2": "Categoria 1.1",
-						"3": "Subcategoria 1.1"
-					},
-					"defaultPicker": null,
-					"handlerSequence": 0,
-					"handling": false,
-					"quantity": 1,
-					"seller": "vtexgame2",
-					"imageUrl": "http://vtexgame1.vteximg.com.br/arquivos/ids/155630-55-55/camisaflamengo.jpg?v=636506874809700000",
-					"detailUrl": "/camisa-flamengo/p",
-					"components": [],
-					"bundleItems": [],
-					"attachments": [],
-					"itemAttachment": {
-						"name": null,
-						"content": {}
-					},
-					"attachmentOfferings": [],
-					"offerings": [],
-					"priceTags": [],
-					"availability": "available",
-					"measurementUnit": "un",
-					"unitMultiplier": 1
-				}
-			],
-			"sellers": [
-				{
-					"subSellerId": "1",
-					"fulfillmentEndpoint": "http://vtexgame2.vtexcommercestable.com.br/api/fulfillment?affiliateid=SLR&sc=1",
-					"id": "vtexgame2",
-					"name": "vtexgame2",
-					"logo": null
-				}
-			],
-			"paymentData": {
-				"giftCards": [],
-				"transactions": [
-					{
-						"isActive": true,
-						"transactionId": "0CA402D1F7BF496D8743EB26DFE95E99",
-						"merchantName": "VTEXGAME1",
-						"payments": [
-							{
-								"id": "C7181098298349BCA87DEB5A1E9DC1B3",
-								"paymentSystem": "6",
-								"paymentSystemName": "Boleto Bancário",
-								"value": 51599,
-								"installments": 1,
-								"connectorResponses": {
-									"Tid": "00581115",
-									"ReturnCode": null,
-									"Message": null,
-									"authId": "581115"
-								},
-								"referenceValue": 51599,
-								"cardHolder": null,
-								"cardNumber": null,
-								"firstDigits": null,
-								"lastDigits": null,
-								"cvv2": null,
-								"expireMonth": null,
-								"expireYear": null,
-								"url": null,
-								"koinUrl": null,
-								"tid": "00581115",
-								"redemptionCode": null,
-								"giftCardId": null,
-								"giftCardProvider": null,
-								"giftCardAsDiscount": null,
-								"group": "bankInvoice",
-								"dueDate": null,
-								"accountId": null,
-								"parentAccountId": null
-							}
-						]
-					}
-				]
-			},
-			"giftRegistryData": null,
-			"receiptData": null,
-			"contextData": null,
-			"marketPlaceOrderId": "",
-			"orderFormId": "9d92714161af47d78e93647318aabeef",
-			"sequence": "549102",
-			"affiliateId": "",
-			"status": "",
-			"callCenterOperator": "",
-			"userProfileId": "d79f2b67-2d3f-4cd8-9337-5f5dda7c757a",
-			"hostName": "vtexgame1",
-			"creationVersion": null,
-			"creationEnvironment": null,
-			"lastChangeVersion": null,
-			"workflowInstanceId": null,
-			"orderId": "802810590387-02",
-			"orderGroup": "802810590387",
-			"state": "order-completed",
-			"isCheckedIn": false,
-			"sellerOrderId": "SLR-802810590387-02",
-			"storeId": null,
-			"value": 26500,
-			"totals": [
-				{
-					"id": "Items",
-					"name": "Total dos Itens",
-					"value": 25000
-				},
-				{
-					"id": "Discounts",
-					"name": "Total dos Descontos",
-					"value": 0
-				},
-				{
-					"id": "Shipping",
-					"name": "Total do Frete",
-					"value": 1500
-				},
-				{
-					"id": "Tax",
-					"name": "Total da Taxa",
-					"value": 0
-				}
-			],
-			"clientProfileData": {
-				"attachmentId": "clientProfileData",
-				"email": "ellen.silva@vtex.com.br-7043b.ct.vtex.com.br",
-				"firstName": "Ellen",
-				"lastName": "Silva",
-				"document": "72724282604",
-				"documentType": "cpf",
-				"phone": "+5521987497007",
-				"corporateName": null,
-				"tradeName": null,
-				"corporateDocument": null,
-				"stateInscription": null,
-				"corporatePhone": null,
-				"isCorporate": false,
-				"profileCompleteOnLoading": true,
-				"profileErrorOnLoading": false,
-				"customerClass": null
-			},
-			"ratesAndBenefitsData": {
-				"attachmentId": "ratesAndBenefitsData",
-				"rateAndBenefitsIdentifiers": [],
-				"teaser": []
-			},
-			"shippingData": {
-				"attachmentId": "shippingData",
-				"address": {
-					"addressType": "residential",
-					"receiverName": "Ellen Silva",
-					"addressId": "e7f1f88a76ec409c87e45d8b5badd8c4",
-					"postalCode": "22011-050",
-					"city": "Rio de Janeiro",
-					"state": "RJ",
-					"country": "BRA",
-					"street": "Rua General Azevedo Pimentel",
-					"number": "4",
-					"neighborhood": "Copacabana",
-					"complement": null,
-					"reference": null,
-					"geoCoordinates": []
-				},
-				"logisticsInfo": [
-					{
-						"itemIndex": 0,
-						"selectedSla": "normal",
-						"selectedDeliveryChannel": "delivery",
-						"addressId": "e7f1f88a76ec409c87e45d8b5badd8c4",
-						"slas": [
-							{
-								"id": "pickup (128fcc8)",
-								"deliveryChannel": "pickup-in-point",
-								"name": "pickup (128fcc8)",
-								"deliveryIds": [
-									{
-										"courierId": "18f89ac",
-										"warehouseId": "1",
-										"dockId": "10c4d1c",
-										"courierName": "Retirada",
-										"quantity": 1
-									}
-								],
-								"shippingEstimate": "0bd",
-								"shippingEstimateDate": null,
-								"lockTTL": "12d",
-								"availableDeliveryWindows": [
-									{
-										"startDateUtc": "2018-01-15T09:00:00+00:00",
-										"endDateUtc": "2018-01-15T19:00:00+00:00",
-										"price": 0,
-										"lisPrice": 0,
-										"tax": 0
-									},
-									{
-										"startDateUtc": "2018-01-16T09:00:00+00:00",
-										"endDateUtc": "2018-01-16T19:00:00+00:00",
-										"price": 0,
-										"lisPrice": 0,
-										"tax": 0
-									}
-								],
-								"deliveryWindow": null,
-								"price": 0,
-								"listPrice": 0,
-								"tax": 0,
-								"pickupStoreInfo": {
-									"isPickupStore": true,
-									"friendlyName": "Loja oficial do flamengo",
-									"address": {
-										"addressType": "pickup",
-										"receiverName": null,
-										"addressId": "128fcc8",
-										"postalCode": "22060002",
-										"city": "Rio de Janeiro",
-										"state": "RJ",
-										"country": "BRA",
-										"street": "Avenida Nossa Senhora de Copacabana",
-										"number": "",
-										"neighborhood": "Copacabana",
-										"complement": "",
-										"reference": null,
-										"geoCoordinates": [
-											-43.19089889526367,
-											-22.979047775268555
-										]
-									},
-									"additionalInfo": "Levar documento e comprovante de pagamento",
-									"dockId": "10c4d1c"
-								}
-							},
-							{
-								"id": "pickup (1c553cc)",
-								"deliveryChannel": "pickup-in-point",
-								"name": "pickup (1c553cc)",
-								"deliveryIds": [
-									{
-										"courierId": "157e25a",
-										"warehouseId": "1",
-										"dockId": "1664733",
-										"courierName": "Retirada na loja",
-										"quantity": 1
-									}
-								],
-								"shippingEstimate": "0bd",
-								"shippingEstimateDate": null,
-								"lockTTL": "12d",
-								"availableDeliveryWindows": [
-									{
-										"startDateUtc": "2018-01-13T10:00:00+00:00",
-										"endDateUtc": "2018-01-13T19:00:00+00:00",
-										"price": 0,
-										"lisPrice": 0,
-										"tax": 0
-									},
-									{
-										"startDateUtc": "2018-01-14T10:00:00+00:00",
-										"endDateUtc": "2018-01-14T19:00:00+00:00",
-										"price": 0,
-										"lisPrice": 0,
-										"tax": 0
-									}
-								],
-								"deliveryWindow": null,
-								"price": 0,
-								"listPrice": 0,
-								"tax": 0,
-								"pickupStoreInfo": {
-									"isPickupStore": true,
-									"friendlyName": "ESTADIO DO MARACANÃ",
-									"address": {
-										"addressType": "pickup",
-										"receiverName": null,
-										"addressId": "1c553cc",
-										"postalCode": "20271130",
-										"city": "Rio de Janeiro",
-										"state": "RJ",
-										"country": "BRA",
-										"street": "Avenida Presidente Castelo Branco",
-										"number": "3",
-										"neighborhood": "Maracanã",
-										"complement": "portao 3",
-										"reference": null,
-										"geoCoordinates": [
-											-43.22951126098633,
-											-22.910478591918945
-										]
-									},
-									"additionalInfo": "",
-									"dockId": "1664733"
-								}
-							},
-							{
-								"id": "PAC",
-								"deliveryChannel": "delivery",
-								"name": "PAC",
-								"deliveryIds": [
-									{
-										"courierId": "1",
-										"warehouseId": "1bcd5fc",
-										"dockId": "1",
-										"courierName": "PAC",
-										"quantity": 1
-									}
-								],
-								"shippingEstimate": "13bd",
-								"shippingEstimateDate": null,
-								"lockTTL": "12d",
-								"availableDeliveryWindows": [],
-								"deliveryWindow": null,
-								"price": 1200,
-								"listPrice": 1200,
-								"tax": 0,
-								"pickupStoreInfo": {
-									"isPickupStore": false,
-									"friendlyName": null,
-									"address": null,
-									"additionalInfo": null,
-									"dockId": null
-								}
-							},
-							{
-								"id": "normal",
-								"deliveryChannel": "delivery",
-								"name": "normal",
-								"deliveryIds": [
-									{
-										"courierId": "12dbebf",
-										"warehouseId": "1865617",
-										"dockId": "1c11c80",
-										"courierName": "Normal",
-										"quantity": 1
-									}
-								],
-								"shippingEstimate": "22bd",
-								"shippingEstimateDate": null,
-								"lockTTL": "12d",
-								"availableDeliveryWindows": [],
-								"deliveryWindow": null,
-								"price": 1500,
-								"listPrice": 1500,
-								"tax": 0,
-								"pickupStoreInfo": {
-									"isPickupStore": false,
-									"friendlyName": null,
-									"address": null,
-									"additionalInfo": null,
-									"dockId": null
-								}
-							},
-							{
-								"id": "Expressa",
-								"deliveryChannel": "delivery",
-								"name": "Expressa",
-								"deliveryIds": [
-									{
-										"courierId": "2",
-										"warehouseId": "1bcd5fc",
-										"dockId": "1",
-										"courierName": "SEDEX",
-										"quantity": 1
-									}
-								],
-								"shippingEstimate": "14bd",
-								"shippingEstimateDate": null,
-								"lockTTL": "12d",
-								"availableDeliveryWindows": [],
-								"deliveryWindow": null,
-								"price": 3004,
-								"listPrice": 3004,
-								"tax": 0,
-								"pickupStoreInfo": {
-									"isPickupStore": false,
-									"friendlyName": null,
-									"address": null,
-									"additionalInfo": null,
-									"dockId": null
-								}
-							}
-						],
-						"shipsTo": [
-							"BRA"
-						],
-						"itemId": "250",
-						"deliveryChannels": [
-							{
-								"id": "delivery"
-							},
-							{
-								"id": "pickup-in-point"
-							}
-						]
-					}
-				],
-				"selectedAddresses": [
-					{
-						"addressType": "residential",
-						"receiverName": "Ellen Silva",
-						"addressId": "e7f1f88a76ec409c87e45d8b5badd8c4",
-						"postalCode": "22011-050",
-						"city": "Rio de Janeiro",
-						"state": "RJ",
-						"country": "BRA",
-						"street": "Rua General Azevedo Pimentel",
-						"number": "4",
-						"neighborhood": "Copacabana",
-						"complement": null,
-						"reference": null,
-						"geoCoordinates": []
-					}
-				],
-				"availableAddresses": [
-					{
-						"addressType": "residential",
-						"receiverName": "Ellen Silva",
-						"addressId": "e7f1f88a76ec409c87e45d8b5badd8c4",
-						"postalCode": "22011-050",
-						"city": "Rio de Janeiro",
-						"state": "RJ",
-						"country": "BRA",
-						"street": "Rua General Azevedo Pimentel",
-						"number": "4",
-						"neighborhood": "Copacabana",
-						"complement": null,
-						"reference": null,
-						"geoCoordinates": []
-					}
-				]
-			},
-			"clientPreferencesData": {
-				"attachmentId": "clientPreferencesData",
-				"locale": "pt-BR",
-				"optinNewsLetter": true
-			},
-			"commercialConditionData": null,
-			"marketingData": null,
-			"storePreferencesData": {
-				"countryCode": "BRA",
-				"checkToSavePersonDataByDefault": false,
-				"templateOptions": {
-					"toggleCorporate": false
-				},
-				"timeZone": "E. South America Standard Time",
-				"currencyCode": "BRL",
-				"currencyLocale": 1046,
-				"currencySymbol": "R$",
-				"currencyFormatInfo": {
-					"currencyDecimalDigits": 2,
-					"currencyDecimalSeparator": ",",
-					"currencyGroupSeparator": ".",
-					"currencyGroupSize": 3,
-					"startsWithCurrencySymbol": true
-				}
-			},
-			"openTextField": null,
-			"customData": null,
-			"hooksData": null,
-			"changeData": null,
-			"salesChannel": "1",
-			"followUpEmail": "81f40188e7e64471b82b0790d91525b3@ct.vtex.com.br",
-			"creationDate": "2018-01-12T17:10:21.1832356Z",
-			"lastChange": "2018-01-12T17:10:30.1039013Z",
-			"timeZoneCreationDate": "2018-01-12T15:10:21.1832356",
-			"timeZoneLastChange": "2018-01-12T15:10:30.1039013",
-			"isCompleted": true,
-			"merchantName": null,
-			"userType": "",
-			"roundingError": 0,
-			"allowEdition": false,
-			"allowCancellation": false
+			"allowCancellation": false,
+			"isUserDataVisible": false,
+			"allowChangeSeller": false
 		}
 	],
-	"ordersUrl": "http://vtexgame1.vtexcommercestable.com.br/account/orders",
-	"orderGroup": "802810590387",
+	"ordersUrl": "http://www.lojaadcos.com.br/account#/orders",
+	"orderGroup": "v2646971adcs",
 	"subjectItemAttachment": {
-		"item": "Camisa Flamengo",
-		"totalItems": 2,
-		"extraItems": 1
+		"item": "Neoderm Complex Séru...",
+		"totalItems": 8,
+		"extraItems": 7
 	},
 	"split": false,
-	"totalValue": 51599,
+	"totalValue": 103680,
 	"callCenterOperatorData": null,
 	"_accountInfo": {
-		"HostName": "vtexgame1",
-		"MainAccountName": "vtexgame1",
-		"IsPersisted": true,
-		"IsRemoved": false,
-		"Id": "e39d05f9-0c54-4469-a626-8bb5cff169f8",
-		"Cnpj": "99999999999999",
-		"CompanyName": "VTEX Developers",
-		"TradingName": "VTEX Developers",
-		"AccountName": "vtexgame1",
-		"DefaultUrl": null,
-		"Address": null,
-		"Number": null,
-		"Complement": null,
-		"District": null,
-		"City": null,
-		"State": null,
-		"PostalCode": null,
-		"Country": "Brasil",
-		"Telephone": null,
+		"MainAccountName": "adcos",
+		"AccountName": "adcos",
+		"Cnpj": "17104789000123",
+		"Id": "2dc2f396-93a7-4c1d-a474-d848b29544e0",
 		"IsActive": true,
-		"Sponsor": "eb436322-473b-4296-89a9-f129c479be4c",
-		"Logo": null,
-		"AppId": "fddf74e6-cc47-4a7d-8956-f0a6629cb23b",
-		"IsOperating": false,
-		"LV": "LV-1068069",
-		"Sigla": null
+		"IsOperating": true,
+		"CreationDate": "2012-12-23T00:00:00",
+		"OperationDate": "2013-01-01T00:00:00",
+		"CompanyName": "ADCOS - FULL COMMERCE INTEGRACAO COMERCIAL LTDA",
+		"TradingName": "Adcos",
+		"City": null,
+		"Complement": null,
+		"Country": null,
+		"State": null,
+		"Address": null,
+		"District": null,
+		"Number": null,
+		"PostalCode": null,
+		"Licences": null,
+		"ParentAccountName": null,
+		"InactivationDate": null,
+		"Platform": "vtex"
 	}
 }

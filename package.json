@@ -29,5 +29,7 @@
     "through2": "^2.0.3",
     "web-resource-inliner": "^4.2.1"
   },
-  "dependencies": {}
+  "dependencies": {
+    "arrayiffy-if-string": "^3.13.12"
+  }
 }

@@ -4,277 +4,250 @@
 			{
 				"itemIndex": 0,
 				"quantity": 1,
-				"price": 161415,
+				"price": 16500,
 				"description": null,
-				"unitMultiplier": 0.0
+				"unitMultiplier": 0
 			},
 			{
 				"itemIndex": 1,
 				"quantity": 1,
-				"price": 161415,
-				"description": null,
-				"unitMultiplier": 0.0
-			},
-			{
-				"itemIndex": 2,
-				"quantity": 1,
 				"price": 0,
 				"description": null,
-				"unitMultiplier": 0.0
-			},
-			{
-				"itemIndex": 3,
-				"quantity": 1,
-				"price": 0,
-				"description": null,
-				"unitMultiplier": 0.0
+				"unitMultiplier": 0
 			}
 		],
-		"courier": "Sedex Correios",
-		"invoiceNumber": "037281",
-		"invoiceValue": 323808,
-		"invoiceUrl": null,
-		"issuanceDate": "2020-02-12T00:00:00",
-		"trackingNumber": "OI814293853BR",
-		"invoiceKey": "33200205053441003786550050000372811282529513",
-		"trackingUrl": "https://www2.correios.com.br/sistemas/rastreamento/",
+		"courier": "",
+		"invoiceNumber": "000372379",
+		"invoiceValue": 17432,
+		"invoiceUrl": "http://nfe.adcos.com.br/2000/2007/NFe32210407850622000743550010003723791092749666.pdf",
+		"issuanceDate": "2021-04-01T00:00:00",
+		"trackingNumber": "ADC0081043167",
+		"invoiceKey": "32210407850622000743550010003723791092749666",
+		"trackingUrl": "http://tracking.totalexpress.com.br/poupup_track.php?reid=4896&pedido=ADC0081043167&nfiscal=372379",
 		"embeddedInvoice": "",
 		"type": "Output",
-		"courierStatus": {
-			"status": "unknown",
-			"finished": false,
-			"deliveredDate": null,
-			"data": []
-		},
+		"courierStatus": null,
 		"cfop": null,
 		"restitutions": {},
-		"volumes": 0
+		"volumes": null
 	},
 	"subjectItemAttachment": {
-		"item": "Celular Motorola Mot...",
-		"totalItems": 4,
-		"extraItems": 3
+		"item": "Filtro Solar Ultra F...",
+		"totalItems": 2,
+		"extraItems": 1
 	},
 	"cancellationReason": null,
 	"items": [
 		{
 			"additionalInfo": {
-				"dimension": {
-					"cubicweight": 0.1339,
-					"height": 17.0,
-					"length": 4.2,
-					"weight": 0.19,
-					"width": 9.0
-				},
-				"categoriesIds": "/1/12/",
-				"productClusterId": "140,145",
+				"categoriesIds": "/1000001/1000027/",
+				"productClusterId": "143,144,145,149,150,155,170,181,1182,1185,1186,1190,1197,1204,1205,1221,1223,1233,1266,1275,1283,1298,1317,1318,1319,1330,1350,1380,1387,1400,1401,1406,1411,1412,1414,1423,1435,1454,1458,1509,1547,1548,1577,1578,1596,1656,1657,1672,1692",
 				"commercialConditionId": "1",
-				"brandName": "Motorola",
-				"brandId": "2000001",
+				"dimension": {
+					"cubicweight": 1,
+					"height": 5,
+					"length": 5,
+					"weight": 161.5,
+					"width": 6
+				},
+				"brandName": "ADCOS",
+				"brandId": "1",
 				"offeringInfo": null,
 				"offeringType": null,
 				"offeringTypeId": null
 			},
-			"sellerSku": "1813301735",
+			"sellerSku": "2000277",
 			"priceTable": null,
-			"priceValidUntil": "2020-03-01T02:30:00Z",
+			"priceValidUntil": "2022-03-31T14:37:54Z",
 			"callCenterOperator": null,
 			"commission": 0,
 			"freightCommission": 0,
-			"taxCode": "8517.12.31",
+			"taxCode": "",
+			"catalogProvider": "vrn:vtex.catalog-api-proxy:-:adcos:master:/proxy/authenticated/catalog/pvt/sku/stockkeepingunitbyid/2000277",
 			"costPrice": null,
-			"uniqueId": "27F14EB1446B4748808E64F3121CE6A2",
-			"id": "1813301735",
-			"productId": "1990",
-			"productRefId": "1763",
-			"refId": "1763",
-			"ean": "7892597348848",
-			"name": "Celular Motorola Moto One Zoom 128GB Titanium Tela 6,4 Câmera 48MP+16MP+8MP+5MP",
-			"skuName": "Celular Motorola Moto One Zoom 128GB Titanium Tela 6,4 Câmera 48MP+16MP+8MP+5MP",
+			"uniqueId": "3D882B87D71345DF96006D3891DA3A9E",
+			"id": "2000277",
+			"productId": "2000245",
+			"productRefId": "9354",
+			"refId": "9354",
+			"ean": "7897975693541",
+			"name": "Filtro Solar Ultra FPS 55 Gel Creme 120g",
+			"skuName": "120g",
 			"modalType": null,
 			"parentItemIndex": null,
 			"parentAssemblyBinding": null,
 			"assemblies": [],
 			"tax": 0,
 			"priceDefinitions": null,
-			"price": 189900,
-			"listPrice": 189900,
+			"price": 16500,
+			"listPrice": 16500,
 			"manualPrice": null,
-			"sellingPrice": 161415,
+			"manualPriceAppliedBy": null,
+			"sellingPrice": 16500,
+			"skuSpecifications": null,
 			"orderRewardStatus": null,
 			"rewardValue": 0,
 			"isGift": false,
 			"preSaleDate": null,
-			"productCategoryIds": "/1/12/",
+			"productCategoryIds": "/1000001/1000027/",
 			"productCategories": {
-				"12": "Motorola",
-				"1": "Smartphone"
+				"1000001": "Tratamento Facial",
+				"1000027": "Fotoproteção Solar",
+				"1000054": "Incolores",
+				"1000055": "Peles Sensíveis",
+				"1000057": "Hidratante"
 			},
 			"quantity": 1,
 			"seller": "1",
 			"sellerChain": [
 				"1"
 			],
-			"imageUrl": "http://yellmobile.vteximg.com.br/arquivos/ids/161037-55-55/Celular-Motorola-Moto-One-Zoom-128GB-Titanium-Tela-6-4-Camera-48MP-16MP-8MP-5MP.jpg?v=637063952762530000",
-			"detailUrl": "/celular-motorola-moto-one-zoom-128gb-titanium-tela-64-camera-48mp-16mp-8mp-5mp/p",
+			"imageUrl": "http://lojaadcos.vteximg.com.br/arquivos/ids/156368-90-90/filtro-solar-FPS-55-gel-creme-120g.jpg?v=635696189920830000",
+			"detailUrl": "/adcos-filtro-solar-ultra-55/p",
 			"components": [],
 			"bundleItems": [],
 			"attachments": [],
 			"attachmentOfferings": [],
 			"offerings": [],
-			"priceTags": [
-				{
-					"name": "discount@price-9cb1e24e-efa9-4337-8281-75954f3fb903#bb8b0c90-97df-452b-8c00-0423d4b0dc32",
-					"value": -28485,
-					"rawValue": -284.85,
-					"isPercentual": false,
-					"identifier": "9cb1e24e-efa9-4337-8281-75954f3fb903"
-				}
-			],
+			"priceTags": [],
 			"availability": "available",
 			"measurementUnit": "un",
-			"unitMultiplier": 1.0,
-			"manufacturerCode": ""
+			"unitMultiplier": 1,
+			"manufacturerCode": "9354"
 		},
 		{
 			"additionalInfo": {
-				"dimension": {
-					"cubicweight": 0.1339,
-					"height": 17.0,
-					"length": 4.2,
-					"weight": 0.19,
-					"width": 9.0
-				},
-				"categoriesIds": "/1/12/",
-				"productClusterId": "140,145",
+				"categoriesIds": "/1000001/1000047/",
+				"productClusterId": "145,155,1182,1204,1205,1400,1401,1406,1412,1414,1458,1672,1692",
 				"commercialConditionId": "1",
-				"brandName": "Motorola",
-				"brandId": "2000001",
+				"dimension": {
+					"cubicweight": 1,
+					"height": 4,
+					"length": 1,
+					"weight": 4,
+					"width": 4
+				},
+				"brandName": "ADCOS",
+				"brandId": "1",
 				"offeringInfo": null,
 				"offeringType": null,
 				"offeringTypeId": null
 			},
-			"sellerSku": "1813301736",
+			"sellerSku": "2000339",
 			"priceTable": null,
-			"priceValidUntil": "2020-03-01T02:30:00Z",
+			"priceValidUntil": "4000-01-01T03:00:00Z",
 			"callCenterOperator": null,
 			"commission": 0,
 			"freightCommission": 0,
-			"taxCode": "8517.12.31",
+			"taxCode": "",
+			"catalogProvider": "vrn:vtex.catalog-api-proxy:-:adcos:master:/proxy/authenticated/catalog/pvt/sku/stockkeepingunitbyid/2000339",
 			"costPrice": null,
-			"uniqueId": "82C8D23FF88E48D896A02D8EF057A43C",
-			"id": "1813301736",
-			"productId": "1991",
-			"productRefId": "1761",
-			"refId": "1761",
-			"ean": "7892597348855",
-			"name": "Celular Motorola Moto One Zoom 128GB Violet Tela 6,4 Câmera 48MP+16MP+8MP+5MP",
-			"skuName": "Celular Motorola Moto One Zoom 128GB Violet Tela 6,4 Câmera 48MP+16MP+8MP+5MP",
+			"uniqueId": "8C256C991E67452F9779F742B078E7C1",
+			"id": "2000339",
+			"productId": "2000296",
+			"productRefId": "",
+			"refId": "9561+9561",
+			"ean": null,
+			"name": "2 amostras",
+			"skuName": "2 amostras",
 			"modalType": null,
 			"parentItemIndex": null,
 			"parentAssemblyBinding": null,
 			"assemblies": [],
 			"tax": 0,
 			"priceDefinitions": null,
-			"price": 189900,
-			"listPrice": 189900,
+			"price": 130,
+			"listPrice": 130,
 			"manualPrice": null,
-			"sellingPrice": 161415,
-			"orderRewardStatus": null,
-			"rewardValue": 0,
-			"isGift": false,
-			"preSaleDate": null,
-			"productCategoryIds": "/1/12/",
-			"productCategories": {
-				"12": "Motorola",
-				"1": "Smartphone"
-			},
-			"quantity": 1,
-			"seller": "1",
-			"sellerChain": [
-				"1"
-			],
-			"imageUrl": "http://yellmobile.vteximg.com.br/arquivos/ids/161038-55-55/Celular-Motorola-Moto-One-Zoom-128GB-Violet-Tela-6-4-Camera-48MP-16MP-8MP-5MP.jpg?v=637063953283530000",
-			"detailUrl": "/celular-motorola-moto-one-zoom-128gb-violet-tela-64-camera-48mp-16mp-8mp-5mp/p",
-			"components": [],
-			"bundleItems": [],
-			"attachments": [],
-			"attachmentOfferings": [],
-			"offerings": [],
-			"priceTags": [
-				{
-					"name": "discount@price-9cb1e24e-efa9-4337-8281-75954f3fb903#bb8b0c90-97df-452b-8c00-0423d4b0dc32",
-					"value": -28485,
-					"rawValue": -284.85,
-					"isPercentual": false,
-					"identifier": "9cb1e24e-efa9-4337-8281-75954f3fb903"
-				}
-			],
-			"availability": "available",
-			"measurementUnit": "un",
-			"unitMultiplier": 1.0,
-			"manufacturerCode": ""
-		},
-		{
-			"additionalInfo": {
-				"dimension": {
-					"cubicweight": 0.0625,
-					"height": 10.0,
-					"length": 5.0,
-					"weight": 0.05,
-					"width": 6.0
-				},
-				"categoriesIds": "/39/",
-				"productClusterId": "",
-				"commercialConditionId": "1",
-				"brandName": "Yell Mobile",
-				"brandId": "2000006",
-				"offeringInfo": null,
-				"offeringType": null,
-				"offeringTypeId": null
-			},
-			"sellerSku": "1813301809",
-			"priceTable": null,
-			"priceValidUntil": null,
-			"callCenterOperator": null,
-			"commission": 0,
-			"freightCommission": 0,
-			"taxCode": "3926.90.90",
-			"costPrice": null,
-			"uniqueId": "639A7A801B2C4EF2B55F79D92BDF607F",
-			"id": "1813301809",
-			"productId": "2065",
-			"productRefId": "100",
-			"refId": "100",
-			"ean": "0000000000000",
-			"name": "Anel de Selfie Yell Mobile (Brinde 1)",
-			"skuName": "Anel de Selfie Yell Mobile (Brinde 1)",
-			"modalType": null,
-			"parentItemIndex": null,
-			"parentAssemblyBinding": null,
-			"assemblies": [],
-			"tax": 0,
-			"priceDefinitions": null,
-			"price": 1,
-			"listPrice": 1,
-			"manualPrice": null,
+			"manualPriceAppliedBy": null,
 			"sellingPrice": 0,
+			"skuSpecifications": null,
 			"orderRewardStatus": null,
 			"rewardValue": 0,
 			"isGift": true,
 			"preSaleDate": null,
-			"productCategoryIds": "/39/",
+			"productCategoryIds": "/1000001/1000047/",
 			"productCategories": {
-				"39": "Brinde"
+				"1000001": "Tratamento Facial",
+				"1000047": "Adcos"
 			},
 			"quantity": 1,
 			"seller": "1",
 			"sellerChain": [
 				"1"
 			],
-			"imageUrl": "http://yellmobile.vteximg.com.br/arquivos/ids/161420-55-55/1.jpg?v=637103758868600000",
-			"detailUrl": "/anel-de-selfie-brinde/p",
-			"components": [],
+			"imageUrl": "http://lojaadcos.vteximg.com.br/arquivos/ids/156961-90-90/amostras.png?v=636123017328170000",
+			"detailUrl": "/amostras-pedido/p",
+			"components": [
+				{
+					"uniqueId": "D4EF2440BDED448688013F819F9910A5",
+					"id": "2000695",
+					"productId": null,
+					"productRefId": null,
+					"refId": "9561",
+					"ean": "",
+					"name": "Amostra Filtro Solar Fluid FPS70 Beige 1ml",
+					"skuName": null,
+					"modalType": null,
+					"parentItemIndex": null,
+					"parentAssemblyBinding": null,
+					"assemblies": [],
+					"priceValidUntil": null,
+					"tax": 0,
+					"priceDefinitions": null,
+					"price": 65,
+					"listPrice": null,
+					"manualPrice": null,
+					"manualPriceAppliedBy": null,
+					"sellingPrice": 0,
+					"skuSpecifications": null,
+					"orderRewardStatus": null,
+					"rewardValue": 0,
+					"isGift": false,
+					"additionalInfo": {
+						"dimension": {
+							"cubicweight": 1,
+							"height": 1,
+							"length": 2,
+							"weight": 2,
+							"width": 4
+						},
+						"brandName": null,
+						"brandId": null,
+						"offeringInfo": null,
+						"offeringType": null,
+						"offeringTypeId": null
+					},
+					"preSaleDate": null,
+					"productCategoryIds": null,
+					"productCategories": {},
+					"quantity": 2,
+					"seller": null,
+					"sellerChain": [
+						null
+					],
+					"imageUrl": null,
+					"detailUrl": null,
+					"components": [],
+					"bundleItems": [],
+					"attachments": [],
+					"attachmentOfferings": [],
+					"offerings": [],
+					"priceTags": [
+						{
+							"name": "DISCOUNT@GIFT",
+							"value": 100,
+							"rawValue": 1,
+							"isPercentual": true,
+							"identifier": "fdc208f5-8df9-4eb6-bbf9-2c8002df8262"
+						}
+					],
+					"availability": null,
+					"measurementUnit": "un",
+					"unitMultiplier": 1,
+					"manufacturerCode": null
+				}
+			],
 			"bundleItems": [],
 			"attachments": [],
 			"attachmentOfferings": [],
@@ -283,101 +256,23 @@
 				{
 					"name": "DISCOUNT@GIFT",
 					"value": 100,
-					"rawValue": 1.0,
+					"rawValue": 1,
 					"isPercentual": true,
-					"identifier": "6eceb34b-17f6-4195-94f3-256d8e45ea5c"
+					"identifier": "fdc208f5-8df9-4eb6-bbf9-2c8002df8262"
 				}
 			],
 			"availability": "available",
 			"measurementUnit": "un",
-			"unitMultiplier": 1.0,
-			"manufacturerCode": ""
-		},
-		{
-			"additionalInfo": {
-				"dimension": {
-					"cubicweight": 0.0625,
-					"height": 10.0,
-					"length": 5.0,
-					"weight": 0.05,
-					"width": 6.0
-				},
-				"categoriesIds": "/39/",
-				"productClusterId": "",
-				"commercialConditionId": "1",
-				"brandName": "Yell Mobile",
-				"brandId": "2000006",
-				"offeringInfo": null,
-				"offeringType": null,
-				"offeringTypeId": null
-			},
-			"sellerSku": "1813301809",
-			"priceTable": null,
-			"priceValidUntil": null,
-			"callCenterOperator": null,
-			"commission": 0,
-			"freightCommission": 0,
-			"taxCode": "3926.90.90",
-			"costPrice": null,
-			"uniqueId": "639A7A801B2C4EF2B55F79D92BDF607F",
-			"id": "1813301809",
-			"productId": "2065",
-			"productRefId": "100",
-			"refId": "100",
-			"ean": "0000000000000",
-			"name": "Anel de Selfie Yell Mobile (Brinde 2)",
-			"skuName": "Anel de Selfie Yell Mobile (Brinde 2)",
-			"modalType": null,
-			"parentItemIndex": null,
-			"parentAssemblyBinding": null,
-			"assemblies": [],
-			"tax": 0,
-			"priceDefinitions": null,
-			"price": 1,
-			"listPrice": 1,
-			"manualPrice": null,
-			"sellingPrice": 0,
-			"orderRewardStatus": null,
-			"rewardValue": 0,
-			"isGift": true,
-			"preSaleDate": null,
-			"productCategoryIds": "/39/",
-			"productCategories": {
-				"39": "Brinde"
-			},
-			"quantity": 1,
-			"seller": "1",
-			"sellerChain": [
-				"1"
-			],
-			"imageUrl": "http://yellmobile.vteximg.com.br/arquivos/ids/161420-55-55/1.jpg?v=637103758868600000",
-			"detailUrl": "/anel-de-selfie-brinde/p",
-			"components": [],
-			"bundleItems": [],
-			"attachments": [],
-			"attachmentOfferings": [],
-			"offerings": [],
-			"priceTags": [
-				{
-					"name": "DISCOUNT@GIFT",
-					"value": 100,
-					"rawValue": 1.0,
-					"isPercentual": true,
-					"identifier": "6eceb34b-17f6-4195-94f3-256d8e45ea5c"
-				}
-			],
-			"availability": "available",
-			"measurementUnit": "un",
-			"unitMultiplier": 1.0,
+			"unitMultiplier": 1,
 			"manufacturerCode": ""
 		}
 	],
 	"sellers": [
 		{
 			"subSellerId": "1",
-			"fulfillmentEndpoint": "http://fulfillment.vtexcommerce.com.br/api/fulfillment?sc=1&an=yellmobile",
+			"fulfillmentEndpoint": "http://fulfillment.vtexcommerce.com.br/api/fulfillment?sc=1&an=adcos",
 			"id": "1",
-			"name": "Yell Mobile",
+			"name": "Adcos",
 			"logo": ""
 		}
 	],
@@ -387,41 +282,41 @@
 	"marketPlaceOrderId": "",
 	"marketPlaceOrderGroup": null,
 	"marketplaceServicesEndpoint": null,
-	"orderFormId": "b7aadcee844144b18e9dde8efc6d0858",
-	"sequence": "517866",
+	"orderFormId": "5d4f1619e39a41f58ef038a1f11bdbd9",
+	"sequence": "2648889",
 	"affiliateId": "",
 	"status": "",
 	"callCenterOperator": "",
-	"userProfileId": "f54de619-d1fd-4a49-b64c-7629fed465fd",
-	"hostName": "yellmobile",
+	"userProfileId": "4b23edaf-1796-4581-9028-a45b09816daf",
+	"hostName": "adcos",
 	"creationVersion": null,
 	"creationEnvironment": null,
 	"lastChangeVersion": null,
 	"workflowInstanceId": null,
 	"marketplacePaymentValue": null,
-	"orderId": "1010101317375-01",
-	"orderGroup": "1010101317375",
-	"state": "invoiced",
+	"orderId": "v2648889adcs-01",
+	"orderGroup": "v2648889adcs",
+	"state": "payment-approved",
 	"isCheckedIn": false,
-	"sellerOrderId": "00-1010101317375-01",
+	"sellerOrderId": "00-v2648889adcs-01",
 	"storeId": null,
 	"checkedInPickupPointId": null,
-	"value": 323808,
+	"value": 17302,
 	"totals": [
 		{
 			"id": "Items",
 			"name": "Total dos Itens",
-			"value": 379800
+			"value": 16500
 		},
 		{
 			"id": "Discounts",
 			"name": "Total dos Descontos",
-			"value": -56970
+			"value": 0
 		},
 		{
 			"id": "Shipping",
 			"name": "Total do Frete",
-			"value": 978
+			"value": 802
 		},
 		{
 			"id": "Tax",
@@ -430,12 +325,12 @@
 		}
 	],
 	"clientProfileData": {
-		"email": "6fc046059cb34deeba6cf7db5c2c9ccb@ct.vtex.com.br",
-		"firstName": "Alexandre",
-		"lastName": "Bellini",
-		"document": "08128935739",
+		"email": "2dd746c2435244e3b65c03dcaf2ab67e@ct.vtex.com.br",
+		"firstName": "Elke ",
+		"lastName": "Elaine Pini",
+		"document": "25953351895",
 		"documentType": "cpf",
-		"phone": "+5521980565640",
+		"phone": "+5514991266327",
 		"corporateName": null,
 		"tradeName": null,
 		"corporateDocument": null,
@@ -449,23 +344,11 @@
 	"ratesAndBenefitsData": {
 		"rateAndBenefitsIdentifiers": [
 			{
-				"id": "9cb1e24e-efa9-4337-8281-75954f3fb903",
-				"name": "zoom01",
+				"id": "fdc208f5-8df9-4eb6-bbf9-2c8002df8262",
+				"name": "Ganhe 2 Amostras",
 				"featured": false,
-				"description": "cupom de desconto 15%",
-				"matchedParameters": {
-					"Seller@CatalogSystem": "1|inclusive"
-				},
-				"additionalInfo": null
-			},
-			{
-				"id": "6eceb34b-17f6-4195-94f3-256d8e45ea5c",
-				"name": "Anel de self",
-				"featured": false,
-				"description": "Na compra de um smartphone ganhe um anel de self",
-				"matchedParameters": {
-					"buyAndWin@Marketing": "1813301735,1813301736"
-				},
+				"description": null,
+				"matchedParameters": {},
 				"additionalInfo": null
 			}
 		],
@@ -474,51 +357,52 @@
 	"shippingData": {
 		"address": {
 			"addressType": "residential",
-			"receiverName": "Alexandre Bellini",
-			"addressId": "92fe14f57ecb46b097e6600635627706",
-			"isDisposable": false,
-			"postalCode": "24901-022",
-			"city": "Maricá",
-			"state": "RJ",
+			"receiverName": "Elke  Elaine Pini",
+			"addressId": "416a341c456f4b4aa35714aefa5d7eb3",
+			"isDisposable": true,
+			"postalCode": "17012-055",
+			"city": "Bauru",
+			"state": "SP",
 			"country": "BRA",
-			"street": "Rua A",
-			"number": "196",
-			"neighborhood": "Centro",
-			"complement": "Restaurante beco do chopp",
+			"street": "Rua Araújo Leite",
+			"number": "25",
+			"neighborhood": "Vila Santa Tereza",
+			"complement": "15",
 			"reference": null,
 			"geoCoordinates": [
-				-42.865016937255859,
-				-22.925510406494141
+				-49.06717300415039,
+				-22.328575134277344
 			]
 		},
 		"logisticsInfo": [
 			{
 				"itemIndex": 0,
-				"selectedSla": "Sedex Correios",
+				"selectedSla": "Transportadora",
 				"selectedDeliveryChannel": "delivery",
-				"addressId": "92fe14f57ecb46b097e6600635627706",
+				"addressId": "416a341c456f4b4aa35714aefa5d7eb3",
 				"slas": [
 					{
-						"id": "Sedex Correios",
+						"id": "Transportadora",
 						"deliveryChannel": "delivery",
-						"name": "Sedex Correios",
+						"name": "Transportadora",
 						"deliveryIds": [
 							{
-								"courierId": "sedex",
+								"courierId": "1b379a8",
 								"warehouseId": "1_1",
-								"dockId": "1",
-								"courierName": "Sedex Correios",
+								"dockId": "1_1_1",
+								"courierName": "TotalExpress01",
 								"quantity": 1,
+								"kitItemDetails": [],
 								"totalListPrice": 0
 							}
 						],
-						"shippingEstimate": "6bd",
-						"shippingEstimateDate": "2020-02-19T11:00:00Z",
+						"shippingEstimate": "11bd",
+						"shippingEstimateDate": "2021-04-16T06:39:03.6722883Z",
 						"lockTTL": "12d",
 						"availableDeliveryWindows": [],
 						"deliveryWindow": null,
-						"price": 387,
-						"listPrice": 387,
+						"price": 782,
+						"listPrice": 782,
 						"tax": 0,
 						"pickupStoreInfo": {
 							"isPickupStore": false,
@@ -528,228 +412,16 @@
 							"dockId": null
 						},
 						"pickupPointId": null,
-						"pickupDistance": 0.0,
+						"pickupDistance": 0,
 						"polygonName": null,
-						"transitTime": "3bd"
-					},
-					{
-						"id": "Retirar na Loja (novamamerica)",
-						"deliveryChannel": "pickup-in-point",
-						"name": "Retirar na Loja (novamamerica)",
-						"deliveryIds": [
-							{
-								"courierId": "1",
-								"warehouseId": "1_1",
-								"dockId": "1",
-								"courierName": "Retirada em Loja",
-								"quantity": 1,
-								"totalListPrice": 0
-							}
-						],
-						"shippingEstimate": "3bd",
-						"shippingEstimateDate": null,
-						"lockTTL": "12d",
-						"availableDeliveryWindows": [],
-						"deliveryWindow": null,
-						"price": 0,
-						"listPrice": 0,
-						"tax": 0,
-						"pickupStoreInfo": {
-							"isPickupStore": true,
-							"friendlyName": "Yell Shopping Nova América",
-							"address": {
-								"addressType": "pickup",
-								"receiverName": null,
-								"addressId": "novamamerica",
-								"isDisposable": false,
-								"postalCode": "20765-630",
-								"city": "Rio de Janeiro",
-								"state": "RJ",
-								"country": "BRA",
-								"street": "Avenida Pastor Martin Luther King Junior",
-								"number": "126",
-								"neighborhood": "Inhauma",
-								"complement": "Quiosque 19 - 2º Piso",
-								"reference": null,
-								"geoCoordinates": [
-									-43.271215600000005,
-									-22.8778881
-								]
-							},
-							"additionalInfo": "Retirar seu pedido na loja da Yell Mobile após o recebimento da confirmação do faturamento da Nota Fiscal.",
-							"dockId": "1"
-						},
-						"pickupPointId": "1_novamamerica",
-						"pickupDistance": 41.942962646484375,
-						"polygonName": null,
-						"transitTime": "0bd"
-					},
-					{
-						"id": "Retirar na Loja (NorteShopping)",
-						"deliveryChannel": "pickup-in-point",
-						"name": "Retirar na Loja (NorteShopping)",
-						"deliveryIds": [
-							{
-								"courierId": "1",
-								"warehouseId": "1_1",
-								"dockId": "1",
-								"courierName": "Retirada em Loja",
-								"quantity": 1,
-								"totalListPrice": 0
-							}
-						],
-						"shippingEstimate": "3bd",
-						"shippingEstimateDate": null,
-						"lockTTL": "12d",
-						"availableDeliveryWindows": [],
-						"deliveryWindow": null,
-						"price": 0,
-						"listPrice": 0,
-						"tax": 0,
-						"pickupStoreInfo": {
-							"isPickupStore": true,
-							"friendlyName": "Yell Norte Shopping",
-							"address": {
-								"addressType": "pickup",
-								"receiverName": null,
-								"addressId": "NorteShopping",
-								"isDisposable": false,
-								"postalCode": "20751-003",
-								"city": "Rio de Janeiro",
-								"state": "RJ",
-								"country": "BRA",
-								"street": "Avenida Dom Hélder Câmara",
-								"number": "5474",
-								"neighborhood": "Piedade",
-								"complement": "Lojas: 1º Piso e 2º Piso",
-								"reference": null,
-								"geoCoordinates": [
-									-43.2834982,
-									-22.8864368
-								]
-							},
-							"additionalInfo": "Retirar seu pedido na loja da Yell Mobile após o recebimento da confirmação do faturamento da Nota Fiscal.",
-							"dockId": "1"
-						},
-						"pickupPointId": "1_NorteShopping",
-						"pickupDistance": 43.083461761474609,
-						"polygonName": null,
-						"transitTime": "0bd"
-					},
-					{
-						"id": "Retirar na Loja (Caxias)",
-						"deliveryChannel": "pickup-in-point",
-						"name": "Retirar na Loja (Caxias)",
-						"deliveryIds": [
-							{
-								"courierId": "1",
-								"warehouseId": "1_1",
-								"dockId": "1",
-								"courierName": "Retirada em Loja",
-								"quantity": 1,
-								"totalListPrice": 0
-							}
-						],
-						"shippingEstimate": "3bd",
-						"shippingEstimateDate": null,
-						"lockTTL": "12d",
-						"availableDeliveryWindows": [],
-						"deliveryWindow": null,
-						"price": 0,
-						"listPrice": 0,
-						"tax": 0,
-						"pickupStoreInfo": {
-							"isPickupStore": true,
-							"friendlyName": "Yell Caxias Shopping",
-							"address": {
-								"addressType": "pickup",
-								"receiverName": null,
-								"addressId": "Caxias",
-								"isDisposable": false,
-								"postalCode": "25085-008",
-								"city": "Duque de Caxias",
-								"state": "RJ",
-								"country": "BRA",
-								"street": "Rodovia Washington Luíz",
-								"number": "2895",
-								"neighborhood": "Vila São Luis",
-								"complement": "2° piso",
-								"reference": null,
-								"geoCoordinates": [
-									-43.286740300000019,
-									-22.7873054
-								]
-							},
-							"additionalInfo": "Retirar seu pedido na loja da Yell Mobile após o recebimento da confirmação do faturamento da Nota Fiscal.",
-							"dockId": "1"
-						},
-						"pickupPointId": "1_Caxias",
-						"pickupDistance": 45.862655639648438,
-						"polygonName": null,
-						"transitTime": "0bd"
-					},
-					{
-						"id": "Retirar na Loja (Madureira)",
-						"deliveryChannel": "pickup-in-point",
-						"name": "Retirar na Loja (Madureira)",
-						"deliveryIds": [
-							{
-								"courierId": "1",
-								"warehouseId": "1_1",
-								"dockId": "1",
-								"courierName": "Retirada em Loja",
-								"quantity": 1,
-								"totalListPrice": 0
-							}
-						],
-						"shippingEstimate": "3bd",
-						"shippingEstimateDate": null,
-						"lockTTL": "12d",
-						"availableDeliveryWindows": [],
-						"deliveryWindow": null,
-						"price": 0,
-						"listPrice": 0,
-						"tax": 0,
-						"pickupStoreInfo": {
-							"isPickupStore": true,
-							"friendlyName": "Yell Madureira Shopping",
-							"address": {
-								"addressType": "pickup",
-								"receiverName": null,
-								"addressId": "Madureira",
-								"isDisposable": false,
-								"postalCode": "21351-060",
-								"city": "Rio de Janeiro",
-								"state": "RJ",
-								"country": "BRA",
-								"street": "Estrada do Portela",
-								"number": "222",
-								"neighborhood": "Madureira",
-								"complement": "Lojas 164 / 165",
-								"reference": null,
-								"geoCoordinates": [
-									-43.341083099999992,
-									-22.870455
-								]
-							},
-							"additionalInfo": "Retirar seu pedido na loja da Yell Mobile após o recebimento da confirmação do faturamento da Nota Fiscal.",
-							"dockId": "1"
-						},
-						"pickupPointId": "1_Madureira",
-						"pickupDistance": 49.147296905517578,
-						"polygonName": null,
-						"transitTime": "0bd"
+						"transitTime": "4bd"
 					}
 				],
 				"shipsTo": [
 					"BRA"
 				],
-				"itemId": "1813301735",
+				"itemId": "2000277",
 				"deliveryChannels": [
-					{
-						"id": "pickup-in-point",
-						"stockBalance": 0
-					},
 					{
 						"id": "delivery",
 						"stockBalance": 0
@@ -758,31 +430,37 @@
 			},
 			{
 				"itemIndex": 1,
-				"selectedSla": "Sedex Correios",
+				"selectedSla": "Transportadora",
 				"selectedDeliveryChannel": "delivery",
-				"addressId": "92fe14f57ecb46b097e6600635627706",
+				"addressId": "416a341c456f4b4aa35714aefa5d7eb3",
 				"slas": [
 					{
-						"id": "Sedex Correios",
+						"id": "Transportadora",
 						"deliveryChannel": "delivery",
-						"name": "Sedex Correios",
+						"name": "Transportadora",
 						"deliveryIds": [
 							{
-								"courierId": "sedex",
+								"courierId": "1b379a8",
 								"warehouseId": "1_1",
-								"dockId": "1",
-								"courierName": "Sedex Correios",
+								"dockId": "1_1_1",
+								"courierName": "TotalExpress01",
 								"quantity": 1,
+								"kitItemDetails": [
+									{
+										"itemId": "2000695",
+										"warehouseId": "1_1"
+									}
+								],
 								"totalListPrice": 0
 							}
 						],
-						"shippingEstimate": "6bd",
-						"shippingEstimateDate": "2020-02-19T11:00:00Z",
+						"shippingEstimate": "11bd",
+						"shippingEstimateDate": "2021-04-16T06:39:03.6722883Z",
 						"lockTTL": "12d",
 						"availableDeliveryWindows": [],
 						"deliveryWindow": null,
-						"price": 387,
-						"listPrice": 387,
+						"price": 20,
+						"listPrice": 20,
 						"tax": 0,
 						"pickupStoreInfo": {
 							"isPickupStore": false,
@@ -792,756 +470,16 @@
 							"dockId": null
 						},
 						"pickupPointId": null,
-						"pickupDistance": 0.0,
+						"pickupDistance": 0,
 						"polygonName": null,
-						"transitTime": "3bd"
-					},
-					{
-						"id": "Retirar na Loja (novamamerica)",
-						"deliveryChannel": "pickup-in-point",
-						"name": "Retirar na Loja (novamamerica)",
-						"deliveryIds": [
-							{
-								"courierId": "1",
-								"warehouseId": "1_1",
-								"dockId": "1",
-								"courierName": "Retirada em Loja",
-								"quantity": 1,
-								"totalListPrice": 0
-							}
-						],
-						"shippingEstimate": "3bd",
-						"shippingEstimateDate": null,
-						"lockTTL": "12d",
-						"availableDeliveryWindows": [],
-						"deliveryWindow": null,
-						"price": 0,
-						"listPrice": 0,
-						"tax": 0,
-						"pickupStoreInfo": {
-							"isPickupStore": true,
-							"friendlyName": "Yell Shopping Nova América",
-							"address": {
-								"addressType": "pickup",
-								"receiverName": null,
-								"addressId": "novamamerica",
-								"isDisposable": false,
-								"postalCode": "20765-630",
-								"city": "Rio de Janeiro",
-								"state": "RJ",
-								"country": "BRA",
-								"street": "Avenida Pastor Martin Luther King Junior",
-								"number": "126",
-								"neighborhood": "Inhauma",
-								"complement": "Quiosque 19 - 2º Piso",
-								"reference": null,
-								"geoCoordinates": [
-									-43.271215600000005,
-									-22.8778881
-								]
-							},
-							"additionalInfo": "Retirar seu pedido na loja da Yell Mobile após o recebimento da confirmação do faturamento da Nota Fiscal.",
-							"dockId": "1"
-						},
-						"pickupPointId": "1_novamamerica",
-						"pickupDistance": 41.942962646484375,
-						"polygonName": null,
-						"transitTime": "0bd"
-					},
-					{
-						"id": "Retirar na Loja (NorteShopping)",
-						"deliveryChannel": "pickup-in-point",
-						"name": "Retirar na Loja (NorteShopping)",
-						"deliveryIds": [
-							{
-								"courierId": "1",
-								"warehouseId": "1_1",
-								"dockId": "1",
-								"courierName": "Retirada em Loja",
-								"quantity": 1,
-								"totalListPrice": 0
-							}
-						],
-						"shippingEstimate": "3bd",
-						"shippingEstimateDate": null,
-						"lockTTL": "12d",
-						"availableDeliveryWindows": [],
-						"deliveryWindow": null,
-						"price": 0,
-						"listPrice": 0,
-						"tax": 0,
-						"pickupStoreInfo": {
-							"isPickupStore": true,
-							"friendlyName": "Yell Norte Shopping",
-							"address": {
-								"addressType": "pickup",
-								"receiverName": null,
-								"addressId": "NorteShopping",
-								"isDisposable": false,
-								"postalCode": "20751-003",
-								"city": "Rio de Janeiro",
-								"state": "RJ",
-								"country": "BRA",
-								"street": "Avenida Dom Hélder Câmara",
-								"number": "5474",
-								"neighborhood": "Piedade",
-								"complement": "Lojas: 1º Piso e 2º Piso",
-								"reference": null,
-								"geoCoordinates": [
-									-43.2834982,
-									-22.8864368
-								]
-							},
-							"additionalInfo": "Retirar seu pedido na loja da Yell Mobile após o recebimento da confirmação do faturamento da Nota Fiscal.",
-							"dockId": "1"
-						},
-						"pickupPointId": "1_NorteShopping",
-						"pickupDistance": 43.083461761474609,
-						"polygonName": null,
-						"transitTime": "0bd"
-					},
-					{
-						"id": "Retirar na Loja (Caxias)",
-						"deliveryChannel": "pickup-in-point",
-						"name": "Retirar na Loja (Caxias)",
-						"deliveryIds": [
-							{
-								"courierId": "1",
-								"warehouseId": "1_1",
-								"dockId": "1",
-								"courierName": "Retirada em Loja",
-								"quantity": 1,
-								"totalListPrice": 0
-							}
-						],
-						"shippingEstimate": "3bd",
-						"shippingEstimateDate": null,
-						"lockTTL": "12d",
-						"availableDeliveryWindows": [],
-						"deliveryWindow": null,
-						"price": 0,
-						"listPrice": 0,
-						"tax": 0,
-						"pickupStoreInfo": {
-							"isPickupStore": true,
-							"friendlyName": "Yell Caxias Shopping",
-							"address": {
-								"addressType": "pickup",
-								"receiverName": null,
-								"addressId": "Caxias",
-								"isDisposable": false,
-								"postalCode": "25085-008",
-								"city": "Duque de Caxias",
-								"state": "RJ",
-								"country": "BRA",
-								"street": "Rodovia Washington Luíz",
-								"number": "2895",
-								"neighborhood": "Vila São Luis",
-								"complement": "2° piso",
-								"reference": null,
-								"geoCoordinates": [
-									-43.286740300000019,
-									-22.7873054
-								]
-							},
-							"additionalInfo": "Retirar seu pedido na loja da Yell Mobile após o recebimento da confirmação do faturamento da Nota Fiscal.",
-							"dockId": "1"
-						},
-						"pickupPointId": "1_Caxias",
-						"pickupDistance": 45.862655639648438,
-						"polygonName": null,
-						"transitTime": "0bd"
-					},
-					{
-						"id": "Retirar na Loja (Madureira)",
-						"deliveryChannel": "pickup-in-point",
-						"name": "Retirar na Loja (Madureira)",
-						"deliveryIds": [
-							{
-								"courierId": "1",
-								"warehouseId": "1_1",
-								"dockId": "1",
-								"courierName": "Retirada em Loja",
-								"quantity": 1,
-								"totalListPrice": 0
-							}
-						],
-						"shippingEstimate": "3bd",
-						"shippingEstimateDate": null,
-						"lockTTL": "12d",
-						"availableDeliveryWindows": [],
-						"deliveryWindow": null,
-						"price": 0,
-						"listPrice": 0,
-						"tax": 0,
-						"pickupStoreInfo": {
-							"isPickupStore": true,
-							"friendlyName": "Yell Madureira Shopping",
-							"address": {
-								"addressType": "pickup",
-								"receiverName": null,
-								"addressId": "Madureira",
-								"isDisposable": false,
-								"postalCode": "21351-060",
-								"city": "Rio de Janeiro",
-								"state": "RJ",
-								"country": "BRA",
-								"street": "Estrada do Portela",
-								"number": "222",
-								"neighborhood": "Madureira",
-								"complement": "Lojas 164 / 165",
-								"reference": null,
-								"geoCoordinates": [
-									-43.341083099999992,
-									-22.870455
-								]
-							},
-							"additionalInfo": "Retirar seu pedido na loja da Yell Mobile após o recebimento da confirmação do faturamento da Nota Fiscal.",
-							"dockId": "1"
-						},
-						"pickupPointId": "1_Madureira",
-						"pickupDistance": 49.147296905517578,
-						"polygonName": null,
-						"transitTime": "0bd"
+						"transitTime": "4bd"
 					}
 				],
 				"shipsTo": [
 					"BRA"
 				],
-				"itemId": "1813301736",
+				"itemId": "2000339",
 				"deliveryChannels": [
-					{
-						"id": "pickup-in-point",
-						"stockBalance": 0
-					},
-					{
-						"id": "delivery",
-						"stockBalance": 0
-					}
-				]
-			},
-			{
-				"itemIndex": 2,
-				"selectedSla": "Sedex Correios",
-				"selectedDeliveryChannel": "delivery",
-				"addressId": "92fe14f57ecb46b097e6600635627706",
-				"slas": [
-					{
-						"id": "Sedex Correios",
-						"deliveryChannel": "delivery",
-						"name": "Sedex Correios",
-						"deliveryIds": [
-							{
-								"courierId": "sedex",
-								"warehouseId": "1_1",
-								"dockId": "1",
-								"courierName": "Sedex Correios",
-								"quantity": 1,
-								"totalListPrice": 0
-							}
-						],
-						"shippingEstimate": "6bd",
-						"shippingEstimateDate": "2020-02-19T11:00:00Z",
-						"lockTTL": "12d",
-						"availableDeliveryWindows": [],
-						"deliveryWindow": null,
-						"price": 102,
-						"listPrice": 102,
-						"tax": 0,
-						"pickupStoreInfo": {
-							"isPickupStore": false,
-							"friendlyName": null,
-							"address": null,
-							"additionalInfo": null,
-							"dockId": null
-						},
-						"pickupPointId": null,
-						"pickupDistance": 0.0,
-						"polygonName": null,
-						"transitTime": "3bd"
-					},
-					{
-						"id": "Retirar na Loja (novamamerica)",
-						"deliveryChannel": "pickup-in-point",
-						"name": "Retirar na Loja (novamamerica)",
-						"deliveryIds": [
-							{
-								"courierId": "1",
-								"warehouseId": "1_1",
-								"dockId": "1",
-								"courierName": "Retirada em Loja",
-								"quantity": 1,
-								"totalListPrice": 0
-							}
-						],
-						"shippingEstimate": "3bd",
-						"shippingEstimateDate": null,
-						"lockTTL": "12d",
-						"availableDeliveryWindows": [],
-						"deliveryWindow": null,
-						"price": 0,
-						"listPrice": 0,
-						"tax": 0,
-						"pickupStoreInfo": {
-							"isPickupStore": true,
-							"friendlyName": "Yell Shopping Nova América",
-							"address": {
-								"addressType": "pickup",
-								"receiverName": null,
-								"addressId": "novamamerica",
-								"isDisposable": false,
-								"postalCode": "20765-630",
-								"city": "Rio de Janeiro",
-								"state": "RJ",
-								"country": "BRA",
-								"street": "Avenida Pastor Martin Luther King Junior",
-								"number": "126",
-								"neighborhood": "Inhauma",
-								"complement": "Quiosque 19 - 2º Piso",
-								"reference": null,
-								"geoCoordinates": [
-									-43.271215600000005,
-									-22.8778881
-								]
-							},
-							"additionalInfo": "Retirar seu pedido na loja da Yell Mobile após o recebimento da confirmação do faturamento da Nota Fiscal.",
-							"dockId": "1"
-						},
-						"pickupPointId": "1_novamamerica",
-						"pickupDistance": 41.942962646484375,
-						"polygonName": null,
-						"transitTime": "0bd"
-					},
-					{
-						"id": "Retirar na Loja (NorteShopping)",
-						"deliveryChannel": "pickup-in-point",
-						"name": "Retirar na Loja (NorteShopping)",
-						"deliveryIds": [
-							{
-								"courierId": "1",
-								"warehouseId": "1_1",
-								"dockId": "1",
-								"courierName": "Retirada em Loja",
-								"quantity": 1,
-								"totalListPrice": 0
-							}
-						],
-						"shippingEstimate": "3bd",
-						"shippingEstimateDate": null,
-						"lockTTL": "12d",
-						"availableDeliveryWindows": [],
-						"deliveryWindow": null,
-						"price": 0,
-						"listPrice": 0,
-						"tax": 0,
-						"pickupStoreInfo": {
-							"isPickupStore": true,
-							"friendlyName": "Yell Norte Shopping",
-							"address": {
-								"addressType": "pickup",
-								"receiverName": null,
-								"addressId": "NorteShopping",
-								"isDisposable": false,
-								"postalCode": "20751-003",
-								"city": "Rio de Janeiro",
-								"state": "RJ",
-								"country": "BRA",
-								"street": "Avenida Dom Hélder Câmara",
-								"number": "5474",
-								"neighborhood": "Piedade",
-								"complement": "Lojas: 1º Piso e 2º Piso",
-								"reference": null,
-								"geoCoordinates": [
-									-43.2834982,
-									-22.8864368
-								]
-							},
-							"additionalInfo": "Retirar seu pedido na loja da Yell Mobile após o recebimento da confirmação do faturamento da Nota Fiscal.",
-							"dockId": "1"
-						},
-						"pickupPointId": "1_NorteShopping",
-						"pickupDistance": 43.083461761474609,
-						"polygonName": null,
-						"transitTime": "0bd"
-					},
-					{
-						"id": "Retirar na Loja (Caxias)",
-						"deliveryChannel": "pickup-in-point",
-						"name": "Retirar na Loja (Caxias)",
-						"deliveryIds": [
-							{
-								"courierId": "1",
-								"warehouseId": "1_1",
-								"dockId": "1",
-								"courierName": "Retirada em Loja",
-								"quantity": 1,
-								"totalListPrice": 0
-							}
-						],
-						"shippingEstimate": "3bd",
-						"shippingEstimateDate": null,
-						"lockTTL": "12d",
-						"availableDeliveryWindows": [],
-						"deliveryWindow": null,
-						"price": 0,
-						"listPrice": 0,
-						"tax": 0,
-						"pickupStoreInfo": {
-							"isPickupStore": true,
-							"friendlyName": "Yell Caxias Shopping",
-							"address": {
-								"addressType": "pickup",
-								"receiverName": null,
-								"addressId": "Caxias",
-								"isDisposable": false,
-								"postalCode": "25085-008",
-								"city": "Duque de Caxias",
-								"state": "RJ",
-								"country": "BRA",
-								"street": "Rodovia Washington Luíz",
-								"number": "2895",
-								"neighborhood": "Vila São Luis",
-								"complement": "2° piso",
-								"reference": null,
-								"geoCoordinates": [
-									-43.286740300000019,
-									-22.7873054
-								]
-							},
-							"additionalInfo": "Retirar seu pedido na loja da Yell Mobile após o recebimento da confirmação do faturamento da Nota Fiscal.",
-							"dockId": "1"
-						},
-						"pickupPointId": "1_Caxias",
-						"pickupDistance": 45.862655639648438,
-						"polygonName": null,
-						"transitTime": "0bd"
-					},
-					{
-						"id": "Retirar na Loja (Madureira)",
-						"deliveryChannel": "pickup-in-point",
-						"name": "Retirar na Loja (Madureira)",
-						"deliveryIds": [
-							{
-								"courierId": "1",
-								"warehouseId": "1_1",
-								"dockId": "1",
-								"courierName": "Retirada em Loja",
-								"quantity": 1,
-								"totalListPrice": 0
-							}
-						],
-						"shippingEstimate": "3bd",
-						"shippingEstimateDate": null,
-						"lockTTL": "12d",
-						"availableDeliveryWindows": [],
-						"deliveryWindow": null,
-						"price": 0,
-						"listPrice": 0,
-						"tax": 0,
-						"pickupStoreInfo": {
-							"isPickupStore": true,
-							"friendlyName": "Yell Madureira Shopping",
-							"address": {
-								"addressType": "pickup",
-								"receiverName": null,
-								"addressId": "Madureira",
-								"isDisposable": false,
-								"postalCode": "21351-060",
-								"city": "Rio de Janeiro",
-								"state": "RJ",
-								"country": "BRA",
-								"street": "Estrada do Portela",
-								"number": "222",
-								"neighborhood": "Madureira",
-								"complement": "Lojas 164 / 165",
-								"reference": null,
-								"geoCoordinates": [
-									-43.341083099999992,
-									-22.870455
-								]
-							},
-							"additionalInfo": "Retirar seu pedido na loja da Yell Mobile após o recebimento da confirmação do faturamento da Nota Fiscal.",
-							"dockId": "1"
-						},
-						"pickupPointId": "1_Madureira",
-						"pickupDistance": 49.147296905517578,
-						"polygonName": null,
-						"transitTime": "0bd"
-					}
-				],
-				"shipsTo": [
-					"BRA"
-				],
-				"itemId": "1813301809",
-				"deliveryChannels": [
-					{
-						"id": "pickup-in-point",
-						"stockBalance": 0
-					},
-					{
-						"id": "delivery",
-						"stockBalance": 0
-					}
-				]
-			},
-			{
-				"itemIndex": 3,
-				"selectedSla": "Sedex Correios",
-				"selectedDeliveryChannel": "delivery",
-				"addressId": "92fe14f57ecb46b097e6600635627706",
-				"slas": [
-					{
-						"id": "Sedex Correios",
-						"deliveryChannel": "delivery",
-						"name": "Sedex Correios",
-						"deliveryIds": [
-							{
-								"courierId": "sedex",
-								"warehouseId": "1_1",
-								"dockId": "1",
-								"courierName": "Sedex Correios",
-								"quantity": 1,
-								"totalListPrice": 0
-							}
-						],
-						"shippingEstimate": "6bd",
-						"shippingEstimateDate": "2020-02-19T11:00:00Z",
-						"lockTTL": "12d",
-						"availableDeliveryWindows": [],
-						"deliveryWindow": null,
-						"price": 102,
-						"listPrice": 102,
-						"tax": 0,
-						"pickupStoreInfo": {
-							"isPickupStore": false,
-							"friendlyName": null,
-							"address": null,
-							"additionalInfo": null,
-							"dockId": null
-						},
-						"pickupPointId": null,
-						"pickupDistance": 0.0,
-						"polygonName": null,
-						"transitTime": "3bd"
-					},
-					{
-						"id": "Retirar na Loja (novamamerica)",
-						"deliveryChannel": "pickup-in-point",
-						"name": "Retirar na Loja (novamamerica)",
-						"deliveryIds": [
-							{
-								"courierId": "1",
-								"warehouseId": "1_1",
-								"dockId": "1",
-								"courierName": "Retirada em Loja",
-								"quantity": 1,
-								"totalListPrice": 0
-							}
-						],
-						"shippingEstimate": "3bd",
-						"shippingEstimateDate": null,
-						"lockTTL": "12d",
-						"availableDeliveryWindows": [],
-						"deliveryWindow": null,
-						"price": 0,
-						"listPrice": 0,
-						"tax": 0,
-						"pickupStoreInfo": {
-							"isPickupStore": true,
-							"friendlyName": "Yell Shopping Nova América",
-							"address": {
-								"addressType": "pickup",
-								"receiverName": null,
-								"addressId": "novamamerica",
-								"isDisposable": false,
-								"postalCode": "20765-630",
-								"city": "Rio de Janeiro",
-								"state": "RJ",
-								"country": "BRA",
-								"street": "Avenida Pastor Martin Luther King Junior",
-								"number": "126",
-								"neighborhood": "Inhauma",
-								"complement": "Quiosque 19 - 2º Piso",
-								"reference": null,
-								"geoCoordinates": [
-									-43.271215600000005,
-									-22.8778881
-								]
-							},
-							"additionalInfo": "Retirar seu pedido na loja da Yell Mobile após o recebimento da confirmação do faturamento da Nota Fiscal.",
-							"dockId": "1"
-						},
-						"pickupPointId": "1_novamamerica",
-						"pickupDistance": 41.942962646484375,
-						"polygonName": null,
-						"transitTime": "0bd"
-					},
-					{
-						"id": "Retirar na Loja (NorteShopping)",
-						"deliveryChannel": "pickup-in-point",
-						"name": "Retirar na Loja (NorteShopping)",
-						"deliveryIds": [
-							{
-								"courierId": "1",
-								"warehouseId": "1_1",
-								"dockId": "1",
-								"courierName": "Retirada em Loja",
-								"quantity": 1,
-								"totalListPrice": 0
-							}
-						],
-						"shippingEstimate": "3bd",
-						"shippingEstimateDate": null,
-						"lockTTL": "12d",
-						"availableDeliveryWindows": [],
-						"deliveryWindow": null,
-						"price": 0,
-						"listPrice": 0,
-						"tax": 0,
-						"pickupStoreInfo": {
-							"isPickupStore": true,
-							"friendlyName": "Yell Norte Shopping",
-							"address": {
-								"addressType": "pickup",
-								"receiverName": null,
-								"addressId": "NorteShopping",
-								"isDisposable": false,
-								"postalCode": "20751-003",
-								"city": "Rio de Janeiro",
-								"state": "RJ",
-								"country": "BRA",
-								"street": "Avenida Dom Hélder Câmara",
-								"number": "5474",
-								"neighborhood": "Piedade",
-								"complement": "Lojas: 1º Piso e 2º Piso",
-								"reference": null,
-								"geoCoordinates": [
-									-43.2834982,
-									-22.8864368
-								]
-							},
-							"additionalInfo": "Retirar seu pedido na loja da Yell Mobile após o recebimento da confirmação do faturamento da Nota Fiscal.",
-							"dockId": "1"
-						},
-						"pickupPointId": "1_NorteShopping",
-						"pickupDistance": 43.083461761474609,
-						"polygonName": null,
-						"transitTime": "0bd"
-					},
-					{
-						"id": "Retirar na Loja (Caxias)",
-						"deliveryChannel": "pickup-in-point",
-						"name": "Retirar na Loja (Caxias)",
-						"deliveryIds": [
-							{
-								"courierId": "1",
-								"warehouseId": "1_1",
-								"dockId": "1",
-								"courierName": "Retirada em Loja",
-								"quantity": 1,
-								"totalListPrice": 0
-							}
-						],
-						"shippingEstimate": "3bd",
-						"shippingEstimateDate": null,
-						"lockTTL": "12d",
-						"availableDeliveryWindows": [],
-						"deliveryWindow": null,
-						"price": 0,
-						"listPrice": 0,
-						"tax": 0,
-						"pickupStoreInfo": {
-							"isPickupStore": true,
-							"friendlyName": "Yell Caxias Shopping",
-							"address": {
-								"addressType": "pickup",
-								"receiverName": null,
-								"addressId": "Caxias",
-								"isDisposable": false,
-								"postalCode": "25085-008",
-								"city": "Duque de Caxias",
-								"state": "RJ",
-								"country": "BRA",
-								"street": "Rodovia Washington Luíz",
-								"number": "2895",
-								"neighborhood": "Vila São Luis",
-								"complement": "2° piso",
-								"reference": null,
-								"geoCoordinates": [
-									-43.286740300000019,
-									-22.7873054
-								]
-							},
-							"additionalInfo": "Retirar seu pedido na loja da Yell Mobile após o recebimento da confirmação do faturamento da Nota Fiscal.",
-							"dockId": "1"
-						},
-						"pickupPointId": "1_Caxias",
-						"pickupDistance": 45.862655639648438,
-						"polygonName": null,
-						"transitTime": "0bd"
-					},
-					{
-						"id": "Retirar na Loja (Madureira)",
-						"deliveryChannel": "pickup-in-point",
-						"name": "Retirar na Loja (Madureira)",
-						"deliveryIds": [
-							{
-								"courierId": "1",
-								"warehouseId": "1_1",
-								"dockId": "1",
-								"courierName": "Retirada em Loja",
-								"quantity": 1,
-								"totalListPrice": 0
-							}
-						],
-						"shippingEstimate": "3bd",
-						"shippingEstimateDate": null,
-						"lockTTL": "12d",
-						"availableDeliveryWindows": [],
-						"deliveryWindow": null,
-						"price": 0,
-						"listPrice": 0,
-						"tax": 0,
-						"pickupStoreInfo": {
-							"isPickupStore": true,
-							"friendlyName": "Yell Madureira Shopping",
-							"address": {
-								"addressType": "pickup",
-								"receiverName": null,
-								"addressId": "Madureira",
-								"isDisposable": false,
-								"postalCode": "21351-060",
-								"city": "Rio de Janeiro",
-								"state": "RJ",
-								"country": "BRA",
-								"street": "Estrada do Portela",
-								"number": "222",
-								"neighborhood": "Madureira",
-								"complement": "Lojas 164 / 165",
-								"reference": null,
-								"geoCoordinates": [
-									-43.341083099999992,
-									-22.870455
-								]
-							},
-							"additionalInfo": "Retirar seu pedido na loja da Yell Mobile após o recebimento da confirmação do faturamento da Nota Fiscal.",
-							"dockId": "1"
-						},
-						"pickupPointId": "1_Madureira",
-						"pickupDistance": 49.147296905517578,
-						"polygonName": null,
-						"transitTime": "0bd"
-					}
-				],
-				"shipsTo": [
-					"BRA"
-				],
-				"itemId": "1813301809",
-				"deliveryChannels": [
-					{
-						"id": "pickup-in-point",
-						"stockBalance": 0
-					},
 					{
 						"id": "delivery",
 						"stockBalance": 0
@@ -1552,337 +490,90 @@
 		"selectedAddresses": [
 			{
 				"addressType": "residential",
-				"receiverName": "Alexandre Bellini",
-				"addressId": "92fe14f57ecb46b097e6600635627706",
-				"isDisposable": false,
-				"postalCode": "24901-022",
-				"city": "Maricá",
-				"state": "RJ",
+				"receiverName": "Elke  Elaine Pini",
+				"addressId": "416a341c456f4b4aa35714aefa5d7eb3",
+				"isDisposable": true,
+				"postalCode": "17012-055",
+				"city": "Bauru",
+				"state": "SP",
 				"country": "BRA",
-				"street": "Rua A",
-				"number": "196",
-				"neighborhood": "Centro",
-				"complement": "Restaurante beco do chopp",
+				"street": "Rua Araújo Leite",
+				"number": "25",
+				"neighborhood": "Vila Santa Tereza",
+				"complement": "15",
 				"reference": null,
 				"geoCoordinates": [
-					-42.865016937255859,
-					-22.925510406494141
+					-49.06717300415039,
+					-22.328575134277344
 				]
 			}
 		],
 		"availableAddresses": [
 			{
 				"addressType": "residential",
-				"receiverName": "Alexandre Bellini",
-				"addressId": "92fe14f57ecb46b097e6600635627706",
-				"isDisposable": false,
-				"postalCode": "24901-022",
-				"city": "Maricá",
-				"state": "RJ",
+				"receiverName": "Elke  Elaine Pini",
+				"addressId": "416a341c456f4b4aa35714aefa5d7eb3",
+				"isDisposable": true,
+				"postalCode": "17012-055",
+				"city": "Bauru",
+				"state": "SP",
 				"country": "BRA",
-				"street": "Rua A",
-				"number": "196",
-				"neighborhood": "Centro",
-				"complement": "Restaurante beco do chopp",
+				"street": "Rua Araújo Leite",
+				"number": "25",
+				"neighborhood": "Vila Santa Tereza",
+				"complement": "15",
 				"reference": null,
 				"geoCoordinates": [
-					-42.865016937255859,
-					-22.925510406494141
+					-49.06717300415039,
+					-22.328575134277344
 				]
 			}
 		],
-		"pickupPoints": [
-			{
-				"friendlyName": "Yell Shopping Nova América",
-				"address": {
-					"addressType": "pickup",
-					"receiverName": null,
-					"addressId": "novamamerica",
-					"isDisposable": false,
-					"postalCode": "20765-630",
-					"city": "Rio de Janeiro",
-					"state": "RJ",
-					"country": "BRA",
-					"street": "Avenida Pastor Martin Luther King Junior",
-					"number": "126",
-					"neighborhood": "Inhauma",
-					"complement": "Quiosque 19 - 2º Piso",
-					"reference": null,
-					"geoCoordinates": [
-						-43.271215600000005,
-						-22.8778881
-					]
-				},
-				"additionalInfo": "Retirar seu pedido na loja da Yell Mobile após o recebimento da confirmação do faturamento da Nota Fiscal.",
-				"id": "1_novamamerica",
-				"businessHours": [
-					{
-						"DayOfWeek": 0,
-						"OpeningTime": "13:00:00",
-						"ClosingTime": "21:00:00"
-					},
-					{
-						"DayOfWeek": 1,
-						"OpeningTime": "10:00:00",
-						"ClosingTime": "22:00:00"
-					},
-					{
-						"DayOfWeek": 2,
-						"OpeningTime": "10:00:00",
-						"ClosingTime": "22:00:00"
-					},
-					{
-						"DayOfWeek": 3,
-						"OpeningTime": "10:00:00",
-						"ClosingTime": "22:00:00"
-					},
-					{
-						"DayOfWeek": 4,
-						"OpeningTime": "10:00:00",
-						"ClosingTime": "22:00:00"
-					},
-					{
-						"DayOfWeek": 5,
-						"OpeningTime": "10:00:00",
-						"ClosingTime": "22:00:00"
-					},
-					{
-						"DayOfWeek": 6,
-						"OpeningTime": "10:00:00",
-						"ClosingTime": "22:00:00"
-					}
-				]
-			},
-			{
-				"friendlyName": "Yell Norte Shopping",
-				"address": {
-					"addressType": "pickup",
-					"receiverName": null,
-					"addressId": "NorteShopping",
-					"isDisposable": false,
-					"postalCode": "20751-003",
-					"city": "Rio de Janeiro",
-					"state": "RJ",
-					"country": "BRA",
-					"street": "Avenida Dom Hélder Câmara",
-					"number": "5474",
-					"neighborhood": "Piedade",
-					"complement": "Lojas: 1º Piso e 2º Piso",
-					"reference": null,
-					"geoCoordinates": [
-						-43.2834982,
-						-22.8864368
-					]
-				},
-				"additionalInfo": "Retirar seu pedido na loja da Yell Mobile após o recebimento da confirmação do faturamento da Nota Fiscal.",
-				"id": "1_NorteShopping",
-				"businessHours": [
-					{
-						"DayOfWeek": 0,
-						"OpeningTime": "13:00:00",
-						"ClosingTime": "21:00:00"
-					},
-					{
-						"DayOfWeek": 1,
-						"OpeningTime": "10:00:00",
-						"ClosingTime": "22:00:00"
-					},
-					{
-						"DayOfWeek": 2,
-						"OpeningTime": "10:00:00",
-						"ClosingTime": "22:00:00"
-					},
-					{
-						"DayOfWeek": 3,
-						"OpeningTime": "10:00:00",
-						"ClosingTime": "22:00:00"
-					},
-					{
-						"DayOfWeek": 4,
-						"OpeningTime": "10:00:00",
-						"ClosingTime": "22:00:00"
-					},
-					{
-						"DayOfWeek": 5,
-						"OpeningTime": "10:00:00",
-						"ClosingTime": "22:00:00"
-					},
-					{
-						"DayOfWeek": 6,
-						"OpeningTime": "10:00:00",
-						"ClosingTime": "22:00:00"
-					}
-				]
-			},
-			{
-				"friendlyName": "Yell Caxias Shopping",
-				"address": {
-					"addressType": "pickup",
-					"receiverName": null,
-					"addressId": "Caxias",
-					"isDisposable": false,
-					"postalCode": "25085-008",
-					"city": "Duque de Caxias",
-					"state": "RJ",
-					"country": "BRA",
-					"street": "Rodovia Washington Luíz",
-					"number": "2895",
-					"neighborhood": "Vila São Luis",
-					"complement": "2° piso",
-					"reference": null,
-					"geoCoordinates": [
-						-43.286740300000019,
-						-22.7873054
-					]
-				},
-				"additionalInfo": "Retirar seu pedido na loja da Yell Mobile após o recebimento da confirmação do faturamento da Nota Fiscal.",
-				"id": "1_Caxias",
-				"businessHours": [
-					{
-						"DayOfWeek": 0,
-						"OpeningTime": "15:00:00",
-						"ClosingTime": "22:00:00"
-					},
-					{
-						"DayOfWeek": 1,
-						"OpeningTime": "10:00:00",
-						"ClosingTime": "22:00:00"
-					},
-					{
-						"DayOfWeek": 2,
-						"OpeningTime": "10:00:00",
-						"ClosingTime": "22:00:00"
-					},
-					{
-						"DayOfWeek": 3,
-						"OpeningTime": "10:00:00",
-						"ClosingTime": "22:00:00"
-					},
-					{
-						"DayOfWeek": 4,
-						"OpeningTime": "10:00:00",
-						"ClosingTime": "22:00:00"
-					},
-					{
-						"DayOfWeek": 5,
-						"OpeningTime": "10:00:00",
-						"ClosingTime": "22:00:00"
-					},
-					{
-						"DayOfWeek": 6,
-						"OpeningTime": "10:00:00",
-						"ClosingTime": "22:00:00"
-					}
-				]
-			},
-			{
-				"friendlyName": "Yell Madureira Shopping",
-				"address": {
-					"addressType": "pickup",
-					"receiverName": null,
-					"addressId": "Madureira",
-					"isDisposable": false,
-					"postalCode": "21351-060",
-					"city": "Rio de Janeiro",
-					"state": "RJ",
-					"country": "BRA",
-					"street": "Estrada do Portela",
-					"number": "222",
-					"neighborhood": "Madureira",
-					"complement": "Lojas 164 / 165",
-					"reference": null,
-					"geoCoordinates": [
-						-43.341083099999992,
-						-22.870455
-					]
-				},
-				"additionalInfo": "Retirar seu pedido na loja da Yell Mobile após o recebimento da confirmação do faturamento da Nota Fiscal.",
-				"id": "1_Madureira",
-				"businessHours": [
-					{
-						"DayOfWeek": 0,
-						"OpeningTime": "12:00:00",
-						"ClosingTime": "21:00:00"
-					},
-					{
-						"DayOfWeek": 1,
-						"OpeningTime": "10:00:00",
-						"ClosingTime": "22:00:00"
-					},
-					{
-						"DayOfWeek": 2,
-						"OpeningTime": "10:00:00",
-						"ClosingTime": "22:00:00"
-					},
-					{
-						"DayOfWeek": 3,
-						"OpeningTime": "10:00:00",
-						"ClosingTime": "22:00:00"
-					},
-					{
-						"DayOfWeek": 4,
-						"OpeningTime": "10:00:00",
-						"ClosingTime": "22:00:00"
-					},
-					{
-						"DayOfWeek": 5,
-						"OpeningTime": "10:00:00",
-						"ClosingTime": "22:00:00"
-					},
-					{
-						"DayOfWeek": 6,
-						"OpeningTime": "10:00:00",
-						"ClosingTime": "22:00:00"
-					}
-				]
-			}
-		]
+		"pickupPoints": []
 	},
 	"paymentData": {
 		"giftCards": [],
 		"transactions": [
 			{
 				"isActive": true,
-				"transactionId": "66BA3500394F4E3688A31087881877FB",
-				"merchantName": "YELLMOBILE",
+				"transactionId": "DF883E347A9A496DB2DEB4EA86E3B984",
+				"merchantName": "ADCOS",
 				"payments": [
 					{
-						"id": "451923C4FEBE432787C704865190F4A7",
-						"paymentSystem": "2",
-						"paymentSystemName": "Visa",
-						"value": 323808,
-						"installments": 10,
+						"id": "D194758CFBBB44B588258A4E6D931F17",
+						"paymentSystem": "6",
+						"paymentSystemName": "Boleto Bancário",
+						"value": 17302,
+						"installments": 1,
 						"connectorResponses": {
-							"Tid": "5033830222300421",
-							"ReturnCode": null,
-							"Message": "transaction approved",
-							"authId": "621999",
-							"nsu": "000234359922",
-							"acquirer": "GETNET"
+							"Tid": null,
+							"ReturnCode": "00",
+							"Message": null
 						},
-						"referenceValue": 323808,
+						"referenceValue": 17302,
 						"cardHolder": null,
 						"cardNumber": null,
-						"firstDigits": "406669",
-						"lastDigits": "0502",
+						"firstDigits": null,
+						"lastDigits": null,
 						"cvv2": null,
 						"expireMonth": null,
 						"expireYear": null,
-						"url": null,
+						"url": "https://shopline.itau.com.br/shopline/shopline.aspx?DC=G183U175U211U10U230U105U152U162U238U61U165U217U103U205U7U128U92U103U208U14U7U145U41U97U254U240U198U252U3U181U36U249U57U228U24U29U191U143U153U244U45U133U56U26U0U78U216U126U210U19U252U52U152U62U252U55U108U62U9U98U151U115U53U82U188U149U208U111U156U14U36U42U38U53U119U196U168U99U17U131U119U120U230U136U23U20U106U122U125U47U161U4U205U213U218U233U108U157U203U83U216U214U163U200U13U15U79U140U45U239U122U139U93U1U118U90U213U120U85U205U36U163U238U170U118U158U17U100U255U180U190U96U151U236U124U152U63U197U40U219U203U189U193U118U38U186U72U64U186U105U66U45U164U163U88U215U112U110U115U25U208U144U236U221U56U43U125U165U28U64U32U56U33U201U86U2U70U56U35U229U8U180U38U67U13U47U124U141U166U76U110U99U122U41U248U45U189U242U252U80U228U9U149U83U71U9U6U72U139U102U38U116U188U212U163U134U251U126U21U149U193U239U235U126U94U141U179U12U15U25U89U165U133U59U216U47U209U52U93U155U79U123U222U151U130U29U106U75U230U20U189U181U78U171U23U158U253U22U133U204U139U77U251U148U18U219U151U245U52U96U67U119U4U243U174U88U4U120U251U221U144U198U241U86U28U251U38U65U14U142U63U175U86U89U150U46U95U83U123U202U97U178U33U134U232U111U177U99U182U139U211U195U135U161U60U28U109U0U151U39U229U183U30U87U183U128U3U119U159U20U151U44U128U168U126U231U81U146U198U167U116U12U128U167U47U187U52U44U198U242U185U99U150U230U0U17U25U123U175U236U236U155U191U106U26U60U186U33U22U51U190U221U195U112U234U156U102U21U39U16U177U27U124U210U106U40U48U68U61U216U180U188U56U30U118U205U92U99U96U52U213U197U208U100U214U16U75U253U129U2U108U100U226U227U144U63U193U74U141U188U27U188U91U111U46U152U102U206U224U218U181U32U207U76U61U93U141U232U174U48U40U193U183U23U155U128U78U172U238U94U29U27U7U130U106U181U32U31U",
 						"koinUrl": null,
-						"tid": "5033830222300421",
+						"tid": null,
 						"redemptionCode": null,
 						"giftCardId": null,
 						"giftCardProvider": null,
 						"giftCardAsDiscount": null,
-						"group": "creditCard",
+						"group": "bankInvoice",
 						"dueDate": null,
-						"accountId": "B3790E6795DB479189938E1DCA0F763E",
+						"accountId": null,
 						"parentAccountId": null,
 						"bankIssuedInvoiceIdentificationNumber": null,
 						"bankIssuedInvoiceIdentificationNumberFormatted": null,
 						"bankIssuedInvoiceBarCodeNumber": null,
-						"bankIssuedInvoiceBarCodeType": null
+						"bankIssuedInvoiceBarCodeType": null,
+						"billingAddress": null
 					}
 				],
 				"sharedTransaction": false
@@ -1891,18 +582,21 @@
 	},
 	"clientPreferencesData": {
 		"locale": "pt-BR",
-		"optinNewsLetter": true
+		"optinNewsLetter": false
 	},
 	"commercialConditionData": null,
 	"marketingData": {
-		"utmSource": "Google",
+		"utmSource": null,
 		"utmMedium": null,
 		"utmCampaign": null,
-		"utmipage": "",
-		"utmiPart": "",
-		"utmiCampaign": "",
+		"utmipage": null,
+		"utmiPart": null,
+		"utmiCampaign": "283-Heloisa.Silva",
 		"coupon": null,
-		"marketingTags": []
+		"marketingTags": [
+			"vtexSocialSelling",
+			"loja.higienopolis"
+		]
 	},
 	"storePreferencesData": {
 		"countryCode": "BRA",
@@ -1928,11 +622,11 @@
 	"changeData": null,
 	"subscriptionData": null,
 	"salesChannel": "1",
-	"followUpEmail": "71cf834c46944b518908a78ffab9dd2f@ct.vtex.com.br",
-	"creationDate": "2020-02-12T02:22:10.1366655Z",
-	"lastChange": "2020-02-12T18:36:25.8391777Z",
-	"timeZoneCreationDate": "2020-02-11T23:22:10.1366655",
-	"timeZoneLastChange": "2020-02-12T15:36:25.8391777",
+	"followUpEmail": "2b212ab9303a440593cf0f1329075e8a@ct.vtex.com.br",
+	"creationDate": "2021-03-31T14:38:35.0707629Z",
+	"lastChange": "2021-04-01T06:39:05.0262848Z",
+	"timeZoneCreationDate": "2021-03-31T11:38:35.0707629",
+	"timeZoneLastChange": "2021-04-01T03:39:05.0262848",
 	"isCompleted": true,
 	"merchantName": null,
 	"userType": "",
@@ -1942,31 +636,27 @@
 	"isUserDataVisible": false,
 	"allowChangeSeller": false,
 	"_accountInfo": {
-		"HostName": "vtexgame1",
-		"MainAccountName": "vtexgame1",
-		"IsPersisted": true,
-		"IsRemoved": false,
-		"Id": "e39d05f9-0c54-4469-a626-8bb5cff169f8",
-		"Cnpj": "99999999999999",
-		"CompanyName": "VTEX GAME1",
-		"TradingName": "VTEX Developers",
-		"AccountName": "vtexgame1",
-		"DefaultUrl": null,
-		"Address": null,
-		"Number": null,
-		"Complement": null,
-		"District": null,
-		"City": null,
-		"State": null,
-		"PostalCode": null,
-		"Country": "Brasil",
-		"Telephone": null,
+		"MainAccountName": "adcos",
+		"AccountName": "adcos",
+		"Cnpj": "17104789000123",
+		"Id": "2dc2f396-93a7-4c1d-a474-d848b29544e0",
 		"IsActive": true,
-		"Sponsor": "eb436322-473b-4296-89a9-f129c479be4c",
-		"Logo": null,
-		"AppId": "fddf74e6-cc47-4a7d-8956-f0a6629cb23b",
-		"IsOperating": false,
-		"LV": "LV-1068069",
-		"Sigla": null
+		"IsOperating": true,
+		"CreationDate": "2012-12-23T00:00:00",
+		"OperationDate": "2013-01-01T00:00:00",
+		"CompanyName": "ADCOS - FULL COMMERCE INTEGRACAO COMERCIAL LTDA",
+		"TradingName": "Adcos",
+		"City": null,
+		"Complement": null,
+		"Country": null,
+		"State": null,
+		"Address": null,
+		"District": null,
+		"Number": null,
+		"PostalCode": null,
+		"Licences": null,
+		"ParentAccountName": null,
+		"InactivationDate": null,
+		"Platform": "vtex"
 	}
 }

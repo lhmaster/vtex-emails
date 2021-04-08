@@ -32,6 +32,20 @@
               </td>
             </tr>
 
+            <!-- Shipping Summary -->
+            <tr>
+              <td class="w-100 ph4-ns pv4 bt bb b--light-gray bw3">
+                <h3 class="mt0">((i18n.shipping.summaryTitle))</h3>
+                {{#richShippingData shippingData}}
+                  {{#group logisticsInfo by="addessId"}}
+                      {{#group items by="packageId"}}
+                          <!-- partial:partials/items.hbs --><!-- partial -->
+                      {{/group}}
+                  {{/group}}
+                {{/richShippingData}}
+              </td>
+            </tr>
+
             <!-- Payment -->
             <tr>
               <td class="w-100 ph4-ns pt3 pb4">
@@ -39,6 +53,26 @@
                 {{#each paymentData.transactions}}
                   <!-- partial:partials/payment.hbs --><!-- partial -->
                 {{/each}}
+
+                {{#richShippingData shippingData}}
+                  {{#group logisticsInfo by="addessId"}}
+                    <div class="cb fn pt3">
+
+                      <!-- Address info -->
+                      <!-- partial:partials/address-delivery-title.hbs --><!-- partial -->
+                      <!-- partial:partials/address-pickup-title.hbs --><!-- partial -->
+
+                      <!-- Packages -->
+
+                      {{!-- {{#group items by="packageId"}}
+                        {{#compare item.length '>' 1}}
+                          <h3 class="mb2">((i18n.package.title)) {{#math index '+' 1}}{{/math}}</h3>
+                        {{/compare}}
+                        <!-- partial:partials/package.hbs --><!-- partial -->
+                      {{/group}} --}}
+                    </div>
+                  {{/group}}
+                {{/richShippingData}}
               </td>
             </tr>
 

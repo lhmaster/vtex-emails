@@ -3,241 +3,486 @@
 		"items": [
 			{
 				"itemIndex": 0,
-				"quantity": 1,
-				"price": 28652,
-				"description": null
+				"quantity": 2,
+				"price": 17900,
+				"description": null,
+				"unitMultiplier": 0
 			},
 			{
 				"itemIndex": 1,
 				"quantity": 1,
-				"price": 47999,
-				"description": null
+				"price": 0,
+				"description": null,
+				"unitMultiplier": 0
+			},
+			{
+				"itemIndex": 2,
+				"quantity": 1,
+				"price": 0,
+				"description": null,
+				"unitMultiplier": 0
 			}
 		],
-		"courier": "PAC",
-		"invoiceNumber": "093092093",
-		"invoiceValue": 78105,
-		"invoiceUrl": null,
-		"issuanceDate": "2016-04-30T03:00:00Z",
-		"trackingNumber": "0329392",
-		"invoiceKey": null,
-		"trackingUrl": null,
-		"embeddedInvoice": null,
+		"courier": "",
+		"invoiceNumber": "000365093",
+		"invoiceValue": 43830,
+		"invoiceUrl": "http://nfe.adcos.com.br/2000/2007/NFe32210307850622000743550010003650931535073738.pdf",
+		"issuanceDate": "2021-03-09T00:00:00",
+		"trackingNumber": "ADC0081026598",
+		"invoiceKey": "32210307850622000743550010003650931535073738",
+		"trackingUrl": "http://tracking.totalexpress.com.br/poupup_track.php?reid=4896&pedido=ADC0081026598&nfiscal=365093",
+		"embeddedInvoice": "",
 		"type": "Output",
-		"courierStatus": null
+		"courierStatus": null,
+		"cfop": null,
+		"restitutions": {},
+		"volumes": null
 	},
 	"subjectItemAttachment": {
-		"item": "Cueca Lupo Sunga Mic...",
-		"totalItems": 2,
-		"extraItems": 1
+		"item": "Protetor Solar Tonal...",
+		"totalItems": 4,
+		"extraItems": 3
 	},
+	"cancellationReason": null,
 	"items": [
 		{
 			"additionalInfo": {
-				"dimension": {
-					"cubicweight": 2.21,
-					"height": 12,
-					"length": 34,
-					"weight": 1100,
-					"width": 26
-				},
-				"categoriesIds": "/8/12/",
-				"productClusterId": "135,136,137,139",
+				"categoriesIds": "/1000001/1000027/",
+				"productClusterId": "145,149,150,155,170,181,1197,1204,1205,1266,1268,1380,1400,1406,1412,1414,1458,1500,1509,1653,1667,1670,1672,1673,1681,1691,1692",
 				"commercialConditionId": "1",
-				"brandName": "Macboot",
-				"brandId": "2000003",
+				"dimension": {
+					"cubicweight": 1,
+					"height": 4,
+					"length": 4,
+					"weight": 90,
+					"width": 10
+				},
+				"brandName": "ADCOS",
+				"brandId": "1",
 				"offeringInfo": null,
 				"offeringType": null,
 				"offeringTypeId": null
 			},
-			"sellerSku": "26",
-			"priceValidUntil": null,
-			"ean": "380485665-9",
+			"sellerSku": "2000094",
+			"priceTable": null,
+			"priceValidUntil": "2021-04-01T03:00:00Z",
+			"callCenterOperator": null,
 			"commission": 0,
 			"freightCommission": 0,
-			"uniqueId": "A8BFB34E74F046539EDE22D94DC43F2C",
-			"id": "26",
-			"productId": "8",
-			"refId": "692187653-5",
-			"name": "Bota Feminina Macboot Killa Carajas Babaçu 35",
-			"skuName": "35",
+			"taxCode": "",
+			"catalogProvider": "vrn:vtex.catalog-api-proxy:-:adcos:master:/proxy/authenticated/catalog/pvt/sku/stockkeepingunitbyid/2000094",
+			"costPrice": null,
+			"uniqueId": "A789DC1A6CA24D988082EE1CA44B0575",
+			"id": "2000094",
+			"productId": "2000079",
+			"productRefId": "",
+			"refId": "9600",
+			"ean": "7897975696009",
+			"name": "Protetor Solar Tonalizante FPS 50 Pó Compacto com Ácido Hialurônico Nude - 11g",
+			"skuName": "Nude - 11g",
 			"modalType": null,
+			"parentItemIndex": null,
+			"parentAssemblyBinding": null,
+			"assemblies": [],
 			"tax": 0,
-			"price": 28652,
-			"listPrice": 43704,
+			"priceDefinitions": null,
+			"price": 17900,
+			"listPrice": 17900,
 			"manualPrice": null,
-			"sellingPrice": 28652,
+			"manualPriceAppliedBy": null,
+			"sellingPrice": 17900,
+			"skuSpecifications": null,
+			"orderRewardStatus": null,
 			"rewardValue": 0,
 			"isGift": false,
 			"preSaleDate": null,
-			"productCategoryIds": "/8/12/",
+			"productCategoryIds": "/1000001/1000027/",
 			"productCategories": {
-				"8": "Feminino",
-				"12": "Botas"
+				"1000001": "Tratamento Facial",
+				"1000027": "Fotoproteção Solar"
 			},
-			"defaultPicker": null,
-			"handlerSequence": 0,
-			"handling": false,
-			"quantity": 1,
+			"quantity": 2,
 			"seller": "1",
-			"imageUrl": "http://vtexgame1.vteximg.com.br/arquivos/ids/155400-55-55/calcados-online-macboot-killa-1.jpg",
-			"detailUrl": "/bota-feminina-macboot-killa-carajas-babacu401023009/p",
+			"sellerChain": [
+				"1"
+			],
+			"imageUrl": "http://lojaadcos.vteximg.com.br/arquivos/ids/161747-90-90/9599_Protetor-Solar-Po-Compacto-FPS-50-Tonalizante-Aberto.jpg?v=637396667692500000",
+			"detailUrl": "/protetor-solar-tonalizante-fps50-pocompacto-acido-hialuronico/p",
 			"components": [],
 			"bundleItems": [],
 			"attachments": [],
-			"itemAttachment": {
-				"name": null,
-				"content": {}
-			},
 			"attachmentOfferings": [],
 			"offerings": [],
-			"priceTags": [],
+			"priceTags": [
+				{
+					"name": "discount@shipping-c5c2c456-efa4-4435-9e17-6fe6fdb78808#0d50bafc-e771-49a7-8087-f460bc26c97f",
+					"value": -534,
+					"rawValue": -5.34,
+					"isPercentual": false,
+					"identifier": "c5c2c456-efa4-4435-9e17-6fe6fdb78808"
+				}
+			],
 			"availability": "available",
 			"measurementUnit": "un",
-			"unitMultiplier": 1
+			"unitMultiplier": 1,
+			"manufacturerCode": ""
 		},
 		{
 			"additionalInfo": {
-				"dimension": {
-					"cubicweight": 0.2083,
-					"height": 10,
-					"length": 10,
-					"weight": 200,
-					"width": 10
-				},
-				"categoriesIds": "/4/16/",
-				"productClusterId": "135,138,139",
+				"categoriesIds": "/1000016/1000073/",
+				"productClusterId": "145,155,1206,1207,1210,1252,1406,1412,1414,1458,1665,1692",
 				"commercialConditionId": "1",
-				"brandName": "Lupo",
-				"brandId": "2000011",
+				"dimension": {
+					"cubicweight": 1,
+					"height": 12,
+					"length": 5,
+					"weight": 150,
+					"width": 5
+				},
+				"brandName": "ADCOS",
+				"brandId": "1",
 				"offeringInfo": null,
 				"offeringType": null,
 				"offeringTypeId": null
 			},
-			"sellerSku": "365",
-			"priceValidUntil": null,
-			"ean": "973083591-8",
+			"sellerSku": "2000664",
+			"priceTable": null,
+			"priceValidUntil": "2022-03-07T23:47:24Z",
+			"callCenterOperator": null,
 			"commission": 0,
 			"freightCommission": 0,
-			"uniqueId": "89565C867F944BECBBA2BD38F9D7DFB1",
-			"id": "365",
-			"productId": "61",
-			"refId": "669665774-6",
-			"name": "Cueca Lupo Sunga Microfibra Azul P",
-			"skuName": "P",
+			"taxCode": "",
+			"catalogProvider": "vrn:vtex.catalog-api-proxy:-:adcos:master:/proxy/authenticated/catalog/pvt/sku/stockkeepingunitbyid/2000664",
+			"costPrice": null,
+			"uniqueId": "7BF9CB3C97F44089910ED9366475BDE3",
+			"id": "2000664",
+			"productId": "2000514",
+			"productRefId": "",
+			"refId": "9685",
+			"ean": "7897975696856",
+			"name": "Gel Higienizante Regenerador 100g",
+			"skuName": "100g",
 			"modalType": null,
+			"parentItemIndex": null,
+			"parentAssemblyBinding": null,
+			"assemblies": [],
 			"tax": 0,
-			"price": 47999,
-			"listPrice": 11961,
+			"priceDefinitions": null,
+			"price": 7900,
+			"listPrice": 7900,
 			"manualPrice": null,
-			"sellingPrice": 47999,
+			"manualPriceAppliedBy": null,
+			"sellingPrice": 0,
+			"skuSpecifications": null,
+			"orderRewardStatus": null,
 			"rewardValue": 0,
-			"isGift": false,
+			"isGift": true,
 			"preSaleDate": null,
-			"productCategoryIds": "/4/16/",
+			"productCategoryIds": "/1000016/1000073/",
 			"productCategories": {
-				"4": "Acessórios",
-				"16": "Cuecas"
+				"1000016": "Tratamento Corporal",
+				"1000073": "Higienização"
 			},
-			"defaultPicker": null,
-			"handlerSequence": 0,
-			"handling": false,
 			"quantity": 1,
 			"seller": "1",
-			"imageUrl": "http://vtexgame1.vteximg.com.br/arquivos/ids/155907-55-55/calcados-online-lupo-676-02-266-1.jpg",
-			"detailUrl": "/cueca-lupo-sunga-microfibra-azul-676-002-26601070510081/p",
+			"sellerChain": [
+				"1"
+			],
+			"imageUrl": "http://lojaadcos.vteximg.com.br/arquivos/ids/161313-90-90/Gel-Higienizante-Regenerador.jpg?v=637304379335600000",
+			"detailUrl": "/gel-higienizante-regenerador/p",
 			"components": [],
 			"bundleItems": [],
 			"attachments": [],
-			"itemAttachment": {
-				"name": null,
-				"content": {}
-			},
 			"attachmentOfferings": [],
 			"offerings": [],
-			"priceTags": [],
+			"priceTags": [
+				{
+					"name": "DISCOUNT@GIFT",
+					"value": 100,
+					"rawValue": 1,
+					"isPercentual": true,
+					"identifier": "b1e3ba4d-a3b1-4d64-88d7-17c05817e4fe"
+				},
+				{
+					"name": "discount@shipping-c5c2c456-efa4-4435-9e17-6fe6fdb78808#0d50bafc-e771-49a7-8087-f460bc26c97f",
+					"value": -445,
+					"rawValue": -4.45,
+					"isPercentual": false,
+					"identifier": "c5c2c456-efa4-4435-9e17-6fe6fdb78808"
+				}
+			],
 			"availability": "available",
 			"measurementUnit": "un",
-			"unitMultiplier": 1
+			"unitMultiplier": 1,
+			"manufacturerCode": ""
+		},
+		{
+			"additionalInfo": {
+				"categoriesIds": "/1000001/1000047/",
+				"productClusterId": "145,155,1182,1204,1205,1400,1401,1406,1412,1414,1458,1672,1692",
+				"commercialConditionId": "1",
+				"dimension": {
+					"cubicweight": 1,
+					"height": 4,
+					"length": 1,
+					"weight": 2.02,
+					"width": 4
+				},
+				"brandName": "ADCOS",
+				"brandId": "1",
+				"offeringInfo": null,
+				"offeringType": null,
+				"offeringTypeId": null
+			},
+			"sellerSku": "2000339",
+			"priceTable": null,
+			"priceValidUntil": "4000-01-01T03:00:00Z",
+			"callCenterOperator": null,
+			"commission": 0,
+			"freightCommission": 0,
+			"taxCode": "",
+			"catalogProvider": "vrn:vtex.catalog-api-proxy:-:adcos:master:/proxy/authenticated/catalog/pvt/sku/stockkeepingunitbyid/2000339",
+			"costPrice": null,
+			"uniqueId": "9C80834F233B49E7900F17FE23382D98",
+			"id": "2000339",
+			"productId": "2000296",
+			"productRefId": "",
+			"refId": "9517+9560",
+			"ean": null,
+			"name": "2 amostras",
+			"skuName": "2 amostras",
+			"modalType": null,
+			"parentItemIndex": null,
+			"parentAssemblyBinding": null,
+			"assemblies": [],
+			"tax": 0,
+			"priceDefinitions": null,
+			"price": 130,
+			"listPrice": 130,
+			"manualPrice": null,
+			"manualPriceAppliedBy": null,
+			"sellingPrice": 0,
+			"skuSpecifications": null,
+			"orderRewardStatus": null,
+			"rewardValue": 0,
+			"isGift": true,
+			"preSaleDate": null,
+			"productCategoryIds": "/1000001/1000047/",
+			"productCategories": {
+				"1000001": "Tratamento Facial",
+				"1000047": "Adcos"
+			},
+			"quantity": 1,
+			"seller": "1",
+			"sellerChain": [
+				"1"
+			],
+			"imageUrl": "http://lojaadcos.vteximg.com.br/arquivos/ids/156961-90-90/amostras.png?v=636123017328170000",
+			"detailUrl": "/amostras-pedido/p",
+			"components": [
+				{
+					"uniqueId": "EF3575E63567429FBFF95FC1239BCD5A",
+					"id": "2000036",
+					"productId": null,
+					"productRefId": null,
+					"refId": "9517",
+					"ean": "",
+					"name": "Amostra Protetor Solar Fluid FPS 99 Tonalizante 1ml",
+					"skuName": null,
+					"modalType": null,
+					"parentItemIndex": null,
+					"parentAssemblyBinding": null,
+					"assemblies": [],
+					"priceValidUntil": null,
+					"tax": 0,
+					"priceDefinitions": null,
+					"price": 65,
+					"listPrice": null,
+					"manualPrice": null,
+					"manualPriceAppliedBy": null,
+					"sellingPrice": 0,
+					"skuSpecifications": null,
+					"orderRewardStatus": null,
+					"rewardValue": 0,
+					"isGift": false,
+					"additionalInfo": {
+						"dimension": {
+							"cubicweight": 1,
+							"height": 1,
+							"length": 2,
+							"weight": 2,
+							"width": 2
+						},
+						"brandName": null,
+						"brandId": null,
+						"offeringInfo": null,
+						"offeringType": null,
+						"offeringTypeId": null
+					},
+					"preSaleDate": null,
+					"productCategoryIds": null,
+					"productCategories": {},
+					"quantity": 1,
+					"seller": null,
+					"sellerChain": [
+						null
+					],
+					"imageUrl": null,
+					"detailUrl": null,
+					"components": [],
+					"bundleItems": [],
+					"attachments": [],
+					"attachmentOfferings": [],
+					"offerings": [],
+					"priceTags": [
+						{
+							"name": "DISCOUNT@GIFT",
+							"value": 100,
+							"rawValue": 1,
+							"isPercentual": true,
+							"identifier": "fdc208f5-8df9-4eb6-bbf9-2c8002df8262"
+						}
+					],
+					"availability": null,
+					"measurementUnit": "un",
+					"unitMultiplier": 1,
+					"manufacturerCode": null
+				},
+				{
+					"uniqueId": "1AC1970684034E59AC7F8E3BEE5A6FFC",
+					"id": "2000020",
+					"productId": null,
+					"productRefId": null,
+					"refId": "9560",
+					"ean": "",
+					"name": "Amostra Derma Complex Retinol Área Olhos 1g",
+					"skuName": null,
+					"modalType": null,
+					"parentItemIndex": null,
+					"parentAssemblyBinding": null,
+					"assemblies": [],
+					"priceValidUntil": null,
+					"tax": 0,
+					"priceDefinitions": null,
+					"price": 65,
+					"listPrice": null,
+					"manualPrice": null,
+					"manualPriceAppliedBy": null,
+					"sellingPrice": 0,
+					"skuSpecifications": null,
+					"orderRewardStatus": null,
+					"rewardValue": 0,
+					"isGift": false,
+					"additionalInfo": {
+						"dimension": {
+							"cubicweight": 1,
+							"height": 1,
+							"length": 4,
+							"weight": 2,
+							"width": 2
+						},
+						"brandName": null,
+						"brandId": null,
+						"offeringInfo": null,
+						"offeringType": null,
+						"offeringTypeId": null
+					},
+					"preSaleDate": null,
+					"productCategoryIds": null,
+					"productCategories": {},
+					"quantity": 1,
+					"seller": null,
+					"sellerChain": [
+						null
+					],
+					"imageUrl": null,
+					"detailUrl": null,
+					"components": [],
+					"bundleItems": [],
+					"attachments": [],
+					"attachmentOfferings": [],
+					"offerings": [],
+					"priceTags": [
+						{
+							"name": "DISCOUNT@GIFT",
+							"value": 100,
+							"rawValue": 1,
+							"isPercentual": true,
+							"identifier": "fdc208f5-8df9-4eb6-bbf9-2c8002df8262"
+						}
+					],
+					"availability": null,
+					"measurementUnit": "un",
+					"unitMultiplier": 1,
+					"manufacturerCode": null
+				}
+			],
+			"bundleItems": [],
+			"attachments": [],
+			"attachmentOfferings": [],
+			"offerings": [],
+			"priceTags": [
+				{
+					"name": "DISCOUNT@GIFT",
+					"value": 100,
+					"rawValue": 1,
+					"isPercentual": true,
+					"identifier": "fdc208f5-8df9-4eb6-bbf9-2c8002df8262"
+				},
+				{
+					"name": "discount@shipping-c5c2c456-efa4-4435-9e17-6fe6fdb78808#0d50bafc-e771-49a7-8087-f460bc26c97f",
+					"value": -6,
+					"rawValue": -0.06,
+					"isPercentual": false,
+					"identifier": "c5c2c456-efa4-4435-9e17-6fe6fdb78808"
+				}
+			],
+			"availability": "available",
+			"measurementUnit": "un",
+			"unitMultiplier": 1,
+			"manufacturerCode": ""
 		}
 	],
-	"paymentData": {
-		"giftCards": [],
-		"transactions": [
-			{
-				"isActive": true,
-				"transactionId": "8243E1FE14264EA9B74FA6A59691AB9E",
-				"merchantName": "VTEXGAME1",
-				"payments": [
-					{
-						"id": "114DA50CF46C4A6DA3B2133A9630C066",
-						"paymentSystem": "2",
-						"paymentSystemName": "Visa",
-						"value": 78105,
-						"installments": 1,
-						"connectorResponses": {
-							"Tid": "98170969",
-							"ReturnCode": null,
-							"Message": null,
-							"authId": "170969"
-						},
-						"referenceValue": 78105,
-						"cardHolder": null,
-						"cardNumber": null,
-						"firstDigits": "453224",
-						"lastDigits": "0879",
-						"cvv2": null,
-						"expireMonth": null,
-						"expireYear": null,
-						"url": null,
-						"koinUrl": null,
-						"tid": "98170969",
-						"redemptionCode": null,
-						"giftCardId": null,
-						"giftCardProvider": null,
-						"giftCardAsDiscount": null,
-						"group": "creditCard",
-						"dueDate": null,
-						"accountId": "16685C88C6D146D4812C7FB9F95C27E2",
-						"parentAccountId": null
-					}
-				]
-			}
-		]
-	},
+	"sellers": [
+		{
+			"subSellerId": "1",
+			"fulfillmentEndpoint": "http://fulfillment.vtexcommerce.com.br/api/fulfillment?sc=1&an=adcos",
+			"id": "1",
+			"name": "Adcos",
+			"logo": ""
+		}
+	],
 	"giftRegistryData": null,
 	"receiptData": null,
+	"contextData": null,
 	"marketPlaceOrderId": "",
-	"sellerOrderId": "00-628951651545-01",
-	"orderFormId": "60743f80a0a6438db1be4cf024212943",
-	"sequence": "500043",
+	"marketPlaceOrderGroup": null,
+	"marketplaceServicesEndpoint": null,
+	"orderFormId": "cd931f2b2c7a49f092d6107c99f21178",
+	"sequence": "2617439",
 	"affiliateId": "",
 	"status": "",
 	"callCenterOperator": "",
-	"userProfileId": "77ddd0f6-b958-4db3-85db-fb1306c13b5f",
-	"hostName": "vtexgame1",
+	"userProfileId": "a976174b-4540-44d7-8d16-8e6fd67c3d51",
+	"hostName": "adcos",
 	"creationVersion": null,
 	"creationEnvironment": null,
 	"lastChangeVersion": null,
 	"workflowInstanceId": null,
-	"orderId": "628951651545-01",
-	"orderGroup": "628951651545",
-	"state": "payment-approved",
+	"marketplacePaymentValue": null,
+	"orderId": "v2617439adcs-01",
+	"orderGroup": "v2617439adcs",
+	"state": "waiting-for-seller-decision",
 	"isCheckedIn": false,
+	"sellerOrderId": "00-v2617439adcs-01",
 	"storeId": null,
-	"value": 78105,
-	"sellers": [
-		{
-			"id": "1",
-			"name": "VTEX GAME1",
-			"logo": ""
-		}
-	],
+	"checkedInPickupPointId": null,
+	"value": 35800,
 	"totals": [
 		{
 			"id": "Items",
 			"name": "Total dos Itens",
-			"value": 76651
+			"value": 35800
 		},
 		{
 			"id": "Discounts",
@@ -247,7 +492,19 @@
 		{
 			"id": "Shipping",
 			"name": "Total do Frete",
-			"value": 1454
+			"value": 0,
+			"alternativeTotals": [
+				{
+					"id": "AlternativeShippingTotal",
+					"name": "Alternative Shipping Total",
+					"value": 985
+				},
+				{
+					"id": "AlternativeShippingDiscount",
+					"name": "Alternative Shipping Discount",
+					"value": -985
+				}
+			]
 		},
 		{
 			"id": "Tax",
@@ -256,178 +513,370 @@
 		}
 	],
 	"clientProfileData": {
-		"attachmentId": "clientProfileData",
-		"email": "bnf_info@yahoo.com.br-51b.ct.vtex.com.br",
-		"firstName": "Breno",
-		"lastName": "Nunes",
-		"document": "10287534707",
+		"email": "1e9d3fedf70b43808c3db5a64007e8bc@ct.vtex.com.br",
+		"firstName": "Priscila",
+		"lastName": "Tsumura",
+		"document": "31466829826",
 		"documentType": "cpf",
-		"phone": "+552143535433",
+		"phone": "+5511964731003",
 		"corporateName": null,
 		"tradeName": null,
 		"corporateDocument": null,
-		"stateInscription": null,
+		"stateInscription": "",
 		"corporatePhone": null,
-		"isCorporate": false
+		"isCorporate": false,
+		"profileCompleteOnLoading": false,
+		"profileErrorOnLoading": false,
+		"customerClass": null
 	},
 	"ratesAndBenefitsData": {
-		"attachmentId": "ratesAndBenefitsData",
-		"rateAndBenefitsIdentifiers": [],
+		"rateAndBenefitsIdentifiers": [
+			{
+				"id": "b1e3ba4d-a3b1-4d64-88d7-17c05817e4fe",
+				"name": "[MARÇO] Ganhe um Gel Higienizante nas compras de R$350",
+				"featured": false,
+				"description": null,
+				"matchedParameters": {
+					"product@CatalogSystem": "2000440,2000381,2000254,2000485|exclusive"
+				},
+				"additionalInfo": null
+			},
+			{
+				"id": "fdc208f5-8df9-4eb6-bbf9-2c8002df8262",
+				"name": "Ganhe 2 Amostras",
+				"featured": false,
+				"description": null,
+				"matchedParameters": {},
+				"additionalInfo": null
+			},
+			{
+				"id": "c5c2c456-efa4-4435-9e17-6fe6fdb78808",
+				"name": "Frete Grátis nas compras acima de R$199",
+				"featured": false,
+				"description": null,
+				"matchedParameters": {
+					"slaIds": "transportadora"
+				},
+				"additionalInfo": null
+			}
+		],
 		"teaser": []
 	},
 	"shippingData": {
-		"attachmentId": "shippingData",
 		"address": {
 			"addressType": "residential",
-			"receiverName": "b n",
-			"addressId": "-1462026434628",
-			"postalCode": "22081-041",
-			"city": "Rio de Janeiro",
-			"state": "RJ",
+			"receiverName": "Priscila Tsumura",
+			"addressId": "15044902f74a4d8785fcaeb6fdf81cb6",
+			"isDisposable": true,
+			"postalCode": "13256-580",
+			"city": "Itatiba",
+			"state": "SP",
 			"country": "BRA",
-			"street": "Avenida Rainha Elizabeth da Bélgica",
-			"number": "43",
-			"neighborhood": "Ipanema",
-			"complement": "543",
+			"street": "Avenida Benedito Alves Barbosa Sobrinho",
+			"number": "872",
+			"neighborhood": "Jardim Santa Filomena",
+			"complement": "FábioMabro",
 			"reference": null,
-			"geoCoordinates": []
+			"geoCoordinates": [
+				-46.856773376464844,
+				-23.008813858032227
+			]
 		},
 		"logisticsInfo": [
 			{
 				"itemIndex": 0,
-				"selectedSla": "Normal",
+				"selectedSla": "Transportadora",
+				"selectedDeliveryChannel": "delivery",
+				"addressId": "15044902f74a4d8785fcaeb6fdf81cb6",
 				"slas": [
 					{
-						"id": "Normal",
-						"name": "Normal",
+						"id": "Transportadora",
+						"deliveryChannel": "delivery",
+						"name": "Transportadora",
 						"deliveryIds": [
 							{
-								"courierId": "1",
+								"courierId": "14fc68d",
 								"warehouseId": "1_1",
-								"dockId": "1",
-								"courierName": "PAC",
-								"quantity": 1
+								"dockId": "1_1_1",
+								"courierName": "TotalExpress02",
+								"quantity": 2,
+								"kitItemDetails": [],
+								"totalListPrice": 0
 							}
 						],
-						"shippingEstimate": "8bd",
-						"shippingEstimateDate": "2016-05-11T15:28:04.6882291Z",
-						"lockTTL": "6d",
+						"shippingEstimate": "13bd",
+						"shippingEstimateDate": "2021-03-24T23:51:42.430246Z",
+						"lockTTL": "10d",
 						"availableDeliveryWindows": [],
 						"deliveryWindow": null,
-						"price": 1230,
-						"listPrice": 1230,
-						"tax": 0
-					},
-					{
-						"id": "Expressa",
-						"name": "Expressa",
-						"deliveryIds": [
-							{
-								"courierId": "2",
-								"warehouseId": "1_1",
-								"dockId": "1",
-								"courierName": "SEDEX",
-								"quantity": 1
-							}
-						],
-						"shippingEstimate": "5bd",
-						"shippingEstimateDate": null,
-						"lockTTL": "6d",
-						"availableDeliveryWindows": [],
-						"deliveryWindow": null,
-						"price": 3327,
-						"listPrice": 3327,
-						"tax": 0
+						"price": 0,
+						"listPrice": 534,
+						"tax": 0,
+						"pickupStoreInfo": {
+							"isPickupStore": false,
+							"friendlyName": null,
+							"address": null,
+							"additionalInfo": null,
+							"dockId": null
+						},
+						"pickupPointId": null,
+						"pickupDistance": 0,
+						"polygonName": null,
+						"transitTime": "6bd"
 					}
 				],
 				"shipsTo": [
 					"BRA"
 				],
-				"itemId": "26"
+				"itemId": "2000094",
+				"deliveryChannels": [
+					{
+						"id": "delivery",
+						"stockBalance": 0
+					}
+				]
 			},
 			{
 				"itemIndex": 1,
-				"selectedSla": "Normal",
+				"selectedSla": "Transportadora",
+				"selectedDeliveryChannel": "delivery",
+				"addressId": "15044902f74a4d8785fcaeb6fdf81cb6",
 				"slas": [
 					{
-						"id": "Normal",
-						"name": "Normal",
+						"id": "Transportadora",
+						"deliveryChannel": "delivery",
+						"name": "Transportadora",
 						"deliveryIds": [
 							{
-								"courierId": "1",
+								"courierId": "14fc68d",
 								"warehouseId": "1_1",
-								"dockId": "1",
-								"courierName": "PAC",
-								"quantity": 1
+								"dockId": "1_1_1",
+								"courierName": "TotalExpress02",
+								"quantity": 1,
+								"kitItemDetails": [],
+								"totalListPrice": 0
 							}
 						],
-						"shippingEstimate": "8bd",
-						"shippingEstimateDate": "2016-05-11T15:28:04.6882291Z",
-						"lockTTL": "6d",
+						"shippingEstimate": "13bd",
+						"shippingEstimateDate": "2021-03-24T23:51:42.430246Z",
+						"lockTTL": "10d",
 						"availableDeliveryWindows": [],
 						"deliveryWindow": null,
-						"price": 224,
-						"listPrice": 224,
-						"tax": 0
-					},
-					{
-						"id": "Expressa",
-						"name": "Expressa",
-						"deliveryIds": [
-							{
-								"courierId": "2",
-								"warehouseId": "1_1",
-								"dockId": "1",
-								"courierName": "SEDEX",
-								"quantity": 1
-							}
-						],
-						"shippingEstimate": "5bd",
-						"shippingEstimateDate": null,
-						"lockTTL": "6d",
-						"availableDeliveryWindows": [],
-						"deliveryWindow": null,
-						"price": 605,
-						"listPrice": 605,
-						"tax": 0
+						"price": 0,
+						"listPrice": 445,
+						"tax": 0,
+						"pickupStoreInfo": {
+							"isPickupStore": false,
+							"friendlyName": null,
+							"address": null,
+							"additionalInfo": null,
+							"dockId": null
+						},
+						"pickupPointId": null,
+						"pickupDistance": 0,
+						"polygonName": null,
+						"transitTime": "6bd"
 					}
 				],
 				"shipsTo": [
 					"BRA"
 				],
-				"itemId": "365"
+				"itemId": "2000664",
+				"deliveryChannels": [
+					{
+						"id": "delivery",
+						"stockBalance": 0
+					}
+				]
+			},
+			{
+				"itemIndex": 2,
+				"selectedSla": "Transportadora",
+				"selectedDeliveryChannel": "delivery",
+				"addressId": "15044902f74a4d8785fcaeb6fdf81cb6",
+				"slas": [
+					{
+						"id": "Transportadora",
+						"deliveryChannel": "delivery",
+						"name": "Transportadora",
+						"deliveryIds": [
+							{
+								"courierId": "14fc68d",
+								"warehouseId": "1_1",
+								"dockId": "1_1_1",
+								"courierName": "TotalExpress02",
+								"quantity": 1,
+								"kitItemDetails": [
+									{
+										"itemId": "2000020",
+										"warehouseId": "1_1"
+									},
+									{
+										"itemId": "2000036",
+										"warehouseId": "1_1"
+									}
+								],
+								"totalListPrice": 0
+							}
+						],
+						"shippingEstimate": "13bd",
+						"shippingEstimateDate": "2021-03-24T23:51:42.430246Z",
+						"lockTTL": "10d",
+						"availableDeliveryWindows": [],
+						"deliveryWindow": null,
+						"price": 0,
+						"listPrice": 6,
+						"tax": 0,
+						"pickupStoreInfo": {
+							"isPickupStore": false,
+							"friendlyName": null,
+							"address": null,
+							"additionalInfo": null,
+							"dockId": null
+						},
+						"pickupPointId": null,
+						"pickupDistance": 0,
+						"polygonName": null,
+						"transitTime": "6bd"
+					}
+				],
+				"shipsTo": [
+					"BRA"
+				],
+				"itemId": "2000339",
+				"deliveryChannels": [
+					{
+						"id": "delivery",
+						"stockBalance": 0
+					}
+				]
+			}
+		],
+		"selectedAddresses": [
+			{
+				"addressType": "residential",
+				"receiverName": "Priscila Tsumura",
+				"addressId": "15044902f74a4d8785fcaeb6fdf81cb6",
+				"isDisposable": true,
+				"postalCode": "13256-580",
+				"city": "Itatiba",
+				"state": "SP",
+				"country": "BRA",
+				"street": "Avenida Benedito Alves Barbosa Sobrinho",
+				"number": "872",
+				"neighborhood": "Jardim Santa Filomena",
+				"complement": "FábioMabro",
+				"reference": null,
+				"geoCoordinates": [
+					-46.856773376464844,
+					-23.008813858032227
+				]
 			}
 		],
 		"availableAddresses": [
 			{
 				"addressType": "residential",
-				"receiverName": "b n",
-				"addressId": "-1462026434628",
-				"postalCode": "22081-041",
-				"city": "Rio de Janeiro",
-				"state": "RJ",
+				"receiverName": "Priscila Tsumura",
+				"addressId": "15044902f74a4d8785fcaeb6fdf81cb6",
+				"isDisposable": true,
+				"postalCode": "13256-580",
+				"city": "Itatiba",
+				"state": "SP",
 				"country": "BRA",
-				"street": "Avenida Rainha Elizabeth da Bélgica",
-				"number": "43",
-				"neighborhood": "Ipanema",
-				"complement": "543",
+				"street": "Avenida Benedito Alves Barbosa Sobrinho",
+				"number": "872",
+				"neighborhood": "Jardim Santa Filomena",
+				"complement": "FábioMabro",
 				"reference": null,
-				"geoCoordinates": []
+				"geoCoordinates": [
+					-46.856773376464844,
+					-23.008813858032227
+				]
+			}
+		],
+		"pickupPoints": []
+	},
+	"paymentData": {
+		"giftCards": [],
+		"transactions": [
+			{
+				"isActive": true,
+				"transactionId": "C231E45B5891484EB9194106EA9B2176",
+				"merchantName": "ADCOS",
+				"payments": [
+					{
+						"id": "8DB186536F88410490AF81173933D7CA",
+						"paymentSystem": "4",
+						"paymentSystemName": "Mastercard",
+						"value": 35800,
+						"installments": 1,
+						"connectorResponses": {
+							"Tid": "10605430170V11ORRUGE",
+							"ReturnCode": "0",
+							"Message": "Sucesso",
+							"authId": "021609",
+							"Nsu": "000104",
+							"Arp": "021609",
+							"eci": "0",
+							"lr": "00"
+						},
+						"referenceValue": 35800,
+						"cardHolder": null,
+						"cardNumber": null,
+						"firstDigits": "543882",
+						"lastDigits": "5588",
+						"cvv2": null,
+						"expireMonth": null,
+						"expireYear": null,
+						"url": null,
+						"koinUrl": null,
+						"tid": "10605430170V11ORRUGE",
+						"redemptionCode": null,
+						"giftCardId": null,
+						"giftCardProvider": null,
+						"giftCardAsDiscount": null,
+						"group": "creditCard",
+						"dueDate": null,
+						"accountId": "9D4945D0F64B4C5DAC32C04B35013960",
+						"parentAccountId": null,
+						"bankIssuedInvoiceIdentificationNumber": null,
+						"bankIssuedInvoiceIdentificationNumberFormatted": null,
+						"bankIssuedInvoiceBarCodeNumber": null,
+						"bankIssuedInvoiceBarCodeType": null,
+						"billingAddress": {
+							"addressType": "residential",
+							"receiverName": "Priscila Tsumura",
+							"addressId": "15044902f74a4d8785fcaeb6fdf81cb6",
+							"isDisposable": true,
+							"postalCode": "13256-580",
+							"city": "Itatiba",
+							"state": "SP",
+							"country": "BRA",
+							"street": "Avenida Benedito Alves Barbosa Sobrinho",
+							"number": "872",
+							"neighborhood": "Jardim Santa Filomena",
+							"complement": "FábioMabro",
+							"reference": null,
+							"geoCoordinates": [
+								-46.856773376464844,
+								-23.008813858032227
+							]
+						}
+					}
+				],
+				"sharedTransaction": false
 			}
 		]
 	},
 	"clientPreferencesData": {
-		"attachmentId": "clientPreferencesData",
 		"locale": "pt-BR",
-		"optinNewsLetter": true
+		"optinNewsLetter": false
 	},
+	"commercialConditionData": null,
 	"marketingData": null,
 	"storePreferencesData": {
 		"countryCode": "BRA",
-		"checkToSavePersonDataByDefault": false,
-		"templateOptions": {
-			"toggleCorporate": false
-		},
+		"saveUserData": false,
 		"timeZone": "E. South America Standard Time",
 		"currencyCode": "BRL",
 		"currencyLocale": 1046,
@@ -441,43 +890,54 @@
 		}
 	},
 	"openTextField": null,
+	"invoiceData": null,
+	"itemMetadata": null,
+	"taxData": null,
+	"customData": null,
+	"hooksData": null,
 	"changeData": null,
+	"subscriptionData": null,
 	"salesChannel": "1",
-	"followUpEmail": "fcaabb89e7484d4688801ac4748f00aa@ct.vtex.com.br",
-	"creationDate": "2016-04-30T15:27:50.5371438Z",
-	"lastChange": "2016-04-30T15:28:08.4338993Z",
-	"timeZoneCreationDate": "2016-04-30T12:27:50.5371438",
-	"timeZoneLastChange": "2016-04-30T12:28:08.4338993",
+	"followUpEmail": "4ceef0023a1341a8ab1cef6a307672ed@ct.vtex.com.br",
+	"creationDate": "2021-03-07T23:51:21.0330135Z",
+	"lastChange": "2021-03-09T16:04:23.8655514Z",
+	"timeZoneCreationDate": "2021-03-07T20:51:21.0330135",
+	"timeZoneLastChange": "2021-03-09T13:04:23.8655514",
 	"isCompleted": true,
 	"merchantName": null,
 	"userType": "",
 	"roundingError": 0,
+	"allowEdition": false,
+	"allowCancellation": false,
+	"isUserDataVisible": false,
+	"allowChangeSeller": false,
+	"cancellationData": {
+		"requestedByUser": true,
+		"reason": "Não quero mais este produto.",
+		"cancellationDate": "2021-03-09T16:04:23.8655514Z"
+	},
 	"_accountInfo": {
-		"HostName": "vtexgame1",
-		"MainAccountName": "vtexgame1",
-		"IsPersisted": true,
-		"IsRemoved": false,
-    "Id": "e39d05f9-0c54-4469-a626-8bb5cff169f8",
-		"Cnpj": "99999999999999",
-		"CompanyName": "VTEX GAME1",
-    "TradingName": "VTEX Developers",
-		"AccountName": "vtexgame1",
-		"DefaultUrl": null,
-		"Address": null,
-		"Number": null,
-		"Complement": null,
-		"District": null,
-		"City": null,
-		"State": null,
-		"PostalCode": null,
-		"Country": "Brasil",
-		"Telephone": null,
+		"MainAccountName": "adcos",
+		"AccountName": "adcos",
+		"Cnpj": "17104789000123",
+		"Id": "2dc2f396-93a7-4c1d-a474-d848b29544e0",
 		"IsActive": true,
-		"Sponsor": "eb436322-473b-4296-89a9-f129c479be4c",
-		"Logo": null,
-		"AppId": "fddf74e6-cc47-4a7d-8956-f0a6629cb23b",
-		"IsOperating": false,
-		"LV": "LV-1068069",
-		"Sigla": null
+		"IsOperating": true,
+		"CreationDate": "2012-12-23T00:00:00",
+		"OperationDate": "2013-01-01T00:00:00",
+		"CompanyName": "ADCOS - FULL COMMERCE INTEGRACAO COMERCIAL LTDA",
+		"TradingName": "Adcos",
+		"City": null,
+		"Complement": null,
+		"Country": null,
+		"State": null,
+		"Address": null,
+		"District": null,
+		"Number": null,
+		"PostalCode": null,
+		"Licences": null,
+		"ParentAccountName": null,
+		"InactivationDate": null,
+		"Platform": "vtex"
 	}
 }

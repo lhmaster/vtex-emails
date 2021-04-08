@@ -20,8 +20,8 @@ body {
 	-webkit-text-size-adjust: 100%; /* 1 */
 	-ms-text-size-adjust: 100%; /* 1 */
 	margin: 0 !important; /* 2 */
-	padding: 0 !important; /* 2 */
-	background: $email-bg-color !important; /* 3 */
+	padding: 0; /* 2 */
+	//background: $email-bg-color !important; /* 3 */
 	-webkit-font-smoothing: antialiased; /* 4 */
 	-moz-osx-font-smoothing: grayscale; /* 4 */
 }

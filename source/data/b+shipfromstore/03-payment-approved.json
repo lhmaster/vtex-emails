@@ -1,74 +1,74 @@
 {
 	"package": null,
 	"subjectItemAttachment": {
-		"item": "Derma Complex Concen...",
+		"item": "Produto Teste C1",
 		"totalItems": 1
 	},
 	"cancellationReason": null,
 	"items": [
 		{
 			"additionalInfo": {
-				"categoriesIds": "/1000001/1000028/",
-				"productClusterId": "145,149,155,166,171,1196,1198,1204,1205,1220,1223,1224,1225,1228,1270,1271,1272,1275,1276,1278,1279,1280,1283,1288,1306,1308,1310,1311,1312,1317,1319,1321,1325,1330,1335,1336,1337,1339,1340,1345,1347,1350,1354,1358,1359,1360,1366,1370,1371,1373,1379,1380,1385,1390,1392,1394,1395,1396,1400,1401,1406,1407,1426,1428,1432,1450,1451,1455,1458,1492,1496,1511,1512,1519,1522,1534,1538,1544,1556,1561,1567,1571,1574,1576,1580,1584,1588,1591,1598,1604,1605,1620,1623,1624,1636,1637,1639,1640,1654,1656,1660,1661,1672,1675,1678,1692,1698",
+				"categoriesIds": "/1000024/1000042/",
+				"productClusterId": "145,155,1255,1406,1412,1414,1458,1672,1692",
 				"commercialConditionId": "1",
 				"dimension": {
 					"cubicweight": 1,
-					"height": 11.7,
-					"length": 4.7,
-					"weight": 100,
-					"width": 4.7
+					"height": 15.9,
+					"length": 6.2,
+					"weight": 30,
+					"width": 4
 				},
 				"brandName": "ADCOS",
-				"brandId": "1",
+				"brandId": "101",
 				"offeringInfo": null,
 				"offeringType": null,
 				"offeringTypeId": null
 			},
-			"sellerSku": "2000466",
+			"sellerSku": "2000464",
 			"priceTable": null,
-			"priceValidUntil": "2022-03-30T05:04:49Z",
+			"priceValidUntil": "2022-04-07T04:29:02Z",
 			"callCenterOperator": null,
 			"commission": 0,
 			"freightCommission": 0,
 			"taxCode": "",
-			"catalogProvider": "vrn:vtex.catalog-api-proxy:-:adcos:master:/proxy/authenticated/catalog/pvt/sku/stockkeepingunitbyid/2000466",
+			"catalogProvider": "vrn:vtex.catalog-api-proxy:-:adcos:master:/proxy/authenticated/catalog/pvt/sku/stockkeepingunitbyid/2000464",
 			"costPrice": null,
-			"uniqueId": "C3D98D8EFB5A401D8270767BF99427BA",
-			"id": "2000466",
-			"productId": "2000331",
-			"productRefId": "9453",
-			"refId": "9513",
-			"ean": "7897975695132",
-			"name": "Derma Complex Concentrado Vitamina C 20 15ml",
-			"skuName": "15ml",
+			"uniqueId": "A7FF781051A7418BA734287F642E9E70",
+			"id": "2000464",
+			"productId": "2000403",
+			"productRefId": "",
+			"refId": "30000",
+			"ean": "wer",
+			"name": "Produto Teste C1",
+			"skuName": "Produto Teste C1",
 			"modalType": null,
 			"parentItemIndex": null,
 			"parentAssemblyBinding": null,
 			"assemblies": [],
 			"tax": 0,
 			"priceDefinitions": null,
-			"price": 13500,
-			"listPrice": 13500,
+			"price": 4000,
+			"listPrice": 4000,
 			"manualPrice": null,
 			"manualPriceAppliedBy": null,
-			"sellingPrice": 13500,
+			"sellingPrice": 4000,
 			"skuSpecifications": null,
 			"orderRewardStatus": null,
 			"rewardValue": 0,
 			"isGift": false,
 			"preSaleDate": null,
-			"productCategoryIds": "/1000001/1000028/",
+			"productCategoryIds": "/1000024/1000042/",
 			"productCategories": {
-				"1000001": "Tratamento Facial",
-				"1000028": "Anti-Idade"
+				"1000024": "Tratamento Capilar",
+				"1000042": "Restauração"
 			},
 			"quantity": 1,
-			"seller": "1",
+			"seller": "adcossp4007morumbi",
 			"sellerChain": [
-				"1"
+				"adcossp4007morumbi"
 			],
-			"imageUrl": "http://lojaadcos.vteximg.com.br/arquivos/ids/160811-90-90/Derma-Complex-Concentrado-de-Vitamina-C-20-15ml.jpg?v=637170249878330000",
-			"detailUrl": "/derma-complex-concentrado-vitaminac-20/p",
+			"imageUrl": "http://lojaadcos.vteximg.com.br/arquivos/ids/162118-90-90/Produto-Teste.png?v=637532564667330000",
+			"detailUrl": "/produto-teste-volume/p",
 			"components": [],
 			"bundleItems": [],
 			"attachments": [],
@@ -78,16 +78,16 @@
 			"availability": "available",
 			"measurementUnit": "un",
 			"unitMultiplier": 1,
-			"manufacturerCode": "9513"
+			"manufacturerCode": ""
 		}
 	],
 	"sellers": [
 		{
 			"subSellerId": "1",
-			"fulfillmentEndpoint": "http://fulfillment.vtexcommerce.com.br/api/fulfillment?sc=1&an=adcos",
-			"id": "1",
-			"name": "Adcos",
-			"logo": ""
+			"fulfillmentEndpoint": "http://fulfillment.vtexcommerce.com.br/api/fulfillment?affiliateid=SLR&sc=1&an=adcossp4007morumbi",
+			"id": "adcossp4007morumbi",
+			"name": "adcossp4007morumbi",
+			"logo": null
 		}
 	],
 	"giftRegistryData": null,
@@ -96,31 +96,31 @@
 	"marketPlaceOrderId": "",
 	"marketPlaceOrderGroup": null,
 	"marketplaceServicesEndpoint": null,
-	"orderFormId": "e276d11c64314230a0964b0ebc776cb6",
-	"sequence": "2646978",
+	"orderFormId": "fdb810f2396449a5b46aac24086d704d",
+	"sequence": "2656928",
 	"affiliateId": "",
 	"status": "",
 	"callCenterOperator": "",
-	"userProfileId": "d32e5598-5313-456c-a51e-c1f7b5eaf68c",
+	"userProfileId": "b605dc93-cb6f-4213-8632-603784548e82",
 	"hostName": "adcos",
 	"creationVersion": null,
 	"creationEnvironment": null,
 	"lastChangeVersion": null,
 	"workflowInstanceId": null,
 	"marketplacePaymentValue": null,
-	"orderId": "v2646978adcs-01",
-	"orderGroup": "v2646978adcs",
+	"orderId": "v2656928adcs-01",
+	"orderGroup": "v2656928adcs",
 	"state": "payment-approved",
 	"isCheckedIn": false,
-	"sellerOrderId": "00-v2646978adcs-01",
+	"sellerOrderId": "SLR-v2656928adcs-01",
 	"storeId": null,
 	"checkedInPickupPointId": null,
-	"value": 14283,
+	"value": 4800,
 	"totals": [
 		{
 			"id": "Items",
 			"name": "Total dos Itens",
-			"value": 13500
+			"value": 4000
 		},
 		{
 			"id": "Discounts",
@@ -130,7 +130,7 @@
 		{
 			"id": "Shipping",
 			"name": "Total do Frete",
-			"value": 783
+			"value": 800
 		},
 		{
 			"id": "Tax",
@@ -139,19 +139,19 @@
 		}
 	],
 	"clientProfileData": {
-		"email": "73c6d966e4614a8197b2e08211833f9f@ct.vtex.com.br",
-		"firstName": "Silas",
-		"lastName": "Schiotti",
-		"document": "32954397888",
+		"email": "ae0377df04924c1c94028a7f1472ca46@ct.vtex.com.br",
+		"firstName": "Paulo",
+		"lastName": "teste",
+		"document": "26211269870",
 		"documentType": "cpf",
-		"phone": "+5512982517864",
+		"phone": "+551120902660",
 		"corporateName": null,
 		"tradeName": null,
 		"corporateDocument": null,
-		"stateInscription": null,
+		"stateInscription": "",
 		"corporatePhone": null,
 		"isCorporate": false,
-		"profileCompleteOnLoading": true,
+		"profileCompleteOnLoading": false,
 		"profileErrorOnLoading": false,
 		"customerClass": null
 	},
@@ -171,52 +171,52 @@
 	"shippingData": {
 		"address": {
 			"addressType": "residential",
-			"receiverName": "Silas Schiotti",
-			"addressId": "0565c5dbece949658b2f7660d4086ca4",
+			"receiverName": "Paulo teste",
+			"addressId": "1617769458923",
 			"isDisposable": false,
-			"postalCode": "12243-081",
-			"city": "São José dos Campos",
+			"postalCode": "04707-900",
+			"city": "São Paulo",
 			"state": "SP",
 			"country": "BRA",
-			"street": "Avenida Jorge Zarur",
-			"number": "330",
-			"neighborhood": "Vila Ema",
-			"complement": "65 B",
+			"street": "Avenida Roque Petroni Júnior (Condomínio Morumbi Shopping)",
+			"number": "32",
+			"neighborhood": "Jardim das Acácias",
+			"complement": "teste",
 			"reference": null,
 			"geoCoordinates": [
-				-45.8982048034668,
-				-23.209230422973633
+				-46.698822021484375,
+				-23.6234073638916
 			]
 		},
 		"logisticsInfo": [
 			{
 				"itemIndex": 0,
-				"selectedSla": "Transportadora",
+				"selectedSla": "Transportadora Shop.Morumbi",
 				"selectedDeliveryChannel": "delivery",
-				"addressId": "0565c5dbece949658b2f7660d4086ca4",
+				"addressId": "1617769458923",
 				"slas": [
 					{
-						"id": "Transportadora",
+						"id": "Transportadora Shop.Morumbi",
 						"deliveryChannel": "delivery",
-						"name": "Transportadora",
+						"name": "Transportadora Shop.Morumbi",
 						"deliveryIds": [
 							{
-								"courierId": "1b379a8",
-								"warehouseId": "1_1",
-								"dockId": "1_1_1",
-								"courierName": "TotalExpress01",
+								"courierId": "1049121",
+								"warehouseId": "1dfc20f",
+								"dockId": "1c0754a",
+								"courierName": "Transportadora",
 								"quantity": 1,
 								"kitItemDetails": [],
 								"totalListPrice": 0
 							}
 						],
-						"shippingEstimate": "10bd",
-						"shippingEstimateDate": "2021-04-13T05:06:49.3494063Z",
-						"lockTTL": "10d",
+						"shippingEstimate": "2bd",
+						"shippingEstimateDate": "2021-04-09T04:36:49.484464Z",
+						"lockTTL": "12d",
 						"availableDeliveryWindows": [],
 						"deliveryWindow": null,
-						"price": 783,
-						"listPrice": 783,
+						"price": 800,
+						"listPrice": 800,
 						"tax": 0,
 						"pickupStoreInfo": {
 							"isPickupStore": false,
@@ -226,16 +226,20 @@
 							"dockId": null
 						},
 						"pickupPointId": null,
-						"pickupDistance": 0,
+						"pickupDistance": null,
 						"polygonName": null,
-						"transitTime": "3bd"
+						"transitTime": "1bd"
 					}
 				],
 				"shipsTo": [
 					"BRA"
 				],
-				"itemId": "2000466",
+				"itemId": "2000464",
 				"deliveryChannels": [
+					{
+						"id": "pickup-in-point",
+						"stockBalance": 0
+					},
 					{
 						"id": "delivery",
 						"stockBalance": 0
@@ -246,112 +250,171 @@
 		"selectedAddresses": [
 			{
 				"addressType": "residential",
-				"receiverName": "Silas Schiotti",
-				"addressId": "0565c5dbece949658b2f7660d4086ca4",
+				"receiverName": "Paulo teste",
+				"addressId": "1617769458923",
 				"isDisposable": false,
-				"postalCode": "12243-081",
-				"city": "São José dos Campos",
+				"postalCode": "04707-900",
+				"city": "São Paulo",
 				"state": "SP",
 				"country": "BRA",
-				"street": "Avenida Jorge Zarur",
-				"number": "330",
-				"neighborhood": "Vila Ema",
-				"complement": "65 B",
+				"street": "Avenida Roque Petroni Júnior (Condomínio Morumbi Shopping)",
+				"number": "32",
+				"neighborhood": "Jardim das Acácias",
+				"complement": "teste",
 				"reference": null,
 				"geoCoordinates": [
-					-45.8982048034668,
-					-23.209230422973633
+					-46.698822021484375,
+					-23.6234073638916
 				]
 			}
 		],
 		"availableAddresses": [
 			{
 				"addressType": "residential",
-				"receiverName": "Silas Schiotti",
-				"addressId": "0565c5dbece949658b2f7660d4086ca4",
+				"receiverName": "Paulo teste",
+				"addressId": "1617769458923",
 				"isDisposable": false,
-				"postalCode": "12243-081",
-				"city": "São José dos Campos",
+				"postalCode": "04707-900",
+				"city": "São Paulo",
 				"state": "SP",
 				"country": "BRA",
-				"street": "Avenida Jorge Zarur",
-				"number": "330",
-				"neighborhood": "Vila Ema",
-				"complement": "65 B",
+				"street": "Avenida Roque Petroni Júnior (Condomínio Morumbi Shopping)",
+				"number": "32",
+				"neighborhood": "Jardim das Acácias",
+				"complement": "teste",
 				"reference": null,
 				"geoCoordinates": [
-					-45.8982048034668,
-					-23.209230422973633
+					-46.698822021484375,
+					-23.6234073638916
 				]
 			}
 		],
-		"pickupPoints": []
+		"pickupPoints": [
+			{
+				"friendlyName": "Morumbi Shopping",
+				"address": {
+					"addressType": "pickup",
+					"receiverName": null,
+					"addressId": "46e03585-b197-422a-84a2-3f4989952099",
+					"isDisposable": true,
+					"postalCode": "04707-000",
+					"city": "São Paulo",
+					"state": "SP",
+					"country": "BRA",
+					"street": "Avenida Roque Petroni Júnior",
+					"number": "1089",
+					"neighborhood": "Vila Gertrudes",
+					"complement": "Loja 225",
+					"reference": null,
+					"geoCoordinates": [
+						-46.68819,
+						-23.62623
+					]
+				},
+				"additionalInfo": "",
+				"id": "adcossp4007morumbi_46e03585-b197-422a-84a2-3f4989952099",
+				"businessHours": [
+					{
+						"DayOfWeek": 0,
+						"OpeningTime": "14:00:00",
+						"ClosingTime": "20:00:00"
+					},
+					{
+						"DayOfWeek": 1,
+						"OpeningTime": "10:00:00",
+						"ClosingTime": "22:00:00"
+					},
+					{
+						"DayOfWeek": 2,
+						"OpeningTime": "10:00:00",
+						"ClosingTime": "22:00:00"
+					},
+					{
+						"DayOfWeek": 3,
+						"OpeningTime": "10:00:00",
+						"ClosingTime": "22:00:00"
+					},
+					{
+						"DayOfWeek": 4,
+						"OpeningTime": "10:00:00",
+						"ClosingTime": "22:00:00"
+					},
+					{
+						"DayOfWeek": 5,
+						"OpeningTime": "10:00:00",
+						"ClosingTime": "22:00:00"
+					},
+					{
+						"DayOfWeek": 6,
+						"OpeningTime": "10:00:00",
+						"ClosingTime": "22:00:00"
+					}
+				]
+			}
+		]
 	},
 	"paymentData": {
 		"giftCards": [],
 		"transactions": [
 			{
 				"isActive": true,
-				"transactionId": "F88D357C4E084AE5A62602D565B4A425",
+				"transactionId": "107C4E6C56EC4AAEAB72748E7CFA7BAA",
 				"merchantName": "ADCOS",
 				"payments": [
 					{
-						"id": "72A71379FE6E49FDA0068A110200D4FF",
+						"id": "B4D606311C2E4C8E86F0E0F7477233FE",
 						"paymentSystem": "4",
 						"paymentSystemName": "Mastercard",
-						"value": 14283,
+						"value": 4800,
 						"installments": 1,
 						"connectorResponses": {
-							"Tid": "10605430170VMGM9JQ5E",
+							"Tid": "10605430170VTVJ4GUTE",
 							"ReturnCode": "0",
 							"Message": "Sucesso",
-							"authId": "440753",
-							"Nsu": "018532",
-							"Arp": "440753",
+							"authId": "089403",
+							"Nsu": "020644",
+							"Arp": "089403",
 							"eci": "0",
 							"lr": "00"
 						},
-						"referenceValue": 14283,
+						"referenceValue": 4800,
 						"cardHolder": null,
 						"cardNumber": null,
-						"firstDigits": "522688",
-						"lastDigits": "1266",
+						"firstDigits": "531681",
+						"lastDigits": "3714",
 						"cvv2": null,
 						"expireMonth": null,
 						"expireYear": null,
 						"url": null,
 						"koinUrl": null,
-						"tid": "10605430170VMGM9JQ5E",
+						"tid": "10605430170VTVJ4GUTE",
 						"redemptionCode": null,
 						"giftCardId": null,
 						"giftCardProvider": null,
 						"giftCardAsDiscount": null,
 						"group": "creditCard",
 						"dueDate": null,
-						"accountId": "7FADBC7BD5F349B78DBDE0F0858981C6",
-						"parentAccountId": "7FADBC7BD5F349B78DBDE0F0858981C6",
+						"accountId": "EE97689B54D2451AA94A96E6E800D573",
+						"parentAccountId": null,
 						"bankIssuedInvoiceIdentificationNumber": null,
 						"bankIssuedInvoiceIdentificationNumberFormatted": null,
 						"bankIssuedInvoiceBarCodeNumber": null,
 						"bankIssuedInvoiceBarCodeType": null,
 						"billingAddress": {
-							"addressType": "residential",
-							"receiverName": "Silas Schiotti",
-							"addressId": "0565c5dbece949658b2f7660d4086ca4",
+							"addressType": null,
+							"receiverName": null,
+							"addressId": null,
 							"isDisposable": false,
-							"postalCode": "12243-081",
-							"city": "São José dos Campos",
+							"postalCode": "03556050",
+							"city": "São Paulo",
 							"state": "SP",
 							"country": "BRA",
-							"street": "Avenida Jorge Zarur",
-							"number": "330",
-							"neighborhood": "Vila Ema",
-							"complement": "65 B",
+							"street": "Praça Padre Léo Morin",
+							"number": "264",
+							"neighborhood": "Cidade Patriarca",
+							"complement": "",
 							"reference": null,
-							"geoCoordinates": [
-								-45.8982048034668,
-								-23.209230422973633
-							]
+							"geoCoordinates": []
 						}
 					}
 				],
@@ -361,19 +424,10 @@
 	},
 	"clientPreferencesData": {
 		"locale": "pt-BR",
-		"optinNewsLetter": true
+		"optinNewsLetter": false
 	},
 	"commercialConditionData": null,
-	"marketingData": {
-		"utmSource": "Google",
-		"utmMedium": null,
-		"utmCampaign": null,
-		"utmipage": "",
-		"utmiPart": "",
-		"utmiCampaign": "",
-		"coupon": null,
-		"marketingTags": []
-	},
+	"marketingData": null,
 	"storePreferencesData": {
 		"countryCode": "BRA",
 		"saveUserData": false,
@@ -398,11 +452,11 @@
 	"changeData": null,
 	"subscriptionData": null,
 	"salesChannel": "1",
-	"followUpEmail": "4699075fd3b2497c9205f5635846a1d6@ct.vtex.com.br",
-	"creationDate": "2021-03-30T05:06:29.729055Z",
-	"lastChange": "2021-03-30T05:06:51.1617842Z",
-	"timeZoneCreationDate": "2021-03-30T02:06:29.729055",
-	"timeZoneLastChange": "2021-03-30T02:06:51.1617842",
+	"followUpEmail": "a0f1cad11add4beaaed2b22b4c97c94d@ct.vtex.com.br",
+	"creationDate": "2021-04-07T04:35:28.2651633Z",
+	"lastChange": "2021-04-07T04:36:58.4887426Z",
+	"timeZoneCreationDate": "2021-04-07T01:35:28.2651633",
+	"timeZoneLastChange": "2021-04-07T01:36:58.4887426",
 	"isCompleted": true,
 	"merchantName": null,
 	"userType": "",
