@@ -250,7 +250,7 @@ helpers.richShippingData = function( context, options ) {
 					d = d.substring( 0, d.length - 2 );
 					dType = 'bd';
 				}
-				item.packageId = sla.id + sla.shippingEstimateDate + sla.shippingEstimate;
+				item.packageId = sla.id + sla.shippingEstimateDate + sla.shippingEstimate + 1;
 				item.shippingEstimateDays = d;
 				item.shippingEstimateDaysType = dType;
 				item.shippingEstimate = sla.shippingEstimate;

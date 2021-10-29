@@ -244,7 +244,6 @@ gulp.task(
 		'clean:css',
 		'clean:html',
 		'add-css-important',
-		'remove-css',
 		'copy-dist',
 		'clean:temp',
 	] )
